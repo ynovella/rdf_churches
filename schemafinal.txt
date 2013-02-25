@@ -1,0 +1,49 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix megachurches: <http://vocab.inf.ed.ac.uk/megachurches#> .
+@prefix url: <http://purl.org/dc/dcmitype/> .
+@prefix places: <http://purl.org/ontology/places#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix db: <http://live.dbpedia.org/ontology/> .
+@prefix w3org: <http://www.w3.org/ns/org#> .
+megachurches: a owl:Ontology;
+	rdfs:label "USA Megachurches Vocabulary";
+	rdfs:comment """A Vocabulary about the large USA churches.""";
+	dc:creator [ a foaf:Person;
+		foaf:name "Yannick Novella";
+	], [ a foaf:Person;
+		foaf:name "Stanislav Ganin";
+	], [ a foaf:Person;
+		foaf:name "Dora Popova"
+	].
+	
+megachurches:Megachurch a owl:Class.
+
+megachurches:name a rdfs:Property;
+	rdfs:domain megachurches:Megachurch;
+	rdfs:range foaf:name;
+	rdfs:label "churchname" .
+megachurches:senior_minister a rdfs:Property;
+	rdfs:domain megachurches:Megachurch;
+	rdfs:label "name of senior minister" .
+megachurches:identifier a rdfs:Property;
+	rdfs:domain megachurches:Megachurch;
+	rdfs:range url:InteractiveResource;
+	rdfs:label "web page address" .
+megachurches:city a rdfs:Property;
+	rdfs:domain megachurches:Megachurch;
+	rdfs:range places:City;
+	rdfs:label "city" .
+megachurches:state a rdfs:Property;
+	rdfs:domain megachurches:Megachurch;
+	rdfs:range places:state;
+	rdfs:label "state" .
+megachurches:weeklyAttendance a rdfs:Property;
+	rdfs:domain megachurches:Megachurch;
+	rdfs:label "average number of people attending the church weekly" .
+megachurches:denomination a rdfs:Property;
+	rdfs:domain megachurches:Megachurch;
+	rdfs:label "denomination" .

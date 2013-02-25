@@ -31,13 +31,14 @@ class Schemar(object):
 		w.write ("@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .\n")
 		w.write ("@prefix foaf: <http://xmlns.com/foaf/0.1/> .\n")
 		w.write ("@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n")
-		w.write ("@prefix dbpage: <http://live.dbpedia.org/page/>.\n")
-		w.write ("@prefix places: <http://purl.or/ontology/places/> .\n")
+		w.write ("@prefix places: <http://purl.org/ontology/places#> .\n")
 		w.write ("@prefix usgov: <http://www.rdfabout.com/rdf/usgov/geo/>.\n")
 		w.write ("@prefix db: <http://dbpedia.org/ontology/> .\n")
 		w.write ("@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .\n")
-		w.write ("@prefix url: <http://purl.org/dc/dcmitype/InteractiveResource/> .\n")
+		w.write ("@prefix url: <http://purl.org/dc/dcmitype/> .\n")
 		w.write ("@prefix dc: <http://purl.org/dc/elements/1.1/> .\n")
+		w.write("@prefix owl: <http://www.w3.org/2002/07/owl#> .\n")
+
 		for line in text:
 			
 			id=id+1
@@ -45,17 +46,21 @@ class Schemar(object):
 			self.data.append(triple)
 			num=str(triple[5])
 			denom=self.denominations[triple[len(triple)-1]]
-			name=triple[2].split(' ')
-			firstname=' '.join(name[:-1]) # fix the russel J Levenson Jr. problem
-			lastname=str(name[len(name)-1])
-			someline="<http://vocab.inf.ed.ac.uk/megachurches#"+str(id)+">"+" foaf:name "+"\""+ triple[1]+"\""+";"+"\n"+\
-			"\t"+"megachurches:senior_minister "+\
-			"[ foaf:givenName " +"\""+firstname +"\""+" ;"+\
-			" foaf:familyName "+"\""+ lastname+"\""+".] ; \n"+\
-			"\t"+"dc:identifier "+ "\""+triple[0]+"\""+" ; \n"+\
-			"\t"+"db:City "+ "\""+str(triple[3])+"\""+" ; \n"+"\t"+ "usgov:states "+ "\""+str(triple[4])+"\""+" ; \n"+\
-			"\t"+ "megachurches:weeklyAttendance " + "\""+num +"\""+" ; \n"+\
-			"\t"+"db:denomination " + "\""+denom+"\""+" . \n"
+			#name=triple[2].split(' ')
+			#firstname=' '.join(name[:-1]) # fix the russel J Levenson Jr. problem
+			#lastname=str(name[len(name)-1])
+			#someline="megachurches:"+str(id)+" foaf:name "+"\""+ triple[1]+"\""+";"+"\n"+\
+			someline="megachurches:"+str(id)+" a megachurches:Megachurch ; \n" +\
+			"\t"+"megachurches:name \"" + triple[1]+"\" ; \n "+ \
+			"\t"+"megachurches:identifier" +" \""+triple[0]+"\""+" ; \n"+\
+			"\t"+"megachurches:city "+ "\""+str(triple[3])+"\""+" ; \n"+"\t"+\
+			 "megachurches:state "+ "\""+str(triple[4])+"\""+" ; \n"+\
+			"\t"+"megachurches:weeklyAttendance " + "\""+num +"\""+" ; \n"+\
+			"\t"+"megachurches:denomination " + "\""+denom+"\""+" . \n"
+		
+			#"\t"+"megachurches:senior_minister "+\
+			#"[ foaf:givenName " +"\""+firstname +"\""+" ;"+\
+			#" foaf:familyName "+"\""+ lastname+"\""+".] ; \n"+\
 			w.write(someline)
 def main():
 	s=Schemar()
