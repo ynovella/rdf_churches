@@ -1,0 +1,71 @@
+ABC - American Baptist - http://live.dbpedia.org/page/American_Baptist
+AG - Assemblies of God - http://live.dbpedia.org/page/Assemblies_of_God 
+AME - African Methodist Episcopal - http://dbpedia.org/page/African_Methodist_Episcopal_Church
+ANGLICAN - Anglical - http://dbpedia.org/page/Anglican_Church_in_America
+ARC - Alliance of Reformed Churches - http://live.dbpedia.org/page/Reformed_Church_in_America
+BGC - Baptist General Conference - http://dbpedia.org/page/Baptist_General_Conference
+BAPT - Baptist (unspecified) - http://live.dbpedia.org/page/Baptism
+BBF - Bible Baptist Fellowship - http://live.dbpedia.org/page/Baptist_Bible_Fellowship_International
+BRETHREN - Brethren - http://live.dbpedia.org/page/Church_of_the_Brethren
+CAL - Calvary Churches - http://live.dbpedia.org/page/Calvary_Chapel
+CBF - Cooperative Baptist Fellowship - http://dbpedia.org/page/Cooperative_Baptist_Fellowship
+CCCC - Conservative Congregational Christian Conference - http://dbpedia.org/page/Conservative_Congregational_Christian_Conference
+CHRISTIAN - Independent Christian Churches or unspecified - http://dbpedia.org/page/Christianity
+CMA - Christian & Missionary Alliance - http://live.dbpedia.org/resource/Christian_and_Missionary_Alliance
+CME - Christian Methodist Episcopal - http://dbpedia.org/page/Christian_Methodist_Episcopal_Church
+COC - Church of Christ - http://dbpedia.org/page/Church_of_Christ,_Scientist
+COG - Church of God, Cleveland - http://dbpedia.org/page/Church_of_God_(Cleveland,_Tennessee)
+COGA - Church of God, Anderson - http://live.dbpedia.org/page/Church_of_God_(Anderson,_Indiana)
+COGIC - Church of God in Christ - http://live.dbpedia.org/page/Church_of_God_in_Christ
+CONGREG - Congregationalist (unspecified)  - http://live.dbpedia.org/page/Congregational_church
+CRC - Christian Reformed Church - http://dbpedia.org/page/Christian_Reformed_Churches
+DOC - Disciples of Christ - http://live.dbpedia.org/page/Category:Disciples_of_Christ
+EC - Evangelical Covenant - http://dbpedia.org/page/Evangelical_Covenant_Church
+EPIS - Episcopal - http://live.dbpedia.org/page/Episcopal_Church_(United_States) 
+EF - Evangelical Free  - http://dbpedia.org/page/Evangelical_Free_Church_of_America
+ELCA - Evangelical Lutheran Church in America - http://dbpedia.org/page/Evangelical_Lutheran_Church_in_America
+EPC - Evangelical Presbyterian Church - http://dbpedia.org/page/Evangelical_Presbyterian_Church_(United_States)
+EVAN - Evangelical - http://dbpedia.org/page/Evangelical_Free_Church_of_America
+FCA - Fellowship of Christian Assemblies - http://dbpedia.org/page/Fellowship_of_Christian_Assemblies
+4SQ - Four Square - http://dbpedia.org:8890/page/International_Church_of_the_Foursquare_Gospel
+GBA - General Baptist Association - http://live.dbpedia.org/page/American_Baptist_Association
+HOLINESS - Holiness (unspecified) - http://live.dbpedia.org/page/Church_of_God_(Holiness) 
+ICC - International Church of Christ - http://dbpedia.org:8890/page/International_Pentecostal_Church_of_Christ
+IPHC - International Pentecostal Holiness Church - http://dbpedia.org/page/International_Pentecostal_Holiness_Church
+KPCA - Korean Presbyterian Church - http://live.dbpedia.org/page/Presbyterian_Church_of_Korea
+LCMS - Lutheran Church, Missouri Synod - http://live.dbpedia.org/page/Lutheran_Church%E2%80%93Missouri_Synod
+LUTH - Lutheran (unspecified) - http://dbpedia.org/page/Category:Lutheranism_in_North_America
+MCC - Metropolitan Community Church - http://live.dbpedia.org/page/Metropolitan_Community_Church
+MISSBAPT - Missionary Baptist - http://dbpedia.org/page/National_Missionary_Baptist_Convention_of_America
+NBC - National Baptist Convention - http://dbpedia.org/page/National_Missionary_Baptist_Convention_of_America
+NAZ - Church of the Nazarene - http://live.dbpedia.org/page/Church_of_the_Nazarene
+NONDENOM - Independent, Nondenominational  - Independent, Nondenominational00
+PAW - Pentecostal Assemblies of the World - http://live.dbpedia.org/page/Pentecostal_Assemblies_of_the_World
+PAC - Pentecostal Assemblies of Canada - http://dbpedia.org/page/Pentecostal_Assemblies_of_Canada
+PCA - Presbyterian Church of America - http://live.dbpedia.org/page/Presbyterian_Church_in_America
+PCA - Presbyterian Church of America  - http://live.dbpedia.org/page/Presbyterian_Church_in_America
+PCUSA - Presbyterian Church, U.S.A.  - http://live.dbpedia.org/page/Presbyterian_Church_(U.S.A.)
+PENT - Pentecostal (unspecified) - http://live.dbpedia.org/page/Pentecostalism
+PNB - Progressive National Baptist  - http://dbpedia.org/page/Progressive_Baptists
+PRES - Presbyterian (unspecified) - http://live.dbpedia.org/page/Presbyterianism
+QUAKER - Quaker - http://dbpedia.org/page/Quakers
+RCA - Reformed Church in America - http://live.dbpedia.org/page/Reformed_Church_in_America
+RELSCI - Religious Science - http://live.dbpedia.org/page/Religious_Science
+SA - Salvation Army - http://dbpedia.org/page/The_Salvation_Army
+SDA - Seventh-day Adventist - http://dbpedia.org/page/Category:Seventh-day_Adventist_Church
+SBC - Southern Baptist Convention  - http://dbpedia.org/page/Southern_Baptist_Convention
+UMC - United Methodist Church  - http://dbpedia.org/page/United_Methodist_Church
+UCC - United Church of Christ - http://live.dbpedia.org/page/United_Church_of_Christ
+UPCI - United Pentecostal Church International - http://live.dbpedia.org/page/United_Pentecostal_Church_International
+UNITY - Unity - http://live.dbpedia.org/page/Unity_Church	
+UNK - Unknown (unspecified) - Unknown (unspecified)00
+UPC - United Pentecostal Church - http://live.dbpedia.org/page/United_Pentecostal_Church_International
+VINE - Vineyard  - http://live.dbpedia.org/page/Association_of_Vineyard_Churches
+WELS - Wisconsin Evangelical Lutheran Synod - http://live.dbpedia.org/page/Wisconsin_Evangelical_Lutheran_Synod
+WES - Wesleyan - http://live.dbpedia.org/page/Wesleyan_Methodist_Church
+MEN - undefined - Unknown (unspecified)00
+CBA - undefined - Unknown (unspecified)00
+UUA - undefined - Unknown (unspecified)00
+Grace Chapel - undefined - Unknown (unspecified)00
+METH - undefined - Unknown (unspecified)00
+250 - undefined - Unknown (unspecified)00

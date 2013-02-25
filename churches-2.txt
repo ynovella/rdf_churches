@@ -1,0 +1,1626 @@
+http://www.kingwoodchurch.com	Kingwood Church	Jay West	Alabaster	AL	2000	AG\
+http://www.harvestchurchofgod.com	Harvest Church of God	Jerry Irwin	Anniston	AL	2700	COG\
+http://www.lindsaylane.org	Lindsay Lane Baptist Church	Dusty McLemore	Athens	AL	1800	SBC\
+http://www.metrocog.org	Metro Church of God	Mark Schrade	Birmingham	AL	2000	COG\
+http://www.briarwood.org	Briarwood Presbyterian Church	Harry Reeder	Birmingham	AL	3800	PCA\
+http://www.shades.org	Shades Mountain Baptist Church	Danny Wood	Birmingham	AL	2756	SBC\
+http://www.sixthavebaptist.org	Sixth Avenue Baptist Church	Al Sutton	Birmingham	AL	2000	BAPT\
+http://www.newhope2locations.com	New Hope Baptist Church	Gregory Clarke	Birmingham	AL	3000	BAPT\
+http://www.theworshipcentercc.org	The Worship Center Christian Church	Van Moody	Birmingham	AL	2000	NONDENOM\
+http://www.mtcfc.org	More Than Conquerors Faith Church	Steve Green	Birmingham	AL	3000	UNK\
+http://www.mountaintopchurch.com	Mountaintop Community Church	William Elder	Birmingham	AL	2000	NONDENOM\
+http://www.brookhills.org	The Church at Brook Hills	David Platt	Birmingham	AL	4500	SBC\
+http://www.worddome.org	Faith Chapel Christian Center	Michael Moore	Birmingham	AL	3000	UNK\
+http://www.churchofthehighlands.com	Church of the Highlands	Chris Hodges	Birmingham	AL	16300	NONDENOM\
+http://www.dawsonchurch.org	Dawson Memorial Baptist Church	Gary Fenton	Birmingham	AL	2700	SBC\
+http://www.daystarchurch.tv	Daystar Church	Jerry Lawson	Cullman	AL	2000	NONDENOM\
+http://www.calvaryassembly.org	Calvary Assembly	George Sawyer	Decatur	AL	2200	AG\
+http://www.epicchurch.tv	Epicchurch.Tv	IV Marsh	Decatur	AL	2081	NONDENOM\
+http://www.rbcdothan.org	Ridgecrest Baptist Church	Ray Jones	Dothan	AL	2500	SBC\
+http://www.gfbconline.com	Gardendale First Baptist Church	Kevin Hamm	Gardendale	AL	3530	SBC\
+http://www.hunterstreet.org	Hunter Street Baptist Church	James Gray	Hoover	AL	3320	SBC\
+http://www.wbccares.org	Whitesburg Baptist Church	Jimmy Jackson	Huntsville	AL	2500	SBC\
+http://www.unionchapel-hsv.org	Union Chapel MB Church	O. Davis	Huntsville	AL	2000	BAPT\
+http://www.therockfwc.org	The Rock Family Worship Center	Rusty Nelson	Huntsville	AL	2500	NONDENOM\
+http://www.oakwoodcollegechurch.org	Oakwood College Church	Craig Newborn	Huntsville	AL	2000	SDA\
+http://www.mayfair.org	Mayfair Church of Christ	Gary Bradley	Huntsville	AL	1800	COC\
+http://www.willowbrook.org	Willowbrook Baptist Church	Mark Mcclelland	Huntsville	AL	2198	SBC\
+http://www.asburyumcmadison.com	Asbury United Methodist Church	Alan Weatherly	Madison	AL	2500	UMC\
+http://www.christumcmobile.com	Christ United Methodist Church	Jeffery Spiller	Mobile	AL	2095	UMC\
+http://www.frazerumc.org	Frazer United Methodist Church	Tim Thompson	Montgomery	AL	3704	UMC\
+http://www.montgomeryfbc.org	First Baptist Church	Jay Wolf	Montgomery	AL	2500	SBC\
+http://www.daystarfamilychurch.com	Daystar Family Church	Scott Schatzline	Northport	AL	2200	NONDENOM\
+http://www.fbcopelika.com	First Baptist Church Opelika	Steve Scoggins	Opelika	AL	2443	SBC\
+http://www.wordalive.org	Word Alive International Outreach	Kent Mattox	Oxford	AL	3300	NONDENOM\
+http://www.fbcprattville.org	First Baptist Church	Travis Coleman Jr	Prattville	AL	2500	SBC\
+http://www.firsttuscaloosa.org	First Baptist Church	Gil McKee	Tuscaloosa	AL	3000	SBC\
+http://www.changepointalaska.com	ChangePoint	Jay Pullins	Anchorage	AK	3300	NONDENOM\
+http://www.ancbt.org	Anchorage Baptist Temple	Jerry Prevo	Anchorage	AK	2200	BAPT\
+http://www.cschandler.com	Cornerstone Christian Fellowship	Linn Winters	Chandler	AZ	6000	NONDENOM\
+http://www.chandlercc.org	Chandler Christian Church	Roger Storms	Chandler	AZ	2530	CHRISTIAN\
+http://www.sunvalleycc.com	Sun Valley Community Church	Scott Ridout	Gilbert	AZ	5500	NONDENOM\
+http://www.mission68.org	Mission Community Church	Mark Connelly	Gilbert	AZ	2300	UNK\
+http://www.joyonline.org	Community Church of Joy	Walt Kallestad	Glendale	AZ	2050	LUTH\
+http://www.vcfnp.com	Vineyard Christian Fellowship of North Phoenix	Brian Anderson	Glendale	AZ	4100	VINE\
+http://www.palmvalley.org	Palm Valley Community Church	Greg Rohlinger	Litchfield Park	AZ	2500	NONDENOM\
+http://www.kivcc.org	Kingdom in the Valley Christian Church	Reginald Steele	Litchfield Park	AZ	3300	CHRISTIAN\
+http://www.springoflife.org	Spring of Life Christian Church	Kevin Carlson	Mesa	AZ	2100	UNK\
+http://www.cityofgrace.com	City of Grace	Terry Crist	Mesa	AZ	4500	NONDENOM\
+http://www.centralaz.com	Central Christian Church	Cal Jernigan	Mesa	AZ	8411	CHRISTIAN\
+http://www.livingwordonline.org	The Living Word Bible Church	Thomas Anderson	Mesa	AZ	7500	UNK\
+http://www.ccvonline.com	Christ's Church of the Valley	Don Wilson	Peoria	AZ	16641	CHRISTIAN\
+http://www.nccphx.org	Northwest Community Church	Kent Delhousaye	Phoenix	AZ	2500	NONDENOM\
+http://www.phoenixfirst.org	Phoenix First Assembly of God	Tommy &amp; Luke Barnett	Phoenix	AZ	22500	AG\
+http://www.livingstreams.org	Living Streams Church	Mark Buckley	Phoenix	AZ	2000	UNK\
+http://www.calvaryphx.com	Calvary Community Church	Mark Martin	Phoenix	AZ	12000	CAL\
+http://loveinternational.org	Love International Ministries	Juan Ramos	Phoenix	AZ	4200	NONDENOM\
+http://www.pilgrimway.com	Pilgrim Rest Baptist Church	Alexis Thomas	Phoenix	AZ	2200	BAPT\
+http://www.npbc.org	North Phoenix Baptist Church	Dan Yeary	Phoenix	AZ	2350	SBC\
+http://www.riverpraise.com	The River of Life Church	Bryan Pace	Phoenix	AZ	3500	UNK\
+http://www.palmcroft.com	Palmcroft Baptist Church	James Bull	Phoenix	AZ	2000	CBA\
+http://www.cftn.com	Church for the Nations	Michael Maiden	Phoenix	AZ	2400	NONDENOM\
+http://www.heightschurch.com	The Heights Church	Lee Wiggins	Prescott	AZ	3000	CBA\
+http://www.calvaryprescott.com	Calvary Chapel of Prescott	Al James	Prescott	AZ	2000	CAL\
+http://www.scottsdalebible.com	Scottsdale Bible Church	Jamie Rasmussen	Scottsdale	AZ	7100	NONDENOM\
+http://www.lacasadecristo.com	La Casa de Cristo Lutheran Church	Andrew Garman	Scottsdale	AZ	2000	LUTH\
+http://www.northscottsdalechristian.com	North Scottsdale Christian	David Friend	Scottsdale	AZ	2000	AG\
+http://www.highlandschurch.org	Highlands Church	Les Hughey	Scottsdale	AZ	3500	NONDENOM\
+http://www.parkwaychristianchurch.com	Parkway Christian Church	Trent Renner	Surprise	AZ	1900	UNK\
+http://www.radiantchurch.com	Radiant Church	Greg Marquart	Surprise	AZ	6359	AG\
+http://www.graceaz.com	Grace Community Church	Darryl DelHousaye	Tempe	AZ	1800	NONDENOM\
+http://www.redemptionaz.com	Redemption Church	Tyler Johnson	Tempe	AZ	4500	NONDENOM\
+http://www.calvarytucson.org	Calvary Tucson	Robert Furrow	Tucson	AZ	5000	NONDENOM\
+http://www.pccwired.org	Pantano Christian Church	Glen Elliott	Tucson	AZ	2455	CHRISTIAN\
+http://www.ccctucson.org	Christ Community Church	Steve Ingino	Tucson	AZ	2200	NONDENOM\
+http://www.casaschurch.org	Casas Church	Glenn Barteau	Tucson	AZ	2100	SBC\
+http://www.faithtucson.org	Faith Community Church	Bruce Brock	Tucson	AZ	2500	NONDENOM\
+http://www.vwcaz.org	Victory Worship Center	Zane Anderson	Tucson	AZ	2500	UNK\
+http://www.tucsonvictory.org	Victory Assembly	Zane Anderson	Tucson	AZ	5000	AG\
+http://www.fellowshiponline.com	Fellowship Bible Church	Mark Henry	Benton	AR	6000	NONDENOM\
+http://www.fbcbentonville.org	First Baptist Church	Phillip Smith	Bentonville	AR	2200	SBC\
+http://www.newlifechurch.tv	New Life Church	Rick Bezet	Conway	AR	7500	UNK\
+http://www.harvesttime.net	Harvest Time	Kemp Holden	Fort Smith	AR	2200	NONDENOM\
+http://www.brandnewchurch.com	Brand New Church	Shannon O'Dell	Harrison	AR	3000	UNK\
+http://www.centralbaptist.com	Central Baptist Church	Archie Mason	Jonesboro	AR	2604	SBC\
+http://www.firstbaptistjonesboro.org	First Baptist Church	Bruce Tippit	Jonesboro	AR	2000	SBC\
+http://www.gsfbc.org	Geyer Springs First Baptist Church	Jeff Williams	Little Rock	AR	2500	SBC\
+http://www.ibclr.org	Immanuel Baptist Church	Gary Hollingsworth	Little Rock	AR	2500	BAPT\
+http://www.fbclr.com	Fellowship Bible Church	Brandon Bernard	Little Rock	AR	4000	NONDENOM\
+http://www.churchatrockcreek.com	Church at Rock Creek	Mark Evans	Little Rock	AR	2000	NONDENOM\
+http://www.smark.org	Saint Mark Baptist Church	Steven Arnold	Little Rock	AR	3000	UNK\
+http://www.centralbaptist.com	Central Baptist Church	Archie Mason	Marked Tree	AR	2300	SBC\
+http://www.firstnlr.com	First Assembly of God	Rod Loy	North Little Rock	AR	3270	AG\
+http://www.fellowshipnwa.org	Fellowship Northwest Arkansas	Robert Cupp	Rogers	AR	7100	UNK\
+http://www.downtownchurch.org	Downtown Church of Christ	David Matthews	Searcy	AR	2000	COC\
+http://www.crosschurch.com	Cross Church	Ronnie Floyd	Springdale	AR	6528	SBC\
+http://www.newlifeinfo.com	New Life Church	Doug Heisel	Alamo	CA	2150	AG\
+http://www.coasthillschurch.org	Coast Hills Community Church	Ken Baugh	Aliso Viejo	CA	4000	NONDENOM\
+http://www.hillsideministry.org	Hillside Community Church	Dave Burns	Alta Loma	CA	2000	ABC\
+http://www.anaheim.solidlives.com	The Rock	Jerry Dirmann	Anaheim	CA	3000	4SQ\
+http://www.kacc.com	Knott Avenue Christian Church	Shane Womack	Anaheim	CA	2208	CHRISTIAN\
+http://www.sarang.com	Sarang Community Church	Daniel Kim	Anaheim	CA	8000	PCA\
+http://www.twinlakeschurch.com	Twin Lakes Baptist Church	Rene Schlaepfer	Aptos	CA	3500	SBC\
+http://www.abcchurch.org	Atascadero Bible Church	Thomas Ferrell	Atascadero	CA	3000	NONDENOM\
+http://www.valleybaptist.org	Valley Baptist Church	Roger Spradlin &amp; Phil Neighbors	Bakersfield	CA	3266	SBC\
+http://www.riverlakeschurch.org	Riverlakes Community Church	Steve Downs	Bakersfield	CA	2000	UNK\
+http://thebridgebiblechurch.com	The Bridge Bible Church	Jeff Gowling	Bakersfield	CA	2100	NONDENOM\
+http://www.vbf.org	Valley Bible Fellowship	Ron Vietti	Bakersfield	CA	10500	UNK\
+http://www.bakersfieldnlc.org	New Life Center	James Ranger	Bakersfield	CA	2000	4SQ\
+http://www.bonitavalley.com	Bonita Valley Community Church	Jeffrey Brawner	Bonita	CA	2100	AG\
+http://www.goldenhills.org	Golden Hills Community Church	Larry Adams	Brentwood	CA	4000	BGC\
+http://www.calvarybiblechurch.org	Calvary Bible Church	Jack Hughes	Burbank	CA	2600	NONDENOM\
+http://www.capocalvary.com	Capo Beach Calvary	Craig Whittaker	Capistrano Beach	CA	2200	NONDENOM\
+http://www.northcoastcalvary.org	North Coast Calvary Chapel	Mark Foreman	Carlsbad	CA	6000	NONDENOM\
+http://realitycarpinteria.com	Reality	Britt Merrick	Carpinteria	CA	3000	NONDENOM\
+http://www.missionebenezer.com	Mission Eben Ezer Family Church	Isaac Canales	Carson	CA	2750	AG\
+http://www.rockypeak.org	The Church at Rocky Peak	Michael Yearley	Chatsworth	CA	2000	NONDENOM\
+http://www.calvaryccv.org	Calvary Chapel Chino Valley	David Rosales	Chino	CA	8300	CAL\
+http://www.inlandhillschurch.com	Inland Hills Church	David Stoecklein	Chino	CA	3001	AG\
+http://www.eastlakechurch.com	EastLake Church	Mike Meeks	Chula Vista	CA	5200	NONDENOM\
+http://www.northsidechurch.com	Northside Christian Church	David Rutherford	Clovis	CA	2600	CHRISTIAN\
+http://www.calvarytemple1.org	Calvary Temple	Fred Franks	Concord	CA	2150	AG\
+http://www.southhills.org	South Hills Church	Chris Sonksen	Corona	CA	2500	NONDENOM\
+http://www.crossroadschurch.com	Crossroads Christian Church	Chuck Booher	Corona	CA	8450	CHRISTIAN\
+http://www.thecrossing.com	The Crossing	Tim Celek	Costa Mesa	CA	2000	NONDENOM\
+http://www.rockharbor.org	RockHarbor Church	Todd Proctor	Costa Mesa	CA	5000	NONDENOM\
+http://www.covinaag.org	Covina Assembly of God	John Johnson	Covina	CA	2000	AG\
+http://www.agapelive.com	Agape International Center for Truth	Michael Beckwith	Culver City	CA	2500	RELSCI\
+http://www.seacoastgrace.org	Seacoast Grace Church	Doyle Surratt	Cypress	CA	3290	NONDENOM\
+http://www.calvarygs.org	Calvary Chapel Golden Springs	Raul Ries	Diamond Bar	CA	12000	CAL\
+http://www.llamadafinal.com	Ministerios Llamada Final	Otto Rene Azurdia	Downey	CA	3500	NONDENOM\
+http://ccdowney.com	Calvary Chapel	Jeff Johnson	Downey	CA	9000	CAL\
+http://www.caeaglerock.com	Christian Assembly Foursquare Church	Tom Hughes	Eagle Rock	CA	2600	4SQ\
+http://www.foothillschurch.org	Foothills Christian Fellowship	Mark Hoffman	El Cajon	CA	2500	NONDENOM\
+http://www.shadowmountain.org	Shadow Mountain Community Church	David Jeremiah	El Cajon	CA	7177	SBC\
+http://rollhillchurch.com	Rolling Hills Christian Church	Bill Search	El Dorado Hills	CA	2103	CHRISTIAN\
+http://www.fbceg.org	First Baptist Church of Elk Grove	Jason Whalen	Elk Grove	CA	3300	ABC\
+http://www.goharvest.org	Harvest Church	Perry Kallevig	Elk Grove	CA	2200	AG\
+http://therockchurch.org	The Rock Church of Sacramento	Myles Young	Elk Grove	CA	2000	PENT\
+http://www.efcc.org	Emmanuel Faith Community Church	Dennis Keating	Escondido	CA	6500	NONDENOM\
+http://www.mountcalvarychurch.org	Mount Calvary Baptist Church	Claybon Lea	Fairfield	CA	3800	SBC\
+http://www.lakesidechurch.com	Lakeside Church	Brad Franklin	Folsom	CA	3000	UNK\
+http://www.wateroflifecc.org	Water of Life Community Church	Dan Carroll	Fontana	CA	6000	NONDENOM\
+http://www.cornerstonefresno.com	Cornerstone Church	Jim Franklin	Fresno	CA	3000	AG\
+http://www.vccfresno.org	Valley Christian Center Church	Bill Chaney	Fresno	CA	1800	4SQ\
+http://www.thewellcommunity.org	The Well Community Church	Brad Bell	Fresno	CA	3800	NONDENOM\
+http://www.peopleschurch.org	Peoples Church	Dale Oquist	Fresno	CA	4500	NONDENOM\
+http://www.newcov.com	New Covenant Community Church	Jan Van Oosten	Fresno	CA	1900	BGC\
+http://www.thebridgefresno.com	The Bridge	Scott Hansen	Fresno	CA	2000	EF\
+http://www.nwc.org	Northwest Church	Will Stoll	Fresno	CA	1800	BGC\
+http://www.gkc.org	Grace Korean Church	Paul Han	Fullerton	CA	4000	UNK\
+http://www.evfreefullerton.com	First Evangelical Free Church of Fullerton	Mel Howell	Fullerton	CA	4500	EF\
+http://www.eastside.com	Eastside Christian Church	Gene Appel	Fullerton	CA	3519	CHRISTIAN\
+http://www.crystalcathedral.org	Crystal Cathedral	Missing	Garden Grove	CA	2000	RCA\
+http://www.ccwg.org	Calvary Chapel Westgrove	Brad Young	Garden Grove	CA	1800	CAL\
+http://www.ccsouthbay.org	Calvary Chapel South Bay	Steve Mays	Gardena	CA	9200	CAL\
+http://www.noeljonesministries.org	City of Refuge Church	Noel Jones	Gardena	CA	10000	UNK\
+http://www.baysideonline.com	Bayside Church	Ray Johnston	Granite Bay	CA	11120	EC\
+http://www.crossroadslive.com	Crossroads Church	Todd Johnson	Grass Valley	CA	2500	UNK\
+http://www.twincitieschurch.com	Twin Cities Community Church	Ron Thompson	Grass Valley	CA	2100	SBC\
+http://www.ibchighland.org	Immanuel Baptist Church	Rob Zinn	Highland	CA	3000	BAPT\
+http://www.fcchb.com	First Christian Church	Bruce Templeton	Huntington Beach	CA	2860	CHRISTIAN\
+http://southwestcc.org	Southwest Community Church	Robert Thune	Indian Wells	CA	4500	EF\
+http://www.destinychurch.tv	Destiny Church	Obed Martinez	Indio	CA	2593	NONDENOM\
+http://www.faithfulcentral.com	Faithful Central Bible Church	Kenneth Ulmer	Inglewood	CA	8000	UNK\
+http://www.bethelchurchirvine.org	Bethel Church	Sam Shin	Irvine	CA	4300	SBC\
+http://www.marinerschurch.org	Mariners Church	Kenton Beshore	Irvine	CA	13465	NONDENOM\
+http://global.newsong.net	NewSong Church	Dave Gibbons	Irvine	CA	2000	EC\
+http://www.lifechurchonline.com	Life Church	Phil Munsey	Irving	CA	2100	NONDENOM\
+http://www.calvarylahabra.org	Calvary Chapel La Habra	Lance Cook	La Habra	CA	2100	CAL\
+http://www.journeycommunitychurch.com	Journey Community Church	Mike Burns	La Mesa	CA	2300	NONDENOM\
+http://www.skylinechurch.org	Skyline Wesleyan Church	Jim Garlow	La Mesa	CA	2500	WES\
+http://www.victoryoutreach.org	Victory Outreach Church	Cruz Arguinzoni	La Puente	CA	2000	UNK\
+http://www.saddleback.com	Saddleback Church	Rick Warren	Lake Forest	CA	18884	SBC\
+http://www.onnurila.com	All Nations Church	Jin Yoo	Lakeview Terrace	CA	2000	UNK\
+http://www.centralchristian.org	Central Christian Church	Dave Prather	Lancaster	CA	2200	NONDENOM\
+http://www.lancasterbaptist.org	Lancaster Baptist Church	Paul Chappell	Lancaster	CA	6000	BAPT\
+http://www.desertvineyard.org	Desert Vineyard Christian Fellowship	David Parker	Lancaster	CA	5000	VINE\
+http://www.cornerstoneweb.org	Cornerstone Fellowship	Steve Madsen	Livermore	CA	5000	NONDENOM\
+http://www.lluc.org	Loma Linda University Church	Randy Roberts	Loma Linda	CA	3800	SDA\
+http://www.campushillchurch.net	Campus Hill Church	Alfonso Valenzuela	Loma Linda	CA	2000	SDA\
+http://www.parkcrest.org	Parkcrest Christian Church	Roger Beard	Long Beach	CA	2500	NONDENOM\
+http://www.gracelb.org	Grace Brethren Church	Louis Huesmann	Long Beach	CA	2000	BRETHREN\
+http://www.cottonwood.org	Cottonwood Christian Center	Bayless and Janet Conley	Los Alamitos	CA	7000	NONDENOM\
+http://www.famechurch.org	First African Methodist Episcopal Church	John Hunter	Los Angeles	CA	10000	AME\
+http://www.bsbc.us	Berendo Street Baptist Church	Sung Park	Los Angeles	CA	2000	BAPT\
+http://www.dreamcenter.org	The Dream Center / Angelus Temple	Matthew Barnett	Los Angeles	CA	8975	4SQ\
+http://www.crenshawchristiancenter.net	Crenshaw Christian Center	Fred Price	Los Angeles	CA	3000	COGA\
+http://www.restauracion.com	Iglesia De Restauracion Inc.	Rene Molina	Los Angeles	CA	4000	EVAN\
+http://www.wardame.com	Ward African Methodist Episcopal Church	Dennis Williams	Los Angeles	CA	8000	AME\
+http://www.omc.org	Oriental Mission Church	Joshua Kang	Los Angeles	CA	3800	CHRISTIAN\
+http://www.westa.org	West Angeles Church of God in Christ	Charles Blake	Los Angeles	CA	13000	COGIC\
+http://www.bishopmcclendon.com	Church of the Harvest	Clarence McClendon	Los Angeles	CA	2000	EVAN\
+http://www.fcbc.org	First Chinese Baptist Church	Benny Wong	Los Angeles	CA	2200	BAPT\
+http://www.bcamechurchla.org	Brookins Community AME Church	Joseph Nixon	Los Angeles	CA	2000	AME\
+http://www.belairpres.org	Bel Air Presbyterian Church	Mark Brewer	Los Angeles	CA	2394	PCUSA\
+http://www.venturechristian.org	Venture Christian Church	Chip Ingram	Los Gatos	CA	3600	NONDENOM\
+http://www.journeyoffaith.com	Journey of Faith	Glen Martin	Manhattan Beach	CA	2000	CBA\
+http://www.crossroadsgrace.org	Crossroads Grace Community Church	Mike Moore	Manteca	CA	1800	NONDENOM\
+http://www.cwcmanteca.com	Christian Worship Center	Steven Perea	Manteca	CA	2000	AG\
+http://www.revival.tv	Revival Christian Fellowship	Gerry Brown	Menifee	CA	6000	NONDENOM\
+http://www.mppcfamily.org	Menlo Park Presbyterian Church	John Ortberg	Menlo Park	CA	3737	PCUSA\
+http://newvisionchurch.org	New Vision Church	David Chinsu Yi	Milpitas	CA	2300	SBC\
+http://www.revivalcentermodesto.com	Revival Center Modesto	Todd Johnson	Modesto	CA	3000	NONDENOM\
+http://www.crosspointmodesto.org	CrossPoint Community Church	Wade Estes	Modesto	CA	2000	BAPT\
+http://www.ctwc.com	Calvary Temple Worship Center	Glen Berteau	Modesto	CA	11778	AG\
+http://www.bvg.org	Big Valley Grace Community Church	Rick Countryman	Modesto	CA	3800	NONDENOM\
+http://ccmodesto.com	Calvary Chapel Modesto	Damian Kyle	Modesto	CA	4000	CAL\
+http://ccmtb.com	Calvary Chapel Montebello	Pancho Juarez	Montebello	CA	2500	CAL\
+http://www.shorelinechurch.org	Shoreline Community Church	Kevin Harney	Monterey	CA	3500	NONDENOM\
+http://www.alcf.net	Abundant Life Christian Fellowship	Hurmon Hamilton	Mountain View	CA	4500	COGA\
+http://www.ccmurrieta.com	Calvary Murietta	Brian Bell	Murietta	CA	2000	CAL\
+http://www.turningthehearts.com	Cornerstone Church of San Diego	Sergio De La Mora	National City	CA	4000	UNK\
+http://www.standrewspres.org	Saint Andrew's Presbyterian Church	Rich Kannwischer	Newport Beach	CA	1833	PCUSA\
+http://www.newharvestnorwalk.com	New Harvest Christian Fellowship	Richard Salazar	Norwalk	CA	2000	UNK\
+http://www.actsfullgospel.org	Acts Full Gospel Church of God In Christ	Bob Jackson	Oakland	CA	6000	COGIC\
+http://www.gspbc.org	Greater Saint Paul Baptist Church	Joseph Simmons	Oakland	CA	5300	NBC\
+http://www.allen-temple.org	Allen Temple Baptist Church	Alfred Smith	Oakland	CA	5500	PNB\
+http://www.newventure.org	New Venture Christian Fellowship	Shawn Mitchell	Oceanside	CA	2001	UNK\
+http://www.calvaryoceanside.org	Calvary Chapel of Oceanside	Mike Reed	Oceanside	CA	2500	CAL\
+http://www.lafamiliadedios.com	Iglesia Cristiana La Familia de Dios	Gerardo Custodio	Ontario	CA	1800	BAPT\
+http://www.stjohnsorange.org	Saint John's Lutheran Church	Tim Klinkenberg	Orange	CA	2000	LUTH\
+http://www.orangehills.net	Orange Hills Assembly of God	Ed Rutherford	Orange Hills	CA	2000	AG\
+http://www.desertchapel.org	Desert Chapel	Fred Donaldson	Palm Springs	CA	3500	NONDENOM\
+http://www.bacc.cc	Bay Area Christian Church	Russ Ewell	Palo Alto	CA	3500	NONDENOM\
+http://www.paradisecma.org	Paradise Alliance Church	Larry Shelton	Paradise	CA	2100	CMA\
+http://www.lakeave.org	Lake Avenue Church	Greg Waybright	Pasadena	CA	5000	UNK\
+http://www.paznaz.org	First Church of the Nazarene	Scott Daniels	Pasadena	CA	2184	NAZ\
+http://www.nlccn.org	New Life Community Church	Ron Salsbury	Pismo Beach	CA	2367	NAZ\
+http://www.newbirthcal.org	New Birth Church	C. Carl Smith	Pittsburg	CA	2000	UNK\
+http://www.riosdeaguavivaupci.com	Iglesia Cristiana Rios De Agua Viva	Mario Oseguera	Pomona	CA	2500	PENT\
+http://www.pomonafirstbaptist.com	Pomona First Baptist Church	Glenn Gunderson	Pomona	CA	4000	ABC\
+http://www.theshepherd.org	Shepherd of the Hills Church	Dudley Rutherford	Porter Ranch	CA	8697	CHRISTIAN\
+http://www.alfconline.com	Abundant Living Family Church	Diego Mesa	Rancho Cucamonga	CA	4000	NONDENOM\
+http://www.lifewaychurchministries.org	Lifeway Church Ministries	Chris Esteves	Rancho Cucamonga	CA	2000	UNK\
+http://www.horizon.org	Horizon Christian Fellowship North County	Bob Botsford	Rancho Santa Fe	CA	4000	NONDENOM\
+http://www.ccrsm.net	Calvary Chapel Rancho Santa Margarita	John Kanno	Rancho Santa Margarita	CA	2000	CAL\
+http://www.ibethel.org	Bethel Church	Bill Johnson	Redding	CA	3500	UNK\
+http://www.ncredding.com	Neighborhood Church of Redding	Bill Giovannetti	Redding	CA	2500	CMA\
+http://www.littlecountrychurch.org	Little Country Church	Bryan Blank	Redding	CA	3800	NONDENOM\
+http://packinghouseredlands.org	The Packinghouse Church	Ed Rea	Redlands	CA	3800	NONDENOM\
+http://www.trinityonline.org	Trinity Evangelical Free Church	Gary Inrig	Redlands	CA	2800	EF\
+http://www.sunrisechurch.org	Sunrise Church	Jay Pankratz	Rialto	CA	5000	CBA\
+http://www.harvest.org	Harvest Christian Fellowship	Greg Laurie	Riverside	CA	12300	NONDENOM\
+http://www.thegrove.cc	The Grove Community Church	Thomas Lance	Riverside	CA	4500	NONDENOM\
+http://www.crosswordchurch.org	Cross Word Christian Church	Lacy Sykes Jr	Riverside	CA	2000	NONDENOM\
+http://www.lifechurchriverside.org	Life Church of God In Christ	Lavette Gibson	Riverside	CA	4500	COGIC\
+http://sandalschurch.com	Sandals Church	Matt Brown	Riverside	CA	3000	NONDENOM\
+http://www.rollinghillscovenant.com	Rolling Hills Covenant Church	Byron MacDonald	Rolling Hills Estates	CA	3000	EC\
+http://www.rockofroseville.org	Rock of Roseville	Francis Anfuso	Roseville	CA	2000	UNK\
+http://adventurechurch.org	Adventure Christian Church	Rick Stedman	Roseville	CA	3659	CHRISTIAN\
+http://www.ccconline.cc	Capital Christian Center	Rick Cole	Sacramento	CA	4150	AG\
+http://www.bossonline.org	Bayside of South Sacramento	Sherwood Carthen	Sacramento	CA	2500	EC\
+http://www.warehouseministries.org	Warehouse Ministry	Louis Neely	Sacramento	CA	4000	NONDENOM\
+http://www.bethanysmc.org	Bethany Slavic Missionary Church	Adam Bodnaruk	Sacramento	CA	5700	NONDENOM\
+http://www.firstcov.org	First Covenant Church	Ted Smith	Sacramento	CA	2000	UNK\
+http://www.stpaulsac.org	Saint Paul Baptist Church	Ephraim Williams	Sacramento	CA	2000	SBC\
+http://www.calvarychristian.com	Calvary Christian Center	Phillip Goudeaux	Sacramento	CA	5500	NONDENOM\
+http://www.arcadebaptist.org	Arcade Baptist Church	Jake Larson	Sacramento	CA	2000	CBA\
+http://www.fpcsalinas.org	First Presbyterian Church	Mike Ladra	Salinas	CA	2400	PCA\
+http://www.newhopesb.org	New Hope Missionary Baptist Church	Robert Fairley	San Bernardino	CA	3400	BGC\
+http://www.rockchurch.com	The Rock Church and World Outreach Center	Jim Cobrae	San Bernardino	CA	14550	NONDENOM\
+http://www.maranathachapel.org	Maranatha Chapel	Ray Bentley	San Diego	CA	6000	NONDENOM\
+http://www.diveintoflood.com	Flood Church	Matt Hammett	San Diego	CA	2200	UNK\
+http://www.victoryoutreachsandiego.org	Victory Outreach Church San Diego	Al Valdez	San Diego	CA	1800	UNK\
+http://www.horizonsd.org	Horizon Christian Fellowship	Mike Macintosh	San Diego	CA	7000	NONDENOM\
+http://www.sdrock.com	The Rock Church	Miles McPherson	San Diego	CA	12324	NONDENOM\
+http://www.newbreak.org	Newbreak	Mike Quinn	San Diego	CA	2171	AG\
+http://www.bayviewbc.org	Bayview Baptist Church	Timothy Winters	San Diego	CA	1800	BAPT\
+http://www.ccvsocal.com	Christ's Church of the Valley	Jeff Vines	San Dimas	CA	4825	CHRISTIAN\
+http://www.glide.org	Glide Memorial United Methodist Church	Karen Oliveto	San Francisco	CA	3000	UMC\
+http://www.bethel.org	Bethel Church of San Jose	Bret Allen	San Jose	CA	2200	AG\
+http://jubilee.org	Jubilee Christian Center	Dick Bernal	San Jose	CA	14000	UNK\
+http://www.westgatechurch.org	WestGate Church	Steve Clifford	San Jose	CA	2100	UNK\
+http://fccchurch.com	Family Community Church	Bill Buchholz	San Jose	CA	3365	AG\
+http://www.cathedraloffaith.org	Cathedral of Faith	Kenny Foreman	San Jose	CA	7000	NONDENOM\
+http://www.faith-fellowship.us	Faith Fellowship Foursquare Church	Gary Mortara	San Leandro	CA	2000	4SQ\
+http://www.templocalvario.com	Templo Calvario Assembly of God	Daniel de Leon	Santa Ana	CA	11000	AG\
+http://www.calvarychapelcostamesa.org	Calvary Chapel of Costa Mesa	Chuck Smith	Santa Ana	CA	9500	CAL\
+http://www.calvarylife.org	Calvary Church of Santa Ana	David Mitchell	Santa Ana	CA	3100	NONDENOM\
+http://www.calvarychapelsb.com	Calvary Chapel	Ricky Ryan	Santa Barbara	CA	2200	CAL\
+http://www.rolcc.net/english/home	River of Life Christian Church	Tong Liu	Santa Clara	CA	2000	NONDENOM\
+http://www.nvbc.org	North Valley Baptist Church	Jack Trieber	Santa Clara	CA	3000	NONDENOM\
+http://www.gracebaptist.org	Grace Baptist Church	David Hegg	Santa Clarita	CA	2300	BGC\
+http://www.santacruzbible.org	Santa Cruz Bible Church	Dave Michelson	Santa Cruz	CA	2000	NONDENOM\
+http://www.sonrise.net	Sonrise Community Baptist Church	Tony Foglio	Santee	CA	2800	BAPT\
+http://www.cornerstonesimi.com	Cornerstone Community Church	Todd Nighswonger	Simi Valley	CA	5000	NONDENOM\
+http://www.clministry.com	Christian Life Center	Nathaniel Haney	Stockton	CA	2600	UPCI\
+http://www.gracechurch.org	Grace Community Church	John MacArthur	Sun Valley	CA	8000	NONDENOM\
+http://www.ccbf.net	Calvary Bible Fellowship	Clark Van Wick	Temecula	CA	2500	NONDENOM\
+http://www.ranchocommunity.org	Rancho Community Church	Scott Treadway	Temecula	CA	2500	RCA\
+http://www.1church.com	Torrance First Presbyterian Church	Dong Sung Ahn	Torrance	CA	2800	PRES\
+http://www.healingword.tv	Healing Word	Neville Mcdonald	Tustin	CA	3500	NONDENOM\
+http://www.tfh.org	The Father's House	Dave &amp; Donna Patterson	Vacaville	CA	3000	UNK\
+http://www.reallifechurch.org	Real Life Church	Rusty George	Valencia	CA	3800	NONDENOM\
+http://www.crvjo.org	Crossroads Community Church	Randy Boldt	Vallejo	CA	2100	4SQ\
+http://www.oasisla.org	Oasis Church	Philip Wagner	Valley Village	CA	2000	UNK\
+http://www.laiglesiaenelcamino.org/	La Iglesia en el Camino	Jaime Tolle	Van Nuys	CA	5000	4SQ\
+http://www.tcotw.org	The Church on the Way	Ricky Temple	Van Nuys	CA	9032	4SQ\
+http://www.highdesertchurch.com	High Desert Church	Kurt Thielen	Victorville	CA	5000	ABC\
+http://www.vfassembly.org	Victorville First Assembly	John Martin	Victorville	CA	1907	AG\
+http://www.visaliafirstassembly.com	Visalia First Assembly of God	Albert Padilla	Visalia	CA	3247	AG\
+http://www.calvaryvista.org	Calvary Chapel of Vista	Rob Salvato	Vista	CA	3000	CAL\
+http://www.northcoastchurch.com	North Coast Church	Larry Osborne	Vista	CA	8390	EF\
+http://www.go2faith.com	Faith Community Church	James Reeve	West Covina	CA	10000	UNK\
+http://www.brytechurch.org	Bright Russian Baptist Church	Pavel Khakimov	West Sacramento	CA	2500	BAPT\
+http://www.calvarycc.org	Calvary Community Church	Shawn Thornton	Westlake Village	CA	3200	CAL\
+http://www.morningstarcc.org	Morningstar Christian Chapel	Jack Abeelen	Whittier	CA	3000	NONDENOM\
+http://www.wacc.net	Whittier Area Community Church	William Ankerberg	Whittier	CA	3000	BGC\
+http://www.go2cornerstone.com	Cornerstone Community Church	Ron Armstrong	Wildomar	CA	3200	NONDENOM\
+http://www.ylfc.org	Yorba Linda Friends Church	Matthew Cork	Yorba Linda	CA	5000	QUAKER\
+http://www.ycnaz.org	Hope Point	Gary Moore	Yuba City	CA	2270	NAZ\
+http://www.fbci.org	Faith Bible Chapel	George Morrison	Arvada	CO	5000	NONDENOM\
+http://www.coloradocommunity.org	Colorado Community Church Aurora	Robert Gelinas	Aurora	CO	2500	NONDENOM\
+http://www.northernhills.cc	Northern Hills Christian Church	Robert Kelly	Brighton	CO	2000	NONDENOM\
+http://www.ehills.org	Eastern Hills Community Church	Shawn Sikkema	Centennial	CO	2000	CRC\
+http://www.cwccs.org	Calvary Worship Center	Al Pittman	Colorado Springs	CO	2000	NONDENOM\
+http://www.woodmenvalley.org	Woodmen Valley Chapel	Matt Heard	Colorado Springs	CO	5500	NONDENOM\
+http://www.rmcalvary.org	Rocky Mountain Calvary Chapel	Eric Cartier	Colorado Springs	CO	3500	CAL\
+http://www.first-pres.org	First Presbyterian Church	Jim Singleton	Colorado Springs	CO	2495	PCUSA\
+http://www.newlifechurch.org	New Life Church	Brady Boyd	Colorado Springs	CO	12000	UNK\
+http://www.churchforallnations.com	Church For All Nations	Linda Cowart	Colorado Springs	CO	2000	UNK\
+http://www.mountainsprings.org	Mountain Springs Church	Steve Holt	Colorado Springs	CO	3500	NONDENOM\
+http://www.tphd.org	Potter's House Church of Denver	Chris Hill	Denver	CO	7800	NONDENOM\
+http://www.coloradocommunity.org	Colorado Community Church Englewood	Hugo Venegas	Englewood	CO	4500	NONDENOM\
+http://www.faithefc.org	Faith Evangelical Free Church	James Olson	Fort Collins	CO	2000	EF\
+http://www.vineyardotr.org	Vineyard Church of the Rockies	Richard Olmstead	Fort Collins	CO	2500	VINE\
+http://www.timberlinechurch.org	Timberline Church	Dary Northrop	Fort Collins	CO	6022	AG\
+http://www.redrockschurch.com	Red Rocks Church	Shawn Johnson	Golden	CO	3200	AG\
+http://www.canyonviewchurch.com	Canyon View Vineyard Church	Kirk Yamaguchi	Grand Junction	CO	4500	VINE\
+http://www.cccgreeley.org	Christ Community Church	Alan Kraft	Greeley	CO	2000	EF\
+http://www.greenwoodcc.com	Greenwood Community Church	J. Thomas Melton	Greenwood Village	CO	2200	EPC\
+http://www.chcc.org	Cherry Hills Community Church	James Dixon	Highlands Ranch	CO	6250	EPC\
+http://www.flatironschurch.com	Flatirons Community Church	Jim Burgen	Lafayette	CO	13621	EVAN\
+http://www.missionhills.org	Mission Hills Church	Mike Romberger	Littleton	CO	3600	BGC\
+http://www.foothillsbiblechurch.org	Foothills Bible Church	Bill Oudemolen	Littleton	CO	2000	NONDENOM\
+http://www.jfc.org	Jubilee Fellowship Church	John Leach	Lone Tree	CO	2500	NONDENOM\
+http://www.wolcc.net	Word of Life Christian Center	Tim Bagwell	Lone Tree	CO	2000	NONDENOM\
+http://www.lbcc.org	LifeBridge Christian Church	Rick Rusaw	Longmont	CO	3121	CHRISTIAN\
+http://www.crossroadscolorado.com	Crossroads Church	John Smith	Loveland	CO	3500	UNK\
+http://www.rez.org	Resurrection Fellowship	Jonathan Wiggins	Loveland	CO	2500	NONDENOM\
+http://www.rmcc.org	Rocky Mountain Christian Church	Alan Ahlgrim	Niwot	CO	2202	CHRISTIAN\
+http://www.sechristian.org	Southeast Christian Church	Phil Vaughan	Parker	CO	3554	CHRISTIAN\
+http://www.crossroadsdenver.org	Crossroads Church of Denver	Tom Stipe	Wheat Ridge	CO	4500	UNK\
+http://www.valleycommunity.cc	Valley Community Baptist Church	Jay Abramson	Avon	CT	2000	BGC\
+http://www.walnuthillcc.org	Walnut Hill Community Church	Clive Calver	Bethel	CT	2500	EVAN\
+http://www.firstcathedral.org	First Cathedral	Leroy Bailey	Bloomfield	CT	3500	BAPT\
+http://www.nbccsite.org	New Beginnings Community Church	Robert Cassara	Darien	CT	2000	NONDENOM\
+http://www.crossroadscommunitycathedral.com	Crossroads Community Cathedral	Terry Wiles	E. Hartford	CT	2000	AG\
+http://www.brcc.org	Black Rock Congregational Church	Stephen Treash	Fairfield	CT	2000	NONDENOM\
+http://www.kingdomlifecc.org	Kingdom Life Christian Church	Jay Ramirez	Milford	CT	2500	NONDENOM\
+http://www.faithchurchct.com	Faith Church	Frank Santora	New Milford	CT	2000	NONDENOM\
+http://www.shilohbaptist.org	Shiloh Baptist Church	Wallace Smith	Washington	DC	2000	BAPT\
+http://www.metropolitanbaptist.org	Metropolitan Baptist Church	H. Beecher Hicks	Washington	DC	3304	SBC\
+http://www.thetempleofpraise.org	Temple of Praise	Glen Staples	Washington	DC	4000	NONDENOM\
+http://www.gmchc.org	Greater Mt. Calvary Holy Church	Alfred Owens	Washington	DC	3500	PENT\
+http://www.eecdc.org	International Ethiopian Evangelical Church	Hanfere Aligaz	Washington	DC	1800	AG\
+http://www.rhemachristiancenter.org	Rhema Christian Center Church	Clarence Givens	Washington	DC	2000	NONDENOM\
+http://www.biblewaychurch.org	Bible Way Temple	James Silver	Washington	DC	3500	UNK\
+http://www.columba.org	Saint Columba's Episcopal Church	Janet Vincent	Washington	DC	1800	EPIS\
+http://www.ndcc.tv	New Destiny Christian Center	Michael Phillips	Apopka	FL	2000	UNK\
+http://www.bocachurch.com	Church of All Nations	Mark Boykin	Boca Raton	FL	2640	AG\
+http://www.spanishriver.com	Spanish River Church	Tommy Kiedis	Boca Raton	FL	2000	NONDENOM\
+http://www.woodlandministries.com	Woodland - The Community Church	Tim Passmore	Bradenton	FL	2001	UNK\
+http://www.baysidecommunity.org	Bayside Community Church	Randy Bezet	Bradenton	FL	2000	UNK\
+http://www.bellshoals.com	Bell Shoals Baptist Church	Stephen Rummage	Brandon	FL	3378	SBC\
+http://www.fbcbrandon.org	First Baptist Church	Tommy Green	Brandon	FL	2750	SBC\
+http://www.baylife.org	Bay Life Church	Mark Saunders	Brandon	FL	2500	SBC\
+http://www.egracechurch.com	Grace Church	Jorge Acevedo	Cape Coral	FL	2750	UMC\
+http://www.calvarybaptist.org	Calvary Baptist Church	William Rice	Clearwater	FL	2419	SBC\
+http://www.countrysidechristiancenter.org	Countryside Christian Center	Glen Davis	Clearwater	FL	2000	NONDENOM\
+http://www.getreallife.com	Real Life Christian Church	Justin Miller	Clermont	FL	3245	CHRISTIAN\
+http://www.the-pentecostals.org	The Pentecostals of Cooper City	Mark Hattebaugh	Cooper City	FL	2000	NONDENOM\
+http://www.potentialchurch.com	Potential Church	Troy Gramling	Cooper City	FL	13328	SBC\
+http://www.crcconline.org	Christ the Rock Community Church	Darrell Owens	Copper City	FL	2000	NONDENOM\
+http://www.ubcmiami.org	University Baptist Church	Bill White	Coral Gables	FL	2100	BGC\
+http://cbglades.com	Church by the Glades	David Hughes	Coral Springs	FL	5392	SBC\
+http://www.southfloridachurch.org	South Florida Church of Christ	Phil Lamb	Davie	FL	2000	COC\
+http://www.firstbaptist.org	First Baptist Church	Mark Howell	Daytona Beach	FL	1900	SBC\
+http://www.thelifecenter.org	Life Center Church	Ronald Kimble	Eatonville	FL	2500	UNK\
+http://www.summitlife.com	Summit Church	Orlando Cabrera	Estero	FL	1800	UNK\
+http://www.calvaryftl.org	Calvary Chapel Fort Lauderdale	Bob Coy	Fort Lauderdale	FL	17007	CAL\
+http://www.mountolive.org	Mount Olive Baptist Church	Marcus Davidson	Fort Lauderdale	FL	3000	BAPT\
+http://www.echristchurch.org	Christ Church United Methodist Church	Phil Roughton	Fort Lauderdale	FL	1800	UMC\
+http://www.christianlifecenterftl.org	Christian Life Center	Max Yeary	Fort Lauderdale	FL	3500	AG\
+http://www.mountbethel.org	Mount Bethel Baptist Church	Clarence Glover	Fort Lauderdale	FL	2000	BAPT\
+http://www.fbcnet.com	First Baptist Church	Larry Thompson	Fort Lauderdale	FL	2200	SBC\
+http://www.crpc.org	Coral Ridge Presbyterian Church	Tullian Tchividjian	Fort Lauderdale	FL	1900	PCA\
+http://www.mcgregor.net	McGregor Baptist Church	Richard Powell	Fort Myers	FL	3453	SBC\
+http://www.thesilverdome.org	First Assembly of God	Dan Betzer	Fort Myers	FL	6030	AG\
+http://www.communitycc.com	Community Christian Church	Scott Eynon	Ft. Lauderdale	FL	1971	CHRISTIAN\
+http://www.thefamilychurch.net	The Family Church	Max Wilkins	Gainesville	FL	2000	NONDENOM\
+http://www.westsidebaptist.org	Westside Baptist Church	Gary Crawford	Gainesville	FL	1800	SBC\
+http://www.gbumc.org	Gulf Breeze United Methodist Church	Lester Spencer	Gulf Breeze	FL	2324	UMC\
+http://www.segadores.com	Iglesia Cristiana Segadores De Vida	Ruddy Gracia	Hollywood	FL	7000	NONDENOM\
+http://www.stmarksjacksonville.org	Saint Marks Episcopal Church	Jonathan Coffey	Jacksonville	FL	2500	EPIS\
+http://www.celebration.org	Celebration Church	Stovall Weems	Jacksonville	FL	8194	UNK\
+http://www.ccontheweb.com	Christ's Church	Jason Cullum	Jacksonville	FL	4904	CHRISTIAN\
+http://www.fbcjax.com	First Baptist Church	Mac Brunson	Jacksonville	FL	4300	SBC\
+http://www.smbcjax.com	Shiloh Metropolitan Baptist Church	H.B. Charles	Jacksonville	FL	6000	BAPT\
+http://www.nlcf.org	New Life Christian Fellowship	Paul Zink	Jacksonville	FL	2000	NONDENOM\
+http://www.potters-house.org	Potter's House Christian Fellowship	Vaughn McLaughlin	Jacksonville	FL	3000	UNK\
+http://fccjax.com	Faith Christian Center	George Davis	Jacksonville	FL	2200	UNK\
+http://www.tbc.org	Trinity Baptist Church	Tom Messer	Jacksonville	FL	1800	BAPT\
+http://www.fbcofmandarin.org	First Baptist Church of Mandarin	Gary L. Williams Sr	Jacksonville	FL	2000	SBC\
+http://www.bethelite.org	Bethel Baptist Institutional Church	Rudolph McKissick	Jacksonville	FL	12000	BAPT\
+http://www.thechurchgroup.com	The Church Group Worldwide	Michael Smith	Jacksonville	FL	3400	NONDENOM\
+http://www.beachunitedmethodist.com	Beach United Methodist Church	Jerry Sweat	Jacksonville Beach	FL	2069	UMC\
+http://www.col.tv	City of Life Church	Jeff &amp; Amy Smith	Kissimmee	FL	2000	NONDENOM\
+http://www.tci.org	Trinity Church International	Tom Peters	Lake Worth	FL	4012	AG\
+http://www.fbclakeland.org	First Baptist Church at the Mall	Jay Dennis	Lakeland	FL	3200	SBC\
+http://www.victorylakeland.org	Victory Church	Wayne Blackburn	Lakeland	FL	3001	AG\
+http://www.fwclakeland.org	Family Worship Center	Reggie Scarborough	Lakeland	FL	2600	PENT\
+http://www.indianrocks.org	First Baptist Church of Indian Rocks	Jeff Parish	Largo	FL	2908	SBC\
+http://www.northlandcc.net	Northland A Church Distributed	Joel Hunter	Longwood	FL	12000	NONDENOM\
+http://www.vandyke.org	Van Dyke United Methodist Church	Matthew Hartsfield	Lutz	FL	2143	UMC\
+http://www.idlewild.org	Idlewild Baptist Church	Ken Whitten	Lutz	FL	7000	SBC\
+http://www.gracefamilychurch.org	Grace Family Church	Craig Altman	Lutz	FL	5500	UNK\
+http://www.fbcmel.org	First Baptist Church of Melbourne	Scott Wilson	Melbourne	FL	2500	SBC\
+http://www.kingjesusministry.org	King Jesus International Ministry	Guillermo Maldonado	Miami	FL	11828	NONDENOM\
+http://www.elreyjesus.org	Ministerio Internacional El Rey Jesus	Guillermo Maldonado	Miami	FL	5500	NONDENOM\
+http://nbbcmiami.org	New Birth Baptist Church	Victor Curry	Miami	FL	9000	BAPT\
+http://www.trinitychurch.tv	Trinity Church	Rich Wilkerson	Miami	FL	3596	AG\
+http://www.sweethome.org	Sweet Home Missionary Baptist	Walter Richardson	Miami	FL	2000	MISSBAPT\
+http://www.calvarykendall.com	Calvary Chapel Kendall	Pedro Garcia	Miami	FL	2200	CAL\
+http://www.miamivineyard.com	Miami Vineyard Community Church	Kevin Fischer	Miami	FL	2000	VINE\
+http://www.alpha-omega.org	Alpha and Omega Church	Alberto Delgado	Miami	FL	2100	NONDENOM\
+http://www.jf.org	Christ Life Center	Rick Patterson	Miami	FL	4000	RCA\
+http://www.antiochcarolcity.org	Antioch Missionary Baptist Church	Arthur Jackson	Miami	FL	7000	MISSBAPT\
+http://www.fbcn.org	First Baptist Church	Hayes Wicker	Naples	FL	3523	SBC\
+http://www.fumcniceville.org	First United Methodist Church	Rurel Ausley	Niceville	FL	2030	UMC\
+http://www.southbiscayne.com	South Biscayne Baptist Church	John Cross	North Port	FL	2000	SBC\
+http://www.mbcocala.com	Meadowbrook Church	Tim Gilligan	Ocala	FL	3001	NONDENOM\
+http://www.thesprings.org	Church at the Springs	Ron Sylvia	Ocala	FL	3000	SBC\
+http://www.summitconnect.org	Summit Church	Isaac Hunter	Orlando	FL	4300	NONDENOM\
+http://www.st.lukes.org	Saint Lukes United Methodist Church	William Barnes	Orlando	FL	1967	UMC\
+http://www.thecovenant.org	New Covenant Baptist Church	Randolf Bracy	Orlando	FL	2200	UNK\
+http://www.faithassembly.org	Faith Assembly of God	Carl Stephens	Orlando	FL	4000	AG\
+http://www.fpco.org	First Presbyterian Church of Orlando	David Swanson	Orlando	FL	2400	PCUSA\
+http://faithworld.com	Faithworld	Clint Brown	Orlando	FL	5000	NONDENOM\
+http://www.fbccf.net	First Baptist Church of Central Florida	Clayton Cloer	Orlando	FL	4000	SBC\
+http://www.iglesiaelcalvario.com	Iglesia El Calvario Assembly of God	Saturnino Gonzalez	Orlando	FL	5250	AG\
+http://www.churchintheson.com	Church in the Son	Alex Clattenburg	Orlando	FL	2000	AG\
+http://www.fbcorlando.org	First Baptist Church of Orlando	David Uth	Orlando	FL	5587	SBC\
+http://www.discoverychurch.org	Discovery Church	David Loveless	Orlando	FL	4500	NONDENOM\
+http://www.tomokachristian.com	Tomoka Christian Church	Joe Putting	Ormond Beach	FL	2296	CHRISTIAN\
+http://www.calvarychristiancenter.com	Calvary Christian Center	Jim Raley	Ormond Beach	FL	7120	NONDENOM\
+http://www.fbcoviedo.org	First Baptist Church of Oviedo	Dwayne Mercer	Oviedo	FL	2461	SBC\
+http://www.gochristfellowship.com	Christ Fellowship	Todd Mullins	Palm Beach Gardens	FL	18291	NONDENOM\
+http://www.cfmiami.org	Christ Fellowship	Rick Blackwood	Palmetto Bay	FL	8000	SBC\
+http://northstar.cc	Northstar Church	Marty Martin	Panama City	FL	2000	NONDENOM\
+http://www.firstbaptistpc.com	First Baptist Church	Craig Conner	Panama City	FL	2000	SBC\
+http://www.visitoasis.org	Oasis Church	Guy Melton	Pembroke Pines	FL	2200	SBC\
+http://www.alm.org	Abundant Living Ministries of Pembroke Pines	Hugh Thomas	Pembroke Pines	FL	2000	NONDENOM\
+http://www.newdimensionscc.com	New Dimensions Christian Center	Greg Burns	Pensacola	FL	3300	NONDENOM\
+http://www.campuschurch.com	Campus Church	Joel Mullenix	Pensacola	FL	7000	CHRISTIAN\
+http://www.olivebaptist.org	Olive Baptist Church	Ted Traylor	Pensacola	FL	3137	SBC\
+http://www.eastbrent.com	East Brent Baptist Church	Dale Patterson	Pensacola	FL	2500	SBC\
+http://www.calvarystp.org	Calvary Chapel of Saint Petersburg	Danny Hodges	Pinellas Park	FL	3500	CAL\
+http://www.fbcpc.com	First Baptist Church	Michael Lewis	Plant City	FL	3000	SBC\
+http://www.pibflorida.org	Primeira Igreja Batista Brasileira	Silair Almeida	Pompano Beach	FL	2000	BAPT\
+http://www.christepiscopalchurch.org	Christ Episcopal Church	Richard Westbury	Ponte Vedra Beach	FL	2000	EPIS\
+http://www.anastasiabaptist.org	Anastasia Baptist Church	Ron Moore	Saint Augustine	FL	1820	SBC\
+http://www.churchofhope.com	Church of Hope	Scott Young	Sarasota	FL	2237	AG\
+http://www.villageviewchurch.com	Village View Community Church	Marty Shea	Summerfield	FL	2500	COG\
+http://www.thefaithcenterint.org	The Faith Center Ministries	Henry Fernandez	Sunrise	FL	8000	NONDENOM\
+http://www.chctoday.com	Christian Heritage Church	Ron McCants	Tallahassee	FL	3000	NONDENOM\
+http://betheltally.org	Bethel Missionary Baptist Church	R.B. Holmes	Tallahassee	FL	6000	MISSBAPT\
+http://www.communitycc.com	Community Christian Church	Scott Eynon	Tamarac	FL	1971	CHRISTIAN\
+http://www.crossingonline.org	The Crossing Church	Greg Dumas	Tampa	FL	5000	UNK\
+http://www.revealingtruth.org	Revealing Truth Ministries	Gregory Powe	Tampa	FL	2500	NONDENOM\
+http://www.withoutwalls.org	Without Walls International Church	Paula White	Tampa	FL	3000	UNK\
+http://www.lifepoint.tv	LifePoint Community Church	Brad White	Tampa	FL	2200	SBC\
+http://www.generationscc.com	Generations Christian Church	Greg Johnson	Trinity	FL	2252	CHRISTIAN\
+http://www.victoriouslifechurch.com	Victorious Life Church	Edward Russo	Wesley Chapel	FL	3000	AG\
+http://www.calvaryccm.com	Calvary Chapel of Melbourne	Mark Balmer	West Melbourne	FL	10000	CAL\
+http://www.gfwpb.org	Grace Fellowship	David Nelms	West Palm Beach	FL	4000	UNK\
+http://www.winnerstoday.net	Winners Church	Fred Shipman	West Palm Beach	FL	2000	PRES\
+http://cristomiredentor.com	Cristo Mi Redentor	Oscar Rodriguez	West Palm Beach	FL	3000	PENT\
+http://www.wildwoodbaptist.org	Wildwood Baptist Church	Ric Cadle	Acworth	GA	2500	BGC\
+http://www.northpoint.org	North Point Community Church	Andy Stanley	Alpharetta	GA	30982	UNK\
+http://www.athenschurch.com	Athens Church	Sean Seay	Athens	GA	2000	UNK\
+http://www.passioncitychurch.com	Passion City Church	Louie Giglio	Atlanta	GA	2000	NONDENOM\
+http://www.elizabethbaptist.org	Elizabeth Baptist Church	Craig Oliver	Atlanta	GA	7500	SBC\
+http://www.destinymetro.org	Destiny Metropolitan Worship Church	Bryan Crute	Atlanta	GA	3600	NONDENOM\
+http://www.maranathasda.com	Maranatha Adventist Church	Alvin Freeman	Atlanta	GA	2100	SDA\
+http://www.pineygrovebapt.org	Greater Piney Grove Baptist Church	William Flippin	Atlanta	GA	4000	BAPT\
+http://www.mountparan.com	Mount Paran Church of God	David Cooper	Atlanta	GA	4000	COG\
+http://www.cascadeumc.org	Cascade United Methodist Church	Marvin Moss	Atlanta	GA	1800	UMC\
+http://www.peachtreepres.org	Peachtree Presbyterian Church	Victor Pentz	Atlanta	GA	3171	PCUSA\
+http://www.salembiblechurch.org	Salem Bible Church	Jasper Williams	Atlanta	GA	2000	UNK\
+http://www.antiochnorth.org	Antioch Baptist Church North	Cameron Alexander	Atlanta	GA	4000	NBC\
+http://www.fba.org	First Baptist Church	Charles Stanley	Atlanta	GA	4931	SBC\
+http://www.apostles.org	Church of the Apostles	Michael Youssef	Atlanta	GA	2500	ANGLICAN\
+http://www.saintphilip.org	Saint Philip AME Church	George Moore	Atlanta	GA	6000	AME\
+http://www.mtephraim.com	Mount Ephraim Baptist Church	R. L. White	Atlanta	GA	5500	BAPT\
+http://atlantabereansda.org	Atlanta Berean Church	Carlton Byrd	Atlanta	GA	2500	SDA\
+http://www.warrenbaptist.org	Warren Baptist Church	David McKinley	Augusta	GA	1800	BAPT\
+http://www.woffamily.org	Word of Faith Family Worship Cathedral	Dale Bronner	Austell	GA	8450	NONDENOM\
+http://www.harvestchurch4u.org	Harvest Church	Jim Cowart	Byron	GA	2109	UMC\
+http://www.oakwoodbc.org	Oakwood Baptist Church	Darrell Henry	Chickamauga	GA	2415	SBC\
+http://www.worldchangers.org	World Changers Church International	Creflo Dollar	College Park	GA	15000	NONDENOM\
+http://www.cascadehills.com	Cascade Hills Church	Bill Purvis	Columbus	GA	4420	SBC\
+http://www.sbclive.org	Springfield Baptist Church	Eric Wendel Lee	Conyers	GA	2000	BAPT\
+http://www.firstredeemer.org	First Redeemer Church	Richard Lee	Cumming	GA	3200	SBC\
+http://www.mountainlakechurch.org	Mountain Lake Church	Shawn Lovejoy	Cumming	GA	2500	NONDENOM\
+http://www.hebronchurch.org	Hebron Baptist Church	Larry Wynn	Dacula	GA	4266	SBC\
+http://www.oasisfamilylife.com	Oasis Family Life Church	Anthony Murray	Dallas	GA	2500	UNK\
+http://www.westridge.com	West Ridge Church	Brian Bloye	Dallas	GA	4800	SBC\
+http://www.rockbridge.cc	Rock Bridge Community Church	Matt Evans	Dalton	GA	2900	SBC\
+http://www.peacebaptistchurch.org	Peace Baptist Church	Tyrone Barnette	Decatur	GA	1800	BAPT\
+http://www.totalgrace.org	Total Grace Christian Center	Johnathan Alvarado	Decatur	GA	3000	NONDENOM\
+http://www.fbcdecatur.com	First Baptist Church	Julie Pennington-Russell	Decatur	GA	2700	SBC\
+http://www.rayofhope.org	Ray of Hope Christian Church	Cynthia Hale	Decatur	GA	2000	CHRISTIAN\
+http://www.mycathedral.org	Cathedral At Chapel Hill	DE Paulk	Decatur	GA	2000	NONDENOM\
+http://www.beulahbaptist.org	Beulah Missionary Baptist Church	Jerry Black	Decatur	GA	5000	MISSBAPT\
+http://www.greatertravelersrest.org	Greater Travelers Rest Baptist Church	E. Dewey Smith	Decatur	GA	3000	BAPT\
+http://www.greenforest.org	Greenforest Community Baptist Church	Dennis Mitchell	Decatur	GA	2300	SBC\
+http://www.churchatchapelhill.com	The Church at Chapel Hill	Dave Divine	Douglasville	GA	2000	AG\
+http://www.perimeter.org	Perimeter Church	Randy Pope	Duluth	GA	3900	PCA\
+http://www.divinefaith.org	Divine Faith Ministries International	Donald Battle	Duluth	GA	3300	NONDENOM\
+http://www.yunhap.org	Korean Community Presbyterian Church	James Jung	Duluth	GA	3000	KPCA\
+http://www.westacres.org	West Acres Baptist	Larry Harmon	Evans	GA	2000	BAPT\
+http://www.newhopebc.org	New Hope Baptist Church	Rhys Stenner	Fayetteville	GA	2200	SBC\
+http://www.therockministries.com	The Rock Ministries Inc.	Todd Smith	Flowery Branch	GA	2000	NONDENOM\
+http://www.bpbc.com	Blackshear Place Baptist Church	Jeff Crook	Flowery Branch	GA	2875	SBC\
+http://www.freechapel.org	Free Chapel Worship Center	Jentezen Franklin	Gainesville	GA	13568	NONDENOM\
+http://www.griffinfirst.org	First Assembly of God	Randy Valimont	Griffin	GA	7780	AG\
+http://www.mountpisgah.org	Mount Pisgah United Methodist Church	Steve Wood	Johns Creek	GA	2211	UMC\
+http://www.fbcjonesboro.com	First Baptist Church Jonesboro	Mel Blackaby	Jonesboro	GA	2000	SBC\
+http://www.newbirthsouth.org	New Birth South Metropolitan Church	Andro Landers	Jonesboro	GA	10000	UNK\
+http://www.northmetro.org	North Metro Church	Rob McDowell	Kennesaw	GA	3500	NONDENOM\
+http://www.northstarchurch.org	NorthStar Church	Mike Linch	Kennesaw	GA	2000	SBC\
+http://www.northmetro.net	North Metro First Baptist Church	Frank Cox	Lawrenceville	GA	2285	BAPT\
+http://www.12stone.com	12Stone Church	Kevin Myers	Lawrenceville	GA	12844	WES\
+http://thechurchwithzeal.org	Salem Missionary Baptist Church	Richard Haynes	Lilburn	GA	1800	BAPT\
+http://calvarycsm.com	Calvary Chapel Stone Mountain	Sandy Adams	Lilburn	GA	2000	CAL\
+http://www.newmerciescc.org	New Mercies Christian Church	Jesse Curney	Lilburn	GA	7000	CHRISTIAN\
+http://www.fairfieldbaptistchurch.org	Fairfield Baptist Church	Michael Benton	Lithonia	GA	2000	BAPT\
+http://www.newbirth.org	New Birth Missionary Baptist Church	Eddie Long	Lithonia	GA	15000	AME\
+http://www.beulahland.org	Beulahland Bible Church	Maurice Watson	Macon	GA	3500	NONDENOM\
+http://www.ingleside.org	Ingleside Baptist Church	Timothy McCoy	Macon	GA	2000	BAPT\
+http://www.roswellstreet.com	Roswell Street Baptist Church	Ernest Easley	Marietta	GA	1850	SBC\
+http://www.mtbethel.org	Mount Bethel United Methodist Church	Randall Mickler	Marietta	GA	2950	UMC\
+http://turnerchapelame.org	Turner Chapel Ame Church	Kenneth Marcus	Marietta	GA	4400	AME\
+http://www.jfbc.org	Johnson Ferry Baptist Church	Bryant Wright	Marietta	GA	5000	SBC\
+http://www.mtparan.com	Mount Paran Church of God North	Mark Walker	Marietta	GA	2000	COG\
+http://www.eagleslanding.org	Eagle's Landing First Baptist Church	Tim Dowdy	Mc Donough	GA	2170	SBC\
+http://www.avalonchurch.net	Avalon Church	Ritchie Miller	McDonough	GA	1800	SBC\
+http://www.crossroadsnewnan.org	Crossroads Baptist Church	Ken Adams	Newnan	GA	2607	SBC\
+http://www.victorywc.org	Victory World Church	Colleen Rouse	Norcross	GA	8000	NONDENOM\
+http://www.hopewellmissionarybaptist.org	Hopewell Missionary Baptist	William Sheals	Norcross	GA	5000	BAPT\
+http://www.trinitychapel.org	Trinity Chapel Church of God	Jason Bolin	Powder Springs	GA	2100	COG\
+http://burnthickory.com	Burnt Hickory Baptist Church	Mike Stephens	Powder Springs	GA	2065	SBC\
+http://www.rumc.com	Roswell United Methodist Church	Mike Long	Roswell	GA	2100	UMC\
+http://www.fbconline.org	Fellowship Bible Church	Crawford Loritts	Roswell	GA	3500	UNK\
+http://www.savannahchristian.com	Savannah Christian Church	Cam Huxford	Savannah	GA	6435	CHRISTIAN\
+http://www.overcomingbyfaith.org	Overcoming by Faith	Ricky Temple	Savannah	GA	2000	4SQ\
+http://www.woficc.com	Faith Christian Center	Joel Gregory	Smyrna	GA	2700	NONDENOM\
+http://www.fbcsnell.org	First Baptist Church Snellville	Steve Foster	Snellville	GA	4000	SBC\
+http://www.gracefellowshipchurch.com	Grace Fellowship Church	Buddy Hoffman	Snellville	GA	4000	NONDENOM\
+http://www.communitybiblechurch.com	Community Bible Church	Beau Adams	Stockbridge	GA	3200	NONDENOM\
+http://www.gospeltc.org	Gospel Tabernacle East	Wiley Jackson	Stone Mountain	GA	2000	NONDENOM\
+http://www.victoryfortheworld.org	Victory for the World	Ken Samuel	Stone Mountain	GA	2000	NONDENOM\
+http://www.voicesfaith.org	Voices of Faith Ministries	Gary Hawkins	Stone Mountain	GA	6800	SBC\
+http://www.bereanchristianchurch.org	Berean Christian Church	Kerwin Lee	Stone Mountain	GA	7000	NONDENOM\
+http://www.southsidebaptistchurch.net	Southside Baptist Church	Jerry Walls	Warner Robins	GA	2100	SBC\
+http://www.fbcw.org	First Baptist Church Woodstock	Johnny Hunt	Woodstock	GA	6368	SBC\
+http://www.calvarychapelofhonolulu.com	Calvary Chapel of Honolulu	Bill Stonebraker	Aiea	HI	1800	CAL\
+http://www.firstaog.com	First Assembly of God	Klayton Ko	Honolulu	HI	2400	AG\
+http://www.wolhawaii.com	Word of Life Christian Center	Art Supelvada	Honolulu	HI	5000	UNK\
+http://www.enewhope.org	New Hope Christian Fellowship	Wayne Cordeiro	Honolulu	HI	11000	4SQ\
+http://www.kingscathedral.com	King's Cathedral Maui	James Marocco	Kahului	HI	5409	AG\
+http://hopechapelkapolei.org	Hope Chapel Kapolei	Garret Shon	Kapolei	HI	2500	4SQ\
+http://www.hopechapelmaui.com	Hope Chapel	Craig Englert	Kihei	HI	2000	4SQ\
+http://www.newhopeleeward.org	New Hope Leeward	Alex Pacheco	Waipahu	HI	4000	4SQ\
+http://www.vineyardboise.org	Vineyard Boise	Tri Robinson	Boise	ID	2200	VINE\
+http://www.ccboise.org	Calvary Chapel Boise	Bob Caldwell	Boise	ID	6000	CAL\
+http://www.lakecitycc.org	Lake City Community Church	Mike Rima	Coeur D Alene	ID	1925	AG\
+http://www.eaglechristianchurch.com	Eagle Christian Church	Steve Crane	Eagle	ID	2364	CHRISTIAN\
+http://www.mycapitalchristian.com	Capital Christian Center	Ken Wilde	Meridian	ID	3000	NONDENOM\
+http://www.reallifeministries.com	Real Life Ministries	Jim Putman	Post Falls	ID	8200	CHRISTIAN\
+http://www.thelighthousechurch.org	Lighthouse Church of All Nations	Dan Willis	Alsip	IL	2000	UNK\
+http://www.theorchardefc.org	The Orchard Evangelical Free Church	Colin Smith	Arlington Heights	IL	2500	EF\
+http://www.efreebn.org	Evangelical Free Church of Bloomington	Rick Wagner	Bloomington	IL	2500	EF\
+http://www.getthevictory.org	Victory Cathedral Worship Center	Smokie Norful	Bolingbrook	IL	4000	UNK\
+http://www.broadviewbaptist.org	Broadview Missionary Baptist Church	Marvin Parker	Broadview	IL	2500	BAPT\
+http://www.newlifeoakwood.org	New Life Covenant Oakwood Church	John Hannah	Chicago	IL	3000	UNK\
+http://www.mynewlife.org	New Life Covenant Ministries	Wilfredo De Jesus	Chicago	IL	12994	AG\
+http://www.acog-chicago.org	Apostolic Church of God	Byron Brazier	Chicago	IL	10500	PAW\
+http://www.fellowshipmbchurch.org	Fellowship Missionary Baptist Church	Charles Jenkins	Chicago	IL	3100	BAPT\
+http://www.moodychurch.org	The Moody Church	Erwin Lutzer	Chicago	IL	2400	NONDENOM\
+http://www.iddprmo.org	Iglesia De Dios Pentecostal	Eliud Alvarez	Chicago	IL	6000	PENT\
+http://www.sweetholyspiritonline.org	Sweet Holy Spirit Full Gospel Baptist Church	Larry Trotter	Chicago	IL	4000	BAPT\
+http://www.newlifechicago.org	New Life Community Church	Mark Jobe	Chicago	IL	3900	UNK\
+http://www.parkcommunitychurch.org	Park Community Church	Jackson Crum	Chicago	IL	2500	NONDENOM\
+http://www.cutemple.org	Christ Universal Temple	Derrick Wells	Chicago	IL	3200	NONDENOM\
+http://www.sbcoc.org	Salem Baptist Church of Chicago	James Meeks	Chicago	IL	9800	UNK\
+http://www.afcchicago.org	Apostolic Faith Church	Horace Smith	Chicago	IL	2000	PAW\
+http://www.tucc.org	Trinity United Church of Christ	Otis Moss	Chicago	IL	7500	UCC\
+http://www.hacob.org	Highland Avenue Church of the Brethren	Joel Kline	Elgin	IL	2500	BRETHREN\
+http://www.chicagochurch.org	Chicago Church of Christ	Dave Weger	Elmhurst	IL	2500	ICC\
+http://www.livingwd.org	Living Word Christian Center	Bill Winston	Forest Park	IL	4500	NONDENOM\
+http://www.crossroadscn.com	Crossroads Community Church	Keith Boyer	Freeport	IL	2953	AG\
+http://www.vcgurnee.org	Village Church of Gurnee	Todd Habegger	Gurnee	IL	2000	UNK\
+http://www.changinglives.org	Life Changers International Church	Gregory Dickow	Hoffman Estates	IL	3000	NONDENOM\
+http://www.ancchurch.org	All Nations Community Church	George Thomas	Homewood	IL	2000	NONDENOM\
+http://www.chapel.org	The Chapel	Scott Chapman	Libertyville	IL	7000	NONDENOM\
+http://www.newfaithbaptist.org	New Faith Baptist Church International	Trunell Felder	Matteson	IL	4900	SBC\
+http://www.rockofagesbc.org	Rock of Ages Baptist Church	Marvin Wiley	Maywood	IL	3000	BAPT\
+http://www.thenewcentral.com	Central Christian Church	Jamie Allen	Mt Vernon	IL	1833	CHRISTIAN\
+http://www.harvestnaperville.org	Harvest Bible Chapel	Ron Zappia	Naperville	IL	2500	NONDENOM\
+http://www.efcn.org	The Compass Church	Dale Hummel	Naperville	IL	2250	EF\
+http://www.communitychristian.org	Community Christian Church	Dave Ferguson	Naperville	IL	5325	CHRISTIAN\
+http://www.gracepointe.us	Gracepointe Church	Dan Painter	Naperville	IL	2000	NONDENOM\
+http://www.calvarynaperville.org	Calvary Church	Randal Ross	Naperville	IL	7070	AG\
+http://www.eastviewchurch.net	Eastview Christian Church	Michael Baker	Normal	IL	4730	CHRISTIAN\
+http://www.cc-ob.org	Christ Church of Oak Brook	Dan Meyer	Oak Brook	IL	2600	NONDENOM\
+http://www.parkviewchurch.com	Parkview Christian Church	Tim Harlow	Orland Park	IL	5796	CHRISTIAN\
+http://www.nwoods.org	Northwoods Community Church	Calvin Rychener	Peoria	IL	3800	MEN\
+http://www.thecrossing.net	The Crossing	Jerry Harris	Quincy	IL	4183	CHRISTIAN\
+http://www.heritageqc.com	Heritage Church	John Bray	Rock Island	IL	2600	WES\
+http://www.heartland.cc	Heartland Community Church	Doug Thiesen	Rockford	IL	7274	UNK\
+http://rockchurchrockford.org	Rock Church	John Sprecher	Rockford	IL	5000	UNK\
+http://www.rockfordfirst.com	Rockford First	Jeremy DeWeerdt	Rockford	IL	2395	AG\
+http://www.harvestbiblechapel.org	Harvest Bible Chapel	James MacDonald	Rolling Meadows	IL	13916	CHRISTIAN\
+http://www.ccclife.org	Christ Community Church	Eric Rojas	Saint Charles	IL	4500	UNK\
+http://www.willowcreek.org	Willow Creek Community Church	Bill Hybels	South Barrington	IL	24200	NONDENOM\
+http://www.vkmi.org	Valley Kingdom Ministries International	H. Daniel Wilson	South Holland	IL	3400	NONDENOM\
+http://www.abundantfaith.org	Abundant Faith Christian Center	Jerry Doss	Springfield	IL	2900	UNK\
+http://www.calvaryspringfield.org	Calvary Temple	Mark Johnson	Springfield	IL	2500	AG\
+http://www.wschurch.org	West Side Christian Church	Eddie Lowen	Springfield	IL	2175	CHRISTIAN\
+http://www.familyharvestchurch.org	Family Harvest Church	Robb Thompson	Tinley Park	IL	2500	NONDENOM\
+http://www.thevineyardchurch.us	The Vineyard Church	Happy Leman	Urbana	IL	2800	VINE\
+http://www.wheatonbible.org	Wheaton Bible Church	Robert Bugh	West Chicago	IL	2500	NONDENOM\
+http://www.college-church.org	College Church	Kent Hughes	Wheaton	IL	2000	NONDENOM\
+http://www.madisonparkchurch.org	Madison Park Church of God	Jim Lyon	Anderson	IN	2000	COG\
+http://www.kingswaychurch.org	Kingsway Christian Church	Matt Nickoson	Avon	IN	2549	CHRISTIAN\
+http://www.socc.org	Sherwood Oaks Christian Church	Tom Ellsworth	Bloomington	IN	2588	CHRISTIAN\
+http://www.cpccweb.org	Connection Pointe Christian Church	Steve Reeves	Brownsburg	IN	3546	CHRISTIAN\
+http://www.nvcl.org	Northview Church	Steve Poe	Carmel	IN	3300	NONDENOM\
+http://www.lbchurch.org	Liberty Bible Church	Robert Nienhuis	Chesterton	IN	1800	EF\
+http://www.bethelweb.org	Bethel Church	Steve Dewitt	Crown Point	IN	2500	GBA\
+http://www.thebridgecc.org	The Bridge Community Church	Mo Hodge	Decatur	IN	2000	NONDENOM\
+http://www.faithchurchonline.org	Faith Church	Robert Bouwer	Dyer	IN	3500	UNK\
+http://www.betheltemple.org	Bethel Temple Community Church	Stephen Schwambach	Evansville	IN	2000	NONDENOM\
+http://www.memorialbaptistchurch.com	Memorial Baptist Church	Adrian Brooks	Evansville	IN	2000	BAPT\
+http://crossroadschristian.com	Crossroads Christian Church	Ken Idleman	Evansville	IN	3550	CHRISTIAN\
+http://www.onlinecfc.com	Christian Fellowship Church	David Niednagel	Evansville	IN	3200	NONDENOM\
+http://www.fmcfw.org	Fellowship Missionary Church	Dave DeSelm	Fort Wayne	IN	2300	UNK\
+http://www.blackhawkministries.org	Blackhawk Baptist Church	Kelly Byrd	Fort Wayne	IN	2000	BGC\
+http://www.firstassemblyfw.org	First Assembly	Donald Hawkins	Fort Wayne	IN	1800	AG\
+http://www.thechapel.net	The Chapel	Rick Hawks	Fort Wayne	IN	2700	NONDENOM\
+http://www.pccfw.org	Pathway Community Church	Ron Williams	Fort Wayne	IN	3000	NONDENOM\
+http://www.concordiachurch.org	Concordia Lutheran Church	Karl Frincke	Fort Wayne	IN	1800	LUTH\
+http://www.gccwired.com	Granger Community Church	Mark Beeson	Granger	IN	5169	UMC\
+http://www.egreenwood.org	Emmanuel Church of Greenwood	Dan Anderson	Greenwood	IN	2500	BAPT\
+http://www.mpcc.info	Mount Pleasant Christian Church	Chris Philbeck	Greenwood	IN	2944	CHRISTIAN\
+http://www.fbchammond.com	First Baptist Church	Missing	Hammond	IN	13426	BAPT\
+http://www.newlifeindy.org	New Life Worship Center	John Ramsey	Indianapolis	IN	2250	NONDENOM\
+http://www.yourchurch.com	College Park Church	Mark Vroegop	Indianapolis	IN	3800	NONDENOM\
+http://www.lakeviewcenter.org	Lakeview Christian Center	Ron Bontrager	Indianapolis	IN	2000	AG\
+http://www.mountolive-baptistchurch.org	Mount Olive Missionary Baptist Church	Donald Hudson	Indianapolis	IN	2500	MISSBAPT\
+http://newbeginningsfc.org	New Beginnings Fellowship Church	James Jackson	Indianapolis	IN	3000	NONDENOM\
+http://www.heartlandchurch.tv	Heartland Church	Darryn Scheske	Indianapolis	IN	2000	NONDENOM\
+http://www.easternstarchurch.org	Eastern Star Church	Jeffrey Johnson	Indianapolis	IN	10000	NBC\
+http://www.thecreek.org	Indian Creek Christian Church	Gary Johnson	Indianapolis	IN	4033	CHRISTIAN\
+http://www.calvarytabindy.org	Calvary Tabernacle	Paul Mooney	Indianapolis	IN	3000	AG\
+http://www.east91st.org	East 91st Street Christian Church	Rick Grover	Indianapolis	IN	3832	CHRISTIAN\
+http://www.calvarytempleindy.org	Calvary Temple	Jon Susa	Indianapolis	IN	2100	UPC\
+http://www.stlukesumc.com	Saint Luke's United Methodist Church	Rob Fuquay	Indianapolis	IN	3108	UMC\
+http://www.christgospel.org	Christ Gospel Church	Bernice Hicks	Jeffersonville	IN	2500	NONDENOM\
+http://www.ecrossroads.cc	Crossroads Community Church	Jeffrey Harlow	Kokomo	IN	2700	UNK\
+http://www.fcc4me.net	Family Christian Center	Steve Munsey	Munster	IN	15235	NONDENOM\
+http://www.nmc1.org	Nappanee Missionary Church	David Engbrecht	Nappanee	IN	3000	UNK\
+http://www.mynorthside.com	Northside Christian Church	George Ross	New Albany	IN	5006	CHRISTIAN\
+http://www.gracecc.org	Grace Community Church	Dave Rodriguez	Noblesville	IN	5000	EF\
+http://www.wrcc.org	White River Christian Church	Tim Brock	Noblesville	IN	2290	CHRISTIAN\
+http://www.plainfieldchristian.com	Plainfield Christian Church	Steve White	Plainfield	IN	1956	CHRISTIAN\
+http://www.wccconnect.com	Warsaw Community Church	Denny Wilson	Warsaw	IN	3500	BRETHREN\
+http://www.tpcc.org	Traders Point Christian Church	Aaron Brockett	Whitestown	IN	4000	CHRISTIAN\
+http://www.cornerstonelife.com	Cornerstone Church	Troy Nesbitt	Ames	IA	2200	SBC\
+http://www.prairielakeschurch.org	Prairie Lakes Church	John Fuller	Cedar Falls	IA	2200	BAPT\
+http://www.orchardhillchurch.org	Orchard Hill Church	Dave Bartlett	Cedar Falls	IA	2000	RCA\
+http://www.lovethischurch.com	First Assembly Cedar Rapids	Larry Sohn	Cedar Rapids	IA	2100	AG\
+http://www.harvestdavenport.org	Harvest Bible Chapel	Rob Willey	Davenport	IA	2100	CHRISTIAN\
+http://www.trcpella.com	Third Reformed Church	Kevin Korver	Pella	IA	2000	RCA\
+http://www.faithefree.com	Faith Evangelical Free Church	Chris Holck	Spirit Lake	IA	2500	EF\
+http://www.pointofgrace.com	Point of Grace Church	Jeff Mullen	Waukee	IA	2200	NONDENOM\
+http://www.vefc.com	Valley Church	Quintin Stieff	West Des Moines	IA	2000	EF\
+http://www.lutheranchurchofhope.org	Lutheran Church of Hope	Mike Housholder	West Des Moines	IA	9810	ELCA\
+http://www.cor.org	Church of the Resurrection	Adam Hamilton	Leawood	KS	9751	UMC\
+http://www.westsidefamilychurch.com	Westside Family Church	Dan Southerland	Lenexa	KS	5100	SBC\
+http://www.olathebible.org	Olathe Bible Church	Mike Bickley	Olathe	KS	2200	UNK\
+http://www.heartlandchurch.org	Heartland Community Church	Dan Deeble	Olathe	KS	2000	EPC\
+http://www.collegechurch.com	College Church of the Nazarene	Rick Power	Olathe	KS	2174	NAZ\
+http://www.lenexachristian.org	Lenexa Christian Center	Mike Purkey	Shawnee Mission	KS	3000	AG\
+http://www.pathwaychurchonline.com	Pathway Church	Todd Carter	Wichita	KS	3012	CHRISTIAN\
+http://www.centralcommunity.org	Central Community Church	John Henry	Wichita	KS	2100	COGA\
+http://www.ccc.org	Central Christian Church	David Welsh	Wichita	KS	3245	CHRISTIAN\
+http://newspring.org	NewSpring Church	Mark Hoover	Wichita	KS	2000	UNK\
+http://www.hillvue.com	Hillvue Heights Church	Stephen Ayers	Bowling Green	KY	4825	SBC\
+http://www.livinghopewired.com	Living Hope Baptist Church	Jason Pettus	Bowling Green	KY	2100	SBC\
+http://www.1stchurchofchrist.org	First Church of Christ	Greg Marksberry	Burlington	KY	2506	CHRISTIAN\
+http://www.7hillschurch.tv	Seven Hills Church	Marcus Mecum	Florence	KY	3000	UNK\
+http://www.xroadschurch.org	Crossroads Christian Church	Glen Schneiders	Lexington	KY	2570	NONDENOM\
+http://www.questcommunity.com	Quest Community Church	Pete Hise	Lexington	KY	3400	UNK\
+http://www.ibc-lex.org	Immanuel Baptist Church	Ron Edmondson	Lexington	KY	2000	SBC\
+http://www.southeastchristian.org	Southeast Christian Church	Dave Stone	Louisville	KY	22496	CHRISTIAN\
+http://www.canaanchristian.com	Canaan Christian Church	Walter Malone	Louisville	KY	2500	BAPT\
+http://www.batesmemorial.com	Bates Memorial Baptist Church	F. Williams	Louisville	KY	3000	SBC\
+http://www.sojournchurch.com	Sojourn Community Church	Daniel Montgomery	Louisville	KY	3000	UNK\
+http://www.smbclouisville.org	Saint Matthews Baptist Church	Greg Barr	Louisville	KY	8300	SBC\
+http://www.highviewbaptist.org	Highview Baptist Church	Les Hughes	Louisville	KY	3254	SBC\
+http://www.worldprayercenter.org	Evangel World Prayer Center	Bob Rodgers	Louisville	KY	4800	AG\
+http://www.ssclive.org	Saint Stephen Church	Kevin Cosby	Louisville	KY	10482	NONDENOM\
+http://www.valleyviewchurch.org	Valley View Church	Joel Carwile	Louisville	KY	2497	SBC\
+http://www.necchurch.org	Northeast Christian Church	Bob Cherry	Louisville	KY	2652	CHRISTIAN\
+http://www.southlandchristian.org	Southland Christian Church	Jon Weece	Nicholasville	KY	10356	CHRISTIAN\
+http://www.owensborochristian.org	Owensboro Christian Church	Rick Grover	Owensboro	KY	2052	CHRISTIAN\
+http://www.heartlandworship.org	Heartland Worship Center	Nathan Joyce	Paducah	KY	1800	UNK\
+http://www.thepentecostals.org	Pentecostals of Alexandria	Anthony and Mickey Mangun	Alexandria	LA	2800	UNK\
+http://www.bethany.com	Bethany World Prayer Center	Jonathan Stockstill	Baker	LA	8000	NONDENOM\
+http://www.Livingfaith-cc.org	Living Faith Christian Center	Raymond Johnson	Baton Rouge	LA	4750	NONDENOM\
+http://www.jsm.org	Family Worship Center	Don Swaggart	Baton Rouge	LA	4000	UNK\
+http://www.healingplacechurch.org	Healing Place Church	Dino Rizzo	Baton Rouge	LA	7200	NONDENOM\
+http://www.thesimplechurch.tv	The Simple Church	Justin Haigler	Bossier City	LA	2700	UNK\
+http://www.firstbossier.com	First Baptist Church	Fred Lowery	Bossier City	LA	2100	SBC\
+http://oursaviorschurch.com/	Our Savior\'c2\'92s Church	Jacob and Michelle Aranza	Broussard	LA	2900	NONDENOM\
+http://www.fbccov.org	First Baptist Church	Waylon Bailey	Covington	LA	1800	SBC\
+http://vineyardneworleans.org	The Vineyard Church	Philip Jeansonne	Kenner	LA	2000	VINE\
+http://www.lifeatfirst.org	First Baptist Lafayette	Steve Horn	Lafayette	LA	4000	SBC\
+http://www.mycrossroads.org	Crossroads Church	Damon Ables	Lafayette	LA	2400	AG\
+http://www.eastbayou.org	East Bayou Baptist Church	Mike Walker	Lafayette	LA	2250	SBC\
+http://www.gladtidingschurch.com	Glad Tidings Assembly of God	Stephen Perry	Lake Charles	LA	2689	AG\
+http://www.sttimothyumc.org	Saint Timothy Northshore United Methodist	James Mitchell	Mandeville	LA	1973	UMC\
+http://www.churchoftheking.com	Church of the King	Steve Robinson	Mandeville	LA	5000	UNK\
+http://www.celebrationchurch.org	Celebration Church	Dennis Watson	Metairie	LA	3260	SBC\
+http://www.franklinabc.com	Franklin Avenue Baptist Church	Fred Luter	New Orleans	LA	4000	SBC\
+http://www.greaterststephenfgbc.org	Greater Saint Stephen Full Gospel Baptist	Debra Morton	New Orleans	LA	10000	BAPT\
+http://www.lifecentercathedral.com	Life Center Ministries	J. Wiley	New Orleans	LA	6500	UNK\
+http://www.wordoflifecenter.org	Word of Life Center	Sam Carr	Shreveport	LA	2500	NONDENOM\
+http://broadmoorbaptist.org	Broadmoor Baptist Church	Chuck Pourciau	Shreveport	LA	2300	SBC\
+http://www.buildinggreatlives.com	The Pentecostals	Mark Foster	West Monroe	LA	2050	PENT\
+http://www.firstwest.cc	First Baptist West Monroe	John Avant	West Monroe	LA	2402	SBC\
+http://www.southernbaptistchurch.org	Southern Baptist Church	Donte' Hickman	Baltimore	MD	2500	SBC\
+http://www.crlministries.com	Church of the Redeemed of the Lord	Jerome Stokes	Baltimore	MD	2500	UNK\
+http://www.bethel1.org	Bethel African Methodist Episcopal Church	Frank Reid	Baltimore	MD	2000	AME\
+http://www.mountpleasant.org	Mount Pleasant Church And Ministries	Clifford Johnson	Baltimore	MD	8000	NONDENOM\
+http://www.newpsalmist.org	New Psalmist Baptist Church	Walter Thomas	Baltimore	MD	6000	BAPT\
+http://www.empowermenttemple.org	Empowerment Temple	Jamal-Harrison Bryant	Baltimore	MD	7000	UNK\
+http://www.newshilohbaptist.org	New Shiloh Baptist Church	Harold Carter	Baltimore	MD	2000	UNK\
+http://www.4thpres.org	Fourth Presbyterian Church	Robert Norris	Bethesda	MD	1800	EPC\
+http://www.atthesanctuary.com	The Sanctuary	Anthony Maclin	Capitol Heights	MD	3400	NONDENOM\
+http://mtennon.org	Mount Ennon Baptist Church	Delman Coates	Clinton	MD	5000	BAPT\
+http://www.fbcog.org	First Baptist Church of Guilford	John Wright	Colombia	MD	2000	SBC\
+http://www.bridgewayonline.org	Bridgeway Community Church	David Anderson	Columbia	MD	2000	NONDENOM\
+http://www.wininlife.com	Celebration Church	Robert Davis	Columbia	MD	2500	COG\
+http://www.thesoulfactory.com	Soul Factory	Deron Cloud	Forestville	MD	5000	NONDENOM\
+http://www.nationalcog.com	National Church of God	Stephen Lowery	Fort Washington	MD	2500	COG\
+http://www.ebenezerame.org	Ebenezer African Methodist Episcopal	Granger Browning	Fort Washington	MD	7000	AME\
+http://www.gcconline.org	Grace Community Church	Mark Norman	Fulton	MD	2700	NONDENOM\
+http://www.church-redeemer.org	Church of the Redeemer	Dale O'Shields	Gaithersburg	MD	5906	NONDENOM\
+http://www.covlife.org	Covenant Life	Joshua Harris	Gathersburg	MD	3300	NONDENOM\
+http://www.mountainchristian.org	Mountain Christian Church	Ben Cachiaras	Joppa	MD	4270	CHRISTIAN\
+http://www.fbcglenarden.org	First Baptist Church of Glenarden	John Jenkins	Landover	MD	12000	BGC\
+http://www.zionchurchonline.com	Zion Church	Keith Battle	Largo	MD	3000	NONDENOM\
+http://www.faithinlothian.org	Faith Assembly of God	Larry Barnes	Lothian	MD	3000	AG\
+http://www.woodstreamchurch.org	Woodstream Church	Robert Wingfeld	Mitchellville	MD	2000	BAPT\
+http://www.firstmtolive.com	First Mount Olive Freewill Baptist Church	Oscar Brown	Randallstown	MD	2500	BAPT\
+http://www.lifepointchurch.us	LifePoint Church	Joe Duke	Reisterstown	MD	2000	UNK\
+http://www.bwomi.org	Bethel World Outreach Church	Darlingston Johnson	Silver Spring	MD	2000	UNK\
+http://www.immanuels.org	Immanuel's Church	Charles Schmitt	Silver Spring	MD	4500	NONDENOM\
+http://www.gmcusa.org	Global Mission Church of Greater Washington	Denis Kim	Silver Spring	MD	3000	SBC\
+http://www.crcc.org	Cedar Ridge Community Church	Matthew Dyer	Spencerville	MD	2000	UNK\
+http://www.sligochurch.org	Sligo Seventh Day Adventist	Charles Tapp	Tacoma Park	MD	2000	SDA\
+http://www.spiritoffaith.org	Spirit of Faith Christian Center	Mike Freeman	Temple Hills	MD	5000	UNK\
+http://www.fthcm.org	From the Heart Church Ministries	John Cherry	Temple Hills	MD	7000	NONDENOM\
+http://www.gfc.org	Grace Fellowship Church	Dan O'Brien	Timonium	MD	3000	NONDENOM\
+http://www.thearkofsafety.org	Ark of Safety Christian Church	Anthony Muse	Upper Marlboro	MD	2000	NONDENOM\
+http://www.evangelcathedral.net	Evangel Cathedral	Don Meares	Upper Marlboro	MD	4000	COG\
+http://www.opendoorchurch.org	Church of the Open Door	Norris Belcher	Westminster	MD	2700	BAPT\
+http://www.uua.org	Church of the Larger Fellowship	Jane Rzepka	Boston	MA	2500	UUA\
+http://www.parkstreet.org	Park Street Church	Gordon Hugenberger	Boston	MA	2000	UNK\
+http://www.grace.org	Grace Chapel	N A	Lexington	MA	766	NONDENOM\
+http://www.jubileeboston.org	Jubilee Christian Church	Gilbert Thompson	Mattapan	MA	7000	COGA\
+http://www.msbc-bos.org	Morning Star Baptist Church	Jonathan Borders	Mattapan	MA	2100	BAPT\
+http://www.calvarychapelboston.com	Calvary Chapel of Boston	Randy Cahill	Rockland	MA	3700	CAL\
+http://www.libertychurches.org	Liberty Churches	Will Bard	Shrewsbury	MA	2100	AG\
+http://www.bostoncoc.org	Boston Church of Christ	Doug Arthur	Waltham	MA	2200	COC\
+http://www.adabible.org	Ada Bible Church	Jeff Manion	Ada	MI	6500	NONDENOM\
+http://www.theapostolicchurch.com	Apostolic Church of Auburn Hills	Steve Warman	Auburn Hills	MI	3000	UPCI\
+http://www.firstwes.org	First Wesleyan Church	Chuck Winter	Battle Creek	MI	2600	WES\
+http://www.pmchurch.org	Pioneer Memorial Church	Dwight Nelson	Berrien Springs	MI	2500	SDA\
+http://www.cornerstoneforlife.com	Cornerstone Evangelical Presbyterian	Richard Alberta	Brighton	MI	1800	EPC\
+http://www.cornerchurch.org	Cornerstone United Methodist Church	Brad Kalajainen	Caledonia	MI	2000	UNK\
+http://www.mtzion.org	Mount Zion	Loren Covarrubias	Clarkston	MI	6000	NONDENOM\
+http://www.secondebenezer.org	Second Ebenezer Church	Edgar Vann	Detroit	MI	2000	UNK\
+http://www.greatergrace.org	Greater Grace Temple	Charles Ellis	Detroit	MI	8000	UNK\
+http://www.hartfordbaptist.org	Hartford Memorial Baptist Church	Charles Adams	Detroit	MI	5000	BAPT\
+http://www.nspt.org	New Saint Paul Tabernacle Church	P. A. Brooks	Detroit	MI	2300	COGIC\
+http://www.perfectingchurch.org	Perfecting Church	Marvin Winans	Detroit	MI	4500	NONDENOM\
+http://www.newnpmbcunity.org	New Prospect Missionary Baptist Church	Brenda Jackson	Detroit	MI	2000	NBC\
+http://www.triumphch.org	Triumph Church	Solomon Kinloch	Detroit	MI	7000	NONDENOM\
+http://www.straightgate.net	Straight Gate International Church	Andrew Merritt	Detroit	MI	2000	NONDENOM\
+http://www.stlorenz.org	Saint Lorenz Lutheran Church	Mark Brandt	Frankenmuth	MI	1800	LUTH\
+http://www.grandrapidsfirst.org	Grand Rapids First Assembly of God	Sam Rijfkogel	Grand Rapids	MI	2400	AG\
+http://www.calvarygr.com	Calvary Church	Jim Samra	Grand Rapids	MI	4500	NONDENOM\
+http://www.marshill.org	Mars Hill Bible Church	Shane Hipps	Grandville	MI	12000	NONDENOM\
+http://www.reslife.org	Resurrection Life Church	Duane Vander Klok	Grandville	MI	7000	NONDENOM\
+http://www.christmemorial.org	Christ Memorial Reformed Church	Mike Pitsenberger	Holland	MI	2800	RCA\
+http://www.centralwesleyan.org	Central Wesleyan Church	Paul Hontz	Holland	MI	3000	WES\
+http://www.RivChurch.com	Riverview Church	Noel Heikkinen	Holt	MI	2400	UNK\
+http://www.fhmin.org	Fair Haven Ministries	David Breen	Hudsonville	MI	2000	RCA\
+http://www.calvarybible.org	Calvary Bible Church	Tiberius Rata	Kalamazoo	MI	2000	NONDENOM\
+http://www.valleyfamilychurch.org	Valley Family Church	Jeff Jones	Kalamazoo	MI	3000	NONDENOM\
+http://www.kentwoodcommunitychurch.com	Kentwood Community Church	Jerry DeRuiter	Kentwood	MI	2581	WES\
+http://www.trinitywired.com	Trinity Church	Phil Posthuma	Lansing	MI	3500	UNK\
+http://www.mounthopechurch.org	Mount Hope Church	David Williams	Lansing	MI	4300	AG\
+http://www.wardchurch.org	Ward Evangelical Presbyterian Church	Scott McKee	Northville	MI	2300	EPC\
+http://www.oakpointe.org	Oak Pointe Church	Bob Shirock	Novi	MI	3000	NONDENOM\
+http://www.brightmoorcc.org	Brightmoor Christian Church	Jamie Kjos	Novi	MI	2000	AG\
+http://www.northridgechurch.com	NorthRidge Church	Brad Powell	Plymouth	MI	10000	NONDENOM\
+http://www.dwo.org	Detroit World Outreach Center	Ben Gibert	Redford	MI	4000	UNK\
+http://www.bhbconline.org	Blythefield Hills Baptist Church	Louie Konopka	Rockford	MI	2020	BAPT\
+http://www.woficc.com	Word of Faith International Christian Center	Keith Butler	Southfield	MI	11000	UNK\
+http://www.gracesterling.com	Grace Christian Church	Jerry Weinzierl	Sterling Heights	MI	2000	CHRISTIAN\
+http://www.faithtroy.org	Faith Lutheran Church	Warren Arndt	Troy	MI	2000	LUTH\
+http://www.woodsidebible.org	Woodside Bible Church	Doug Schmidt	Troy	MI	7000	UNK\
+http://www.kensingtonchurch.org	Kensington Community Church	Steve Andrews	Troy	MI	11000	UNK\
+http://www.faithbaptistwaterford.org	Faith Baptist Church of Waterford	Jim Combs	Waterford	MI	5600	BAPT\
+http://www.sotv.org	Shepherd of the Valley Lutheran Church	Paul Harrington	Apple Valley	MN	2200	LUTH\
+http://www.rivervalleychurch.org	River Valley Church	Rob Ketterling	Apple Valley	MN	5000	AG\
+http://www.nhlc.org	North Heights Lutheran Church	Pastor Per	Arden Hills	MN	2200	LUTH\
+http://www.evergreencc.com	Evergreen Community Church	Mark Bowen	Bloomington	MN	2300	UNK\
+http://www.cvchurch.org	Cedar Valley Church	Jerry Strandquist	Bloomington	MN	2000	AG\
+http://www.lwcc.org	Living Word Christian Center	Mac Hammond	Brooklyn Park	MN	9000	UNK\
+http://www.bereanbaptist.com	Berean Baptist Church	Roger Thompson	Burnsville	MN	2100	BGC\
+http://www.princeofpeaceonline.org	Prince of Peace Lutheran Church	Jeff Marian	Burnsville	MN	3000	ELCA\
+http://www.eaglebrookchurch.com	Eagle Brook Church	Bob Merritt	Centerville	MN	16097	BGC\
+http://standrewlu.com	Saint Andrew Lutheran Church	Rodney Anderson	Eden Prairie	MN	2300	LUTH\
+http://www.wooddale.org	Wooddale Church	Leith Anderson	Eden Prairie	MN	5500	BGC\
+http://www.atgrace.com	Grace Church	Troy Dobbs	Eden Prairie	MN	5500	NONDENOM\
+http://www.westwoodcc.org	Westwood Community Church	Joel Johnson	Excelsior	MN	3800	BGC\
+http://www.calvary.org	Calvary Lutheran Church	Steve Dornbusch	Golden Valley	MN	2300	LUTH\
+http://www.hosannalc.org	Hosanna!	Bill Bohline	Lakeville	MN	6600	LUTH\
+http://www.saintandrews.org	Saint Andrew's Lutheran Church	John Hogenson	Mahtomedi	MN	2100	ELCA\
+http://www.thedoor.org	Church of the Open Door	Stefan Van Voorst	Maple Grove	MN	3500	CMA\
+http://www.emmanuelcc.com	Emmanuel Christian Center	G. Mark Denyes	Minneapolis	MN	3500	AG\
+http://www.hopeingod.org	Bethlehem Baptist Church	John Piper	Minneapolis	MN	4600	BGC\
+http://www.mtolivet.org	Mount Olivet Lutheran Church	Craig Johnson	Minneapolis	MN	5895	ELCA\
+http://www.newhopechurchmn.org	New Hope Church Evangelical Free Church	Steve Goold	New Hope	MN	3757	EF\
+http://www.spdlc.org	Saint Philip the Deacon Lutheran Church	David Hoffman	Plymouth	MN	2000	ELCA\
+http://www.sollc.org	Shepherd of the Lake Lutheran Church	E. Strommen	Prior Lake	MN	2000	ELCA\
+http://www.calvaryrose.org	Calvary Baptist Church	Richard Schoenert	Roseville	MN	1800	BGC\
+http://www.substancechurch.com	Substance Church	Peter Haas	Roseville	MN	3000	NONDENOM\
+http://www.nhlc.org	North Heights Lutheran Church	Mark Herringshaw	Roseville	MN	2300	ELCA\
+http://www.whchurch.org	Woodland Hills Church	Greg Boyd	St. Paul	MN	5000	BGC\
+http://www.crossroadschurch.cc	Crossroads Church	Phil Print	Woodbury	MN	2200	NONDENOM\
+http://www.woodburylutheran.org	Woodbury Lutheran Church	Dean Nadasdy	Woodbury	MN	2100	LUTH\
+http://www.pinelake.org	Pinelake Church	Chip Henderson	Brandon	MS	9357	SBC\
+http://www.crossgates.org	Crossgates Baptist Church	David Jett	Brandon	MS	2286	SBC\
+http://www.fbcbrandon.com	First Baptist Church	Scott Thomas	Brandon	MS	1900	SBC\
+http://www.woodlawnchurch.cc	Woodlawn Church	James Carney	Columbia	MS	2500	UPC\
+http://www.tbclife.net	Temple Baptist Church	Darryl Craft	Hattiesburg	MS	3000	SBC\
+http://www.fbcj.org	First Baptist Church	Stan Buckley	Jackson	MS	2500	SBC\
+http://www.christunitedjxn.org	Christ United Methodist Church	David Brownlee	Jackson	MS	1800	UMC\
+http://www.broadmoor.org	Broadmoor Baptist Church	Rob Futral	Madison	MS	2000	SBC\
+http://www.colonialhillschurch.com	Colonial Hills Baptist Church	Rick Sayger	Southaven	MS	2000	SBC\
+http://brownbaptist.org	Brown Missionary Baptist Church	Bartholomew Orr	Southaven	MS	3257	BAPT\
+http://www.harrisburgonline.org	Harrisburg Baptist Church	Forrest Sheffield	Tupelo	MS	2000	BAPT\
+http://www.theorchard.net	The Orchard	Bryan Collier	Tupelo	MS	2300	UMC\
+http://www.fbcarnold.org	First Baptist Church	Gerald Davidson	Arnold	MO	2385	SBC\
+http://www.fbcarnold.org	First Baptist Church	Kenny Qualls	Arnold	MO	2385	SBC\
+http://www.capefirst.org	Cape First	Gary Brothers	Cape Girardeau	MO	2800	AG\
+http://www.lacroixchurch.org	La Croix United Methodist Church	Ron Watts	Cape Girardeau	MO	1943	UMC\
+http://www.wcrossing.org	The Crossing	Greg Holder	Chesterfield	MO	6000	NONDENOM\
+http://www.slfc.org	Saint Louis Family Church	Jeff Perry	Chesterfield	MO	6000	NONDENOM\
+http://www.woodcrest.org	Woodcrest Chapel	Pieter Van Waarde	Columbia	MO	2200	UNK\
+http://www.thecrossingchurch.com	The Crossing	Dave Cover	Columbia	MO	3400	NONDENOM\
+http://www.stjohns-network.org	Saint John Lutheran Church	Stephen Hower	Ellisville	MO	2300	LUTH\
+http://www.faithchurchstlouis.com	Faith Church of St. Louis	David Crank	Fenton	MO	4000	NONDENOM\
+http://www.chcchurch.org	College Heights Christian Church	Randy Gariss	Joplin	MO	1971	CHRISTIAN\
+http://www.colonialkc.org	Colonial Presbyterian Church	Jim West	Kansas City	MO	2200	PCA\
+http://www.sflc.net	Sheffield Family Life Center	George Westlake III	Kansas City	MO	5135	AG\
+http://www.vineyardkcnorth.com	Vineyard Christian Fellowship	Fred Herron	Kansas City	MO	2000	VINE\
+http://www.ihopkc.org	Forerunner Christian Fellowship	Mike Bickle	Kansas City	MO	2000	NONDENOM\
+http://www.lscckc.org	Lees Summit Community Church	Doug Brown	Lee's Summit	MO	2001	UNK\
+http://www.abundantlifebaptist.com	Abundant Life Baptist Church	Phil Hopper	Lee's Summit	MO	2000	NONDENOM\
+http://www.pleasantvalley.org	Pleasant Valley Baptist Church	Merle Mees	Liberty	MO	2905	SBC\
+http://www.gracestl.org	Grace Church	Ron Tucker	Maryland Heights	MO	3800	NONDENOM\
+http://www.mscwired.org	Morning Star Church	Michael Schreiner	O'Fallon	MO	1945	UMC\
+http://www.ccochurch.com	Christ Church of Oronogo	Mark Christian	Oronogo	MO	2506	CHRISTIAN\
+http://www.jamesriver.org	James River Assembly	John Lindell	Ozark	MO	8716	AG\
+http://www.firstbaptistraytown.com	First Baptist Raytown	Paul Brooks	Raytown	MO	2000	SBC\
+http://www.harvesterchristian.org	Harvester Christian Church	Brian Jobe	Saint Charles	MO	3286	CHRISTIAN\
+http://www.wolc.com	Word of Life Church	Brian Zahnd	Saint Joseph	MO	4000	NONDENOM\
+http://www.lifechurch-stl.com	Life Center	Rick Shelton	Saint Louis	MO	2500	NONDENOM\
+http://www.trwc.com	Twin Rivers Worship Center	Bryan Cutshall	Saint Louis	MO	2500	UNK\
+http://journeyon.net	The Journey Fellowship	Darrin Patrick	Saint Louis	MO	3300	NONDENOM\
+http://ftmbc.org	Friendly Temple Missionary Baptist Church	Michael Jones	Saint Louis	MO	3500	BAPT\
+http://www.calvarymidrivers.org	Calvary Church	Terry Sanderson	Saint Peters	MO	3500	EF\
+http://www.cotr.org	Church on the Rock	David Blunt	Saint Peters	MO	4900	NONDENOM\
+http://www.secondbaptist.org	Second Baptist Church	John Marshall	Springfield	MO	2543	SBC\
+http://www.northpointchurch.tv	North Point Church	Tommy Sparger	Springfield	MO	4500	AG\
+http://www.ridgecrestbaptist.org	Ridgecrest Baptist Church	Hosea Bilyeu	Springfield	MO	1900	SBC\
+http://www.centralassembly.org	Central Assembly of God Church	Jeff Peterson	Springfield	MO	2468	AG\
+http://www.harvestweb.net	Harvest Church	Vern Streeter	Billings	MT	2500	EVAN\
+http://www.faithchapel.cc	Faith Chapel	Stan Simmons	Billings	MT	4500	4SQ\
+http://www.kalcc.org	Kalispell Christian Center	Kevin Geer	Kalispell	MT	2500	AG\
+http://www.bellevuechristian.com	Bellevue Christian Center	Gary Hoyt	Bellevue	NE	2500	CHRISTIAN\
+http://www.lincolnberean.org	Lincoln Berean Church	Bryan Clark	Lincoln	NE	5000	NONDENOM\
+http://www.collegeviewchurch.org	College View Seventh Day Adventist Churc	Ron Halvorsen	Lincoln	NE	2200	SDA\
+http://www.westsideomaha.org	Westside Church	Curt Dodd	Omaha	NE	2000	SBC\
+http://www.christcommunityomaha.org	Christ Community Church	Mark Ashton	Omaha	NE	4200	CMA\
+http://www.kingofkingsomaha.org	King of Kings Lutheran Church	Mark Zehnder	Omaha	NE	2400	LUTH\
+http://www.lifegateomaha.com	Lifegate Church	Les Beauchamp	Omaha	NE	1800	NONDENOM\
+http://www.centralonline.tv	Central Christian Church	Jud Wilhite	Henderson	NV	19225	CHRISTIAN\
+http://www.thechurchlv.com	The Church at South Las Vegas	Benny Perez	Henderson	NV	3200	NONDENOM\
+http://www.thecrossingonline.com	The Crossing A Christian Church	Shane Philip	Las Vegas	NV	2577	CHRISTIAN\
+http://www.victorymbc.org	Victory Missionary Baptist Church	Robert Fowler	Las Vegas	NV	2000	UNK\
+http://shadowhills.org	Shadow Hills Church	Michael Rochelle	Las Vegas	NV	2547	SBC\
+http://ccspringvalley.org	Calvary Chapel Spring Valley	Derek Neider	Las Vegas	NV	3000	CAL\
+http://www.apexchurch.org	Apex Church	Kenneth Odor	Las Vegas	NV	3500	NONDENOM\
+http://www.canyonridge.org	Canyon Ridge Christian Church	Kevin Odor	Las Vegas	NV	6500	CHRISTIAN\
+http://www.iclv.com	International Church of Las Vegas	Paul Goulet	Las Vegas	NV	5000	AG\
+http://www.lifepointnv.com	LifePoint Church	Bill Mccready	Minden	NV	2000	NONDENOM\
+http://www.gracechurchreno.org	Grace Church	Dan Frank	Reno	NV	2500	NONDENOM\
+http://www.livingstonesreno.com	Living Stones Church	Harvey Turner	Reno	NV	2100	NONDENOM\
+http://www.gracechurchreno.org	Grace Community Church	Daniel Frank	Reno	NV	2800	NONDENOM\
+http://www.summitnv.org	Summit Christian Church	Stephen Bond	Sparks	NV	2467	CHRISTIAN\
+http://www.manchesterchristian.com	Manchester Christian Church	Bo Chancey	Manchester	NH	2100	CHRISTIAN\
+http://www.bethanychurch.com	Bethany at Chester Road	Bruce Boria	Raymond	NH	2000	NONDENOM\
+http://www.kcnj.org	Kingdom Church	Dharius Daniels	Ewing	NJ	2500	UNK\
+http://www.hgcusa.org	Hawthorne Gospel Church	John Minnema	Hawthorne	NJ	2200	NONDENOM\
+http://www.jacksonvillechapel.org	Jacksonville Chapel	David Gustavsen	Lincoln Park	NJ	2000	NONDENOM\
+http://www.go2bethany.com	Bethany Baptist Church	David Evans	Lindenwold	NJ	6000	NONDENOM\
+http://www.faconline.org	Fellowship Alliance Chapel	Martin Berglund	Medford	NJ	2500	CMA\
+http://www.liquidchurch.com	Liquid Church	Tim Lucas	Morristown	NJ	2000	NONDENOM\
+http://www.calvary-baptistchurch.org	Calvary Baptist Church	Jerry Carter	Morristown	NJ	1800	BAPT\
+http://www.alfwc.org	Abundant Life Family Worship Church	George Searight	New Brunswick	NJ	2200	NONDENOM\
+http://www.mbcnewark.org	Metropolitan Baptist Church	David Jefferson	Newark	NJ	2500	BAPT\
+http://www.njchodae.net	Chodae Community Church	KyuSam Ham	Norwood	NJ	2500	KPCA\
+http://www.ccob.org	Calvary Chapel of Old Bridge	Lloyd Pulley	Old Bridge	NJ	4500	CAL\
+http://pilgrimchurch.org	Pilgrim Church	Paul Yang	Paramus	NJ	2500	KPCA\
+http://www.lfccnj.com	Faith Living Christian Center	Brian Clark	Pennsauken	NJ	2300	NONDENOM\
+http://www.thecathedral.org	Cathedral International	Donald Hilliard	Perth Amboy	NJ	3000	BAPT\
+http://www.princetonalliance.org	Princeton Alliance Church	Boyd Hannold	Plainsboro	NJ	1800	CMA\
+http://www.agapecenter.org	Agape Family Worship Center	Lawrence Powell	Rahway	NJ	2500	NONDENOM\
+http://www.christchurchnj.org	Christ Church	David Ireland	Rockaway	NJ	5000	NONDENOM\
+http://www.ffmwoc.org	Faith Fellowship Ministries World Outreach Center	David Demola	Sayreville	NJ	10100	NONDENOM\
+http://www.evangelchurch.com	Evangel Church	Kevin Brennan	Scotch Plains	NJ	2117	AG\
+http://www.gcccpray.com	Gloucester County Community Church	J. Sofia	Sewell	NJ	2500	NONDENOM\
+http://www.rccc.org	Rutgers Community Christian Church	Caleb Huang	Somerset	NJ	2200	NONDENOM\
+http://www.fbcsomerset.com	First Baptist Church of Lincoln Gardens	Deforest Soaries	Somerset	NJ	6000	BAPT\
+http://pctr.org	The Presbyterian Church of Toms River	David Joynt	Toms River	NJ	2500	PRES\
+http://www.bethanychurch.net	Bethany Church	D C Chang	Wayne	NJ	2500	KPCA\
+http://www.stmatthewsbc.org	Saint Matthew's Baptist Church	Raymond Gordon	Williamstown	NJ	9000	UNK\
+http://www.legacychurchnm.com	Legacy Church	Steve Smothermon	Albuquerque	NM	10500	NONDENOM\
+http://www.copperpointechurch.com	CopperPointe Church	Galen Woodward	Albuquerque	NM	2000	NONDENOM\
+http://www.hoffmantownchurch.org	Hoffmantown Church	Erik Christensen	Albuquerque	NM	1800	SBC\
+http://www.sagebrushcommunity.com	Sagebrush Community Church	Todd Cook	Albuquerque	NM	9000	NONDENOM\
+http://www.calvaryabq.org	Calvary Chapel of Albuquerque	Skip Heitzig	Albuquerque	NM	14812	CAL\
+http://www.casadelrey.info	Casa del Rey	Ruben Guajardo	Alburquerque	NM	3100	AG\
+http://www.fcfconline.com	Faith Christian Family Church	David Swann	Clovis	NM	2000	NONDENOM\
+http://www.pinonhillschurch.com	Pinon Hills Community Church	John Morgan	Farmington	NM	2000	NONDENOM\
+http://www.cbclascruces.org	Calvary Baptist Church	Chris McRae	Las Cruces	NM	1800	SBC\
+http://www.destinypeople.com	Destiny Center Church	Jerome Wade	Rio Rancho	NM	1800	NONDENOM\
+http://www.ziondominion.org	Zion Dominion Global Ministries	Roderick Hennings	Amherst	NY	2000	COGIC\
+http://thessaloniabaptistchurch.org	Thessalonia Baptist Church	Shellie Sampson	Bronx	NY	2000	BAPT\
+http://www.brooklyntabernacle.org	Brooklyn Tabernacle	Jim Cymbala	Brooklyn	NY	10000	UNK\
+http://www.ebcconnects.com	Emmanuel Baptist Church	Anthony Trufant	Brooklyn	NY	2200	ABC\
+http://www.spcbc.com	Saint Paul Community Baptist	Johnny Youngblood	Brooklyn	NY	2000	NONDENOM\
+http://www.metroministries.org	Metro International Church	Bill Wilson	Brooklyn	NY	2400	NONDENOM\
+http://www.lovefellowship.net	Love Fellowship Tabernacle	Hezekiah Walker	Brooklyn	NY	2000	NONDENOM\
+http://www.cccinfo.org	Christian Cultural Center	A.R. Bernard	Brooklyn	NY	13000	NONDENOM\
+http://www.concordcares.org	Concord Baptist Church of Christ	Gary Simpson	Brooklyn	NY	2500	BAPT\
+http://www.eliminternational.org	Elim International Fellowship	Wilbert Mckinley	Brooklyn	NY	2000	UNK\
+http://www.bethanybcbrooklyn.org	Bethany Baptist Church	David Hampton	Brooklyn	NY	1800	SBC\
+http://www.northwaychurch.tv	Northway Fellowship Church	Buddy Cremeans	Clifton Park	NY	2000	NONDENOM\
+http://www.centrocristianoadonai.com	El Centro Cristiano Adonai	Frank Almonte	Corona	NY	1900	UNK\
+http://www.upperroomny.com	Upper Room Christian World Center	Anthony D'Onofrio	Dix Hills	NY	2200	NONDENOM\
+http://alcclife.org	Abundant Life Christian Center	John Carter	East Syracuse	NY	2000	PENT\
+http://www.kapcq.org	The Korean Presbyterian Church of Queens	Choon Young	Flushing	NY	3000	KPCA\
+http://www.fgnyc.org	Promise New York Church	Nam Sookim	Flushing	NY	3800	AG\
+http://www.perfectingfaith.org	Perfecting Faith Church	Donald McClurkin	Freeport	NY	2000	UNK\
+http://www.thechapel.com	The Chapel	Jerry Gillis	Getzville	NY	4800	NONDENOM\
+http://www.christtabernacle.org	Christ Tabernacle	Michael Durso	Glendale	NY	4000	NONDENOM\
+http://www.wchamburg.org	The Wesleyan Church of Hamburg	Gregory McClain	Hamburg	NY	1900	WES\
+http://www.abyssinian.org	Abyssinian Baptist Church	Calvin Butts	Harlem	NY	4000	NBC\
+http://www.highlandavenuechurch.org	Highland Church	Subash Cherian	Jamaica	NY	3000	NONDENOM\
+http://www.allencathedral.org	Allen AME Church	Floyd Flake	Jamaica	NY	7500	AME\
+http://www.bgtfi.com	Bethel Gospel Tabernacle	Roderick Caesar	Jamaica	NY	2000	NONDENOM\
+http://www.gracefellowship.com	Grace Fellowship Church	Rex Keener	Latham	NY	3400	NONDENOM\
+http://www.cfffc.org	Christian Faith Fellowship Family Church	Joseph McKelvey	Middletown	NY	2500	NONDENOM\
+http://www.greatercentennial.org	Greater Centennial A.M.E. Zion Church	W. Darin Moore	Mount Vernon	NY	2100	AME\
+http://www.theriversidechurchny.net	The Riverside Church	Stephen Phelps	New York	NY	2500	NONDENOM\
+http://www.macedoniachurch.com	Iglesia Pentecostal Macedonia	Antonio Serrano	New York	NY	4550	PENT\
+http://www.tscnyc.org	Times Square Church	Carter Conlon	New York	NY	8000	UNK\
+http://www.canaanbaptistchurchny.org	Canaan Baptist Church of Christ	Wyatt Walker	New York	NY	3000	BAPT\
+http://www.cbcnyc.org	Calvary Baptist Church	David Epstein	New York	NY	2000	BAPT\
+http://www.redeemer.com	Redeemer Presbyterian Church	Tim Keller	New York City	NY	5200	PCA\
+http://www.thetab.org	Full Gospel Tabernacle Church	Tommy Reid	Orchard Park	NY	2200	CHRISTIAN\
+http://www.tfhny.org	The Father's House	Pierre Du Plessis	Rochester	NY	3500	UNK\
+http://www.smithtowngospeltabernacle.org	Smithtown Gospel Tabernacle	Gary Zarlingo	Smithtown	NY	3000	NONDENOM\
+http://www.iccnyc.org	International Christian Center	Russell Hodgins	Staten Island	NY	2450	AG\
+http://www.graceoc.com	Grace Community Church	Jarrod Jones	Washingtonville	NY	1878	BGC\
+http://www.easternhillschurch.org	Eastern Hills Wesleyan Church	Pat Jones	Williamsville	NY	2500	WES\
+http://www.cccary.org	Calvary Chapel	Rodney Finch	Apex	NC	2000	CAL\
+http://www.biltmorebaptist.org	Biltmore Baptist Church	Bruce Frank	Arden	NC	4700	SBC\
+http://www.stmarkschurch.org	Saint Mark's Church	Bob Disher	Burlington	NC	2000	UNK\
+http://www.colonial.org	Colonial Baptist Church	Stephen Davey	Cary	NC	3800	BAPT\
+http://www.crosspointe.org	Crosspointe Church of Cary	Jonathan Bow	Cary	NC	2046	CHRISTIAN\
+http://www.friendshipcharlotte.org	Friendship Missionary Baptist Church	Clifford Jones	Charlotte	NC	2700	BAPT\
+http://www.spbcnc.org	Saint Paul Baptist Church	Gregory Moss	Charlotte	NC	4500	NBC\
+http://www.foresthill.org	Forest Hill Church	David Chadwick	Charlotte	NC	3000	EPC\
+http://www.northsidecharlotte.com	Northside Baptist Church	Brian Boyles	Charlotte	NC	2000	BAPT\
+http://www.upbc.org	University Park Baptist Church	Claude Alexander	Charlotte	NC	10000	BAPT\
+http://www.steelecreek.org	Steele Creek Community Church	Kelvin Smith	Charlotte	NC	2500	NONDENOM\
+http://www.hgbc.org	Hickory Grove Baptist Church	Clint Pressley	Charlotte	NC	4539	SBC\
+http://www.calvarychurch.com	Calvary Church	John Munro	Charlotte	NC	2348	NONDENOM\
+http://www.upbc.org	The Park Church	Claude Richard Alexander	Charlotte	NC	6000	UNK\
+http://www.churchatcharlotte.org	Church at Charlotte	James Kallam	Charlotte	NC	2000	EF\
+http://www.centralchurchofgod.org	Central Church of God	H. Loran Livingston	Charlotte	NC	6000	COG\
+http://www.mecklenburg.org	Mecklenburg Community Church	James White	Charlotte	NC	2000	UNK\
+http://www.vccenter.net	Victory Christian Center	Robyn Gool	Charlotte	NC	3500	NONDENOM\
+http://www.c3church.com	C3 Church	Matt Fry	Clayton	NC	3852	NONDENOM\
+http://www.cfaconcord.com	Concord First Assembly	Rick Ross	Concord	NC	3000	AG\
+http://www.gracecovenant.org	Grace Covenant Church	Farrell Lemings	Cornelius	NC	2600	4SQ\
+http://www.newbirthcharlotte.org	New Birth-Charlotte	Terrell Murphy	Cornelius	NC	6500	NONDENOM\
+http://www.timberlakeministries.com	Christian Faith Center	Brenda Timberlake	Creedmoor	NC	5000	NONDENOM\
+http://www.wocconline.org	World Overcomers Christian Church	Andy Thompson	Durham	NC	2500	NONDENOM\
+http://www.newhopenc.org	Newhope church	Benji Kelley	Durham	NC	3600	NONDENOM\
+http://www.SummitRDU.com	The Summit Church	J.D. Greear	Durham	NC	7000	SBC\
+http://www.mannachurch.org	Manna Church	Michael Fletcher	Fayetteville	NC	7300	UNK\
+http://www.villagebaptistchurch.org	Village Baptist Church	Bruce Martin	Fayetteville	NC	1800	SBC\
+http://www.northwoodtemple.org	Northwood Temple Church	John Hedgepeth	Fayetteville	NC	2000	IPHC\
+http://www.covenantlovechurch.org	Covenant Love Church	Al Brice	Fayetteville	NC	2000	NONDENOM\
+http://www.snydermbc.com	Snyder Memorial Baptist Church	David Crocker	Fayetteville	NC	2000	SBC\
+http://www.bethlehembc.com	Bethlehem Church	Dickie Spargo	Gastonia	NC	2700	SBC\
+http://www.evangelword.org	Evangel Fellowship	Otis Lockett	Greensboro	NC	2000	COGIC\
+http://www.leestokes.com	Destiny Christian Center	Lee Stokes	Greensboro	NC	2100	NONDENOM\
+http://www.mtzbc.com	Mount Zion Baptist Church	George Brooks	Greensboro	NC	2800	BAPT\
+http://www.westoverchurch.com	Westover Church	Don Miller	Greensboro	NC	4000	NONDENOM\
+http://www.mudcreekchurch.org	Mud Creek Baptist Church	Greg Mathis	Hendersonville	NC	2590	SBC\
+http://www.christnc.com	Christ United Methodist Church	Charles Kyker	Hickory	NC	2162	UMC\
+http://www.lakeforestchurch.org	Lake Forest Church	Mike Moses	Huntersville	NC	2000	UNK\
+http://www.fbcit.org	First Baptist Church	Mike Whitson	Indian Trail	NC	2537	SBC\
+http://www.fbcjax.net	First Baptist of Jacksonville	Jason Brinker	Jacksonville	NC	2200	BAPT\
+http://thesummitchurch.net	The Summit Church	Jonathan Robbins	Kernersville	NC	2700	BGC\
+http://www.carmelbaptist.org	Carmel Baptist Church	Wayne Poplin	Matthews	NC	2647	SBC\
+http://www.elevationchurch.org	Elevation Church	Steven Furtick	Matthews	NC	10641	NONDENOM\
+http://www.christcovenant.org	Christ Covenant Church	Michael Ross	Matthews	NC	1800	PCA\
+http://www.covechurch.org	The Cove Church	Mike Madding	Mooresville	NC	4200	UNK\
+http://www.crossroads.org	Crossroads Fellowship Church	Chuck Milian	Raleigh	NC	3500	NONDENOM\
+http://www.gethope.net	Hope Community Church	Mike Lee	Raleigh	NC	8000	SBC\
+http://www.mid-way.com	Mid Way Baptist Church	James Upchurch	Raleigh	NC	2600	NONDENOM\
+http://www.pray.org	Providence Baptist Church	David Horner	Raleigh	NC	2500	SBC\
+http://www.bayleaf.org	Bay Leaf Baptist Church	Marty Jacumin	Raleigh	NC	2500	SBC\
+http://www.elevationbaptist.org	Elevation Baptist Church	Terry Carmichael	Raleigh	NC	2000	BAPT\
+http://www.glbcs.org	Gospel Light Baptist Church	Bobby Roberson	Walkertown	NC	2000	BAPT\
+http://www.southbrookchurch.com	Southbrook Church	Rob Singleton	Weddington	NC	2000	NONDENOM\
+http://www.portcitychurch.org	Port City Community Church	Mike Ashcraft	Wilmington	NC	5200	UNK\
+http://www.calvarynow.com	Calvary Baptist Church	Al Gilbert	Winston Salem	NC	5000	SBC\
+http://www.firstassembly-ws.org	First Assembly of God	Mike Rakes	Winston-Salem	NC	3300	AG\
+http://www.spwoc.com	St. Peter's Church and World Outreach Center	James Hash	Winston-Salem	NC	4000	NONDENOM\
+http://www.connect2covenant.com	Covenant United Methodist Church	Branson Sheets	Winterville	NC	1825	UMC\
+http://www.fargohope.org	Hope Lutheran Church	Paul Nynas	Fargo	ND	2500	ELCA\
+http://www.bethelfc.com	Bethel Church	Doug Anderson	Fargo	ND	2500	EF\
+http://www.thotl.org	The House of the Lord	Flanvis Johnson Jr	Akron	OH	3000	NONDENOM\
+http://www.abtnet.org	Akron Baptist Temple	Ed Holland	Akron	OH	3000	NONDENOM\
+http://www.the-chapel.org	The Chapel	Paul Sartarelli	Akron	OH	7347	NONDENOM\
+http://www.daytonvineyard.com	Vineyard Christian Fellowship	Doug Roe	Beavercreek	OH	3000	VINE\
+http://www.obmcc.org	Only Believe Ministries Christian Center	Peter Doseck	Botkins	OH	2000	NONDENOM\
+http://www.cuyahogavalleychurch.com	Cuyahoga Valley Community Church	Rick Duncan	Broadview Heights	OH	2000	UNK\
+http://whclife.com	World Harvest Church	Rod Parsley	Canal Winchester	OH	5000	NONDENOM\
+http://www.cantonbaptist.org	Canton Baptist Temple	Mike Frazier	Canton	OH	1800	BAPT\
+http://www.firstfriends.org	Faith Family Church	Stan Hinshaw	Canton	OH	3000	NONDENOM\
+http://www.fairhavenchurch.org	Fairhaven Church	David Smith	Centerville	OH	3500	CMA\
+http://www.parksidechurch.com	Parkside Church	Alistair Begg	Chagrin Falls	OH	4000	NONDENOM\
+http://www.mcc.us	Montgomery Community Church	Tom Lipsey	Cincinnati	OH	2500	ABC\
+http://www.lhmbc.org	Lincoln Heights Missionary Baptist Church	Elliott Cuff	Cincinnati	OH	3200	BAPT\
+http://www.crossroads.net	Crossroads	Brian Tome	Cincinnati	OH	15060	NONDENOM\
+http://www.vineyardcincinnati.com	Vineyard Community Church	Dave Workman	Cincinnati	OH	5829	VINE\
+http://www.christemmanuel.org	Christ Emmanuel Christian Fellowship	Michael Dantley	Cincinnati	OH	2000	NONDENOM\
+http://www.clevelandbaptist.org	Cleveland Baptist Church	Kevin Folger	Cleveland	OH	2010	SBC\
+http://www.wordcity.org	The Word Church	Ray Vernon	Cleveland	OH	7000	UNK\
+http://www.oibc.org	Olivet Institutional Baptist Church	Jawanza Colvin	Cleveland	OH	2000	UNK\
+http://www.1stchurch.net	First Church of God	Timothy Clarke	Columbus	OH	4000	COG\
+http://www.eilm.org	Columbus Christian Center Church	David Forbes	Columbus	OH	2500	NONDENOM\
+http://www.newsalemcares.org	New Salem Baptist Church	Keith Troy	Columbus	OH	2000	BAPT\
+http://www.ualc.org	Upper Arlington Lutheran Church	Paul Ulring	Columbus	OH	2200	LUTH\
+http://www.xenos.org	Xenos Christian Fellowship	Dennis McCallum	Columbus	OH	5000	NONDENOM\
+http://www.shilohbaptistchurch.org	Shiloh Baptist Church	Isiah Joshua	Dayton	OH	2500	BAPT\
+http://www.clcdayton.org	Christian Life Center	Stan Tharp	Dayton	OH	2700	AG\
+http://www.farhills.org	Far Hills Community Church	Tony Chester	Dayton	OH	2000	SBC\
+http://www.newpointe.org	NewPointe Community Church	Dwight Mason	Dover	OH	3200	METH\
+http://www.opendoor.tv	Church of the Open Door	Jim Mindling	Elyria	OH	2500	NONDENOM\
+http://www.enewlife.com	New Life Church	Steve Benninger	Gahanna	OH	1800	NONDENOM\
+http://www.thecwc.net	Cypress Wesleyan Church	Ken Murphy	Galloway	OH	3200	WES\
+http://www.grovecitynazarene.org	Grove City Church of the Nazarene	Mark Fuller	Grove City	OH	3446	NAZ\
+http://www.ccchapel.com	Christ Community Chapel	Joe Coffey	Hudson	OH	4500	NONDENOM\
+http://www.apexcommunity.net	Apex Community Church	Chris Cardiff	Kettering	OH	2724	SBC\
+http://www.fairfieldcc.com	Fairfield Christian Church	Tom Alexander	Lancaster	OH	2000	NONDENOM\
+http://www.limacc.com	Lima Community Church	Daniel Huckins	Lima	OH	1888	NAZ\
+http://www.kindness.com	Man's Authentic Nature	Eric Pederson	Loveland	OH	4000	VINE\
+http://www.vcccoitsville.com	Victory Christian Center	David Thomas	Lowellville	OH	2500	AG\
+http://www.crossroadswired.com	Crossroads Community Church	Tim Armstrong	Mansfield	OH	5500	NONDENOM\
+http://www.ccmason.org	Christ's Church At Mason	Tom Moll	Mason	OH	2519	CHRISTIAN\
+http://www.rivertreechristian.com	RiverTree Christian Church	Greg Nettle	Massillon	OH	2600	CHRISTIAN\
+http://www.southbrook.org	SouthBrook Christian Church	Charlie McMahan	Miamisburg	OH	3100	CHRISTIAN\
+http://www.gracecma.com	Grace Church	Jonathan Schaeffer	Middleburg Heights	OH	3600	UNK\
+http://www.solidrockchurch.org	Solid Rock Church	Darlene Bishop	Monroe	OH	4000	NONDENOM\
+http://www.graceohio.org	Grace Church	Jeff Bogue	Norton	OH	4000	UNK\
+http://www.mtzionoakwood.org	Mount Zion Baptist Church of Oakwood Village	Larry Macon	Oakwood Village	OH	3000	BAPT\
+http://www.jerseychurch.org	Jersey Baptist Church	John Hays	Pataskala	OH	1900	SBC\
+http://www.cedarcreek.tv	CedarCreek.tv	Lee Powell	Perrysburg	OH	8800	NONDENOM\
+http://www.rumc.org	Reynoldsburg United Methodist Church	Jeffery Greenway	Reynoldsburg	OH	2200	UMC\
+http://www.fccconnect.org	First Christian Church	Craig Grammer	Springfield	OH	2074	CHRISTIAN\
+http://www.ginghamsburg.org	Ginghamsburg United Methodist Church	Michael Slaughter	Tipp City	OH	4600	UMC\
+http://www.cornerstonetoledo.com	Cornerstone Church	Michael Pitts	Toledo	OH	4000	NONDENOM\
+http://www.heritagecc.org	Heritage Christian Church	Jim Zippay	Westerville	OH	2700	CHRISTIAN\
+http://www.vineyardcolumbus.org	Vineyard Church of Columbus	Rich Nathan	Westerville	OH	8000	VINE\
+http://www.gracebrethren.org	Grace Brethren Church of Columbus	David Plaster	Worthington	OH	2500	BRETHREN\
+http://www.fbcaltus.org	First Baptist Church Altus	Jeff Moore	Altus	OK	2000	SBC\
+http://www.bethanynaz.org	Bethany First Church of the Nazarene	David Busic	Bethany	OK	2361	NAZ\
+http://www.councilroad.org	Council Road Baptist Church	Rick Thompson	Bethany	OK	2300	SBC\
+http://www.destinychurch.com	Destiny Church	Mike Goolsbay	Broken Arrow	OK	1800	NONDENOM\
+http://www.gracetulsa.com	Grace Church	Robert Yandian	Broken Arrow	OK	1800	NONDENOM\
+http://www.fbcba.org	First Baptist Church	Nick Garland	Broken Arrow	OK	2100	SBC\
+http://www.churchatbattlecreek.com	Church at Battle Creek	Alex Himaya	Broken Arrow	OK	2092	SBC\
+http://www.dsheriff.org	Victory Life Family Worship Center	Duane Sheriff	Durant	OK	4000	UNK\
+http://www.mrcc.org	Memorial Road Church of Christ	Mark Taylor	Edmond	OK	2600	COC\
+http://www.hhbc.com	Henderson Hills Baptist Church	Dennis Newkirk	Edmond	OK	2500	SBC\
+http://www.fbcedmond.org	Edmond's First Baptist Church	Alan Day	Edmond	OK	2000	SBC\
+http://www.lifechurch.tv	LifeChurch.tv	Craig Groeschel	Edmond	OK	30000	EC\
+http://http://journeychurch.tv	Journey Church	Clark Mitchell	Norman	OK	3300	EC\
+http://victorychurch.tv	Victory Church	MarkCrow	Oklahoma City	OK	6500	NONDENOM\
+http://peopleschurch.tv	People's Church	Herbert Cooper	Oklahoma City	OK	4282	AG\
+http://www.okcfaith.com	Faith Tabernacle	Terry Bates	Oklahoma City	OK	2000	AG\
+http://www.churchoftheservant.com	Church of the Servant	Robert Gorrell	Oklahoma City	OK	1992	UMC\
+http://www.westmoorechurch.com	Westmoore Community Church	Paul Cunningham	Oklahoma City	OK	2000	EC\
+http://www.thecathedral.tv	Cathedral of Praise	Tony Miller	Oklahoma City	OK	1800	PENT\
+http://www.crossingsokc.org	Crossings Community Church	Martin Grubbs	Oklahoma City	OK	5500	NONDENOM\
+http://www.fbcokc.org	First Baptist Church	Tom Ogburn	Oklahoma City	OK	2000	SBC\
+http://www.southwestbaptistchurch.com	Southwest Baptist Church	Jason Gaddis	Oklahoma City	OK	2500	BAPT\
+http://www.crossroadsokc.com	Crossroads Cathedral	Ted Miller	Oklahoma City	OK	2500	AG\
+http://www.harvestokc.com	Church of the Harvest	Kirk Pankratz	Oklahoma City	OK	2500	NONDENOM\
+http://www.churchonthemove.net	Church on the Move	Willie George	Tulsa	OK	10000	NONDENOM\
+http://www.gutschurch.com	Guts Church	Bill Scheer	Tulsa	OK	4000	NONDENOM\
+http://www.bostonavenue.org	Boston Avenue United Methodist Church	Mouzon Biggs	Tulsa	OK	2004	UMC\
+http://www.asburytulsa.org	Asbury United Methodist Church	Tom Harrison	Tulsa	OK	3274	UMC\
+http://www.rhemabiblechurch.com	Rhema Bible Church	Kenneth Hagin	Tulsa	OK	5500	UNK\
+http://www.fbcba.org	Broken Arrow Baptist Church	Nick Garland	Tulsa	OK	2092	SBC\
+http://www.victorytulsa.org	Victory Christian Center	Sharon Daugherty	Tulsa	OK	9612	UNK\
+http://www.beavertonfoursquare.org	Beaverton Foursquare Church	Randy Remington	Beaverton	OR	5600	4SQ\
+http://www.westsidechurch.org	Westside Church	Ken Johnson	Bend	OR	3500	4SQ\
+http://www.goodshepherdcc.org	Good Shepherd Community Church	Stuart Weber	Boring	OR	2300	NONDENOM\
+http://www.tablerockfellowship.org	Table Rock Fellowship	Tom Sabens	Central Point	OR	2000	NONDENOM\
+http://coolchurch.com	Abundant Life Church	George Powell	Damascus	OR	2426	CHRISTIAN\
+http://www.fbceugene.com	First Baptist Church Eugene	Ben Cross	Eugene	OR	3000	CBA\
+http://www.easthill.org	East Hill Foursquare Church	Jason Albelo	Gresham	OR	2800	4SQ\
+http://www.applegatefellowship.org	Applegate Christian Fellowship	Jon Courson	Jacksonville	OR	7000	CAL\
+http://www.sunsetpres.org	Sunset Presbyterian Church	Ron Kincaid	Portland	OR	2300	PCA\
+http://www.cmbc.org	Cedar Mill Bible Church	Kelly Ballard	Portland	OR	1900	NONDENOM\
+http://www.ajesuschurch.org	Solid Rock Church	John Mark Comer	Portland	OR	6000	NONDENOM\
+http://www.imagodeicommunity.com	Imago Dei Community	Rick McKinley	Portland	OR	2000	UNK\
+http://www.citybiblechurch.org	City Bible Church	Frank Damazio	Portland	OR	3500	NONDENOM\
+http://www.portlandchristiancenter.com	Portland Christian Center	Ray Noah	Portland	OR	2000	AG\
+http://www.salemnaz.org	Salem First Church of the Nazarene	David McGarrah	Salem	OR	2000	NAZ\
+http://www.morningstarchurch.com	Morning Star Community Church	Scott Nelson	Salem	OR	2500	NONDENOM\
+http://www.salemalliance.org	Salem Alliance Church	John Stumbo	Salem	OR	2600	CMA\
+http://www.rollinghills.org	Rolling Hills Community Church	Bill Towne	Tualatin	OR	2900	NONDENOM\
+http://www.southlakechurch.com	Southlake Foursquare Church	Kip Jacob	West Linn	OR	2500	4SQ\
+http://www.lifechurchlv.org	Lifechurch	Randy Landis	Allentown	PA	2000	NONDENOM\
+http://www.clconline.org	Christian Life Center	Del Smith	Bensalem	PA	1900	AG\
+http://www.christcc.org	Christ Community Church	David Hess	Camp Hill	PA	2000	NONDENOM\
+http://www.christian-life.com	Christian Life Assembly	Wayde Wilson	Camp Hill	PA	2900	AG\
+http://kingstreetchurch.com	King Street Church	John Beukema	Chambersburg	PA	2000	UNK\
+http://lifeatvictory.com	Victory Family Church	John &amp; Michelle Nuzzo	Cranberry Twp	PA	2000	UNK\
+http://www.calvary-fellowship.org	Calvary Fellowship Church	Carl Green	Downingtown	PA	2000	NONDENOM\
+http://www.greatershilohchurchpa.com	Greater Shiloh Church	Phillip Davis	Easton	PA	2300	BAPT\
+http://www.dovefellowship.org	Dove Christian Fellowship Church	Deryl Hurst	Ephrata	PA	2000	UNK\
+http://www.branchcreek.org	Branchcreek Community Church	Craig Bishop	Harleysville	PA	3000	NONDENOM\
+http://www.hersheyfree.com	Evangelical Free Church of Hershey	George Davis	Hummelstown	PA	2000	EF\
+http://www.worshipcenter.org	Worship Center	Sam Smucker	Lancaster	PA	2500	NONDENOM\
+http://www.worshipcenter.org	The Worship Center	Sam Smucker	Lancaster	PA	2150	UNK\
+http://calvarychurch.org	Calvary Church	Beau Eckert	Lancaster	PA	2500	NONDENOM\
+http://www.LCBCChurch.com	LCBC Lives Changed By Christ	David Ashcraft	Manheim	PA	10924	NONDENOM\
+http://www.biblechapel.org	The Bible Chapel	Ron Moore	McMurray	PA	2500	UNK\
+http://www.westshorefree.com	West Shore Evangelical Free Church	Phil Thorne	Mechanicsburg	PA	2500	EF\
+http://www.poconocc.com	Pocono Community Church	David Crosby	Mount Pocono	PA	2000	NONDENOM\
+http://www.brighthopebaptist.org	Bright Hope Baptist Church	Kevin Johnson	Philadelphia	PA	2000	BAPT\
+http://www.sharonbc.org	Sharon Baptist Church	Keith Reed	Philadelphia	PA	6800	SBC\
+http://www.christianstronghold.com	Christian Stronghold Baptist Church	Willie Richardson	Philadelphia	PA	2500	BAPT\
+http://www.decministry.org	Deliverance Evangelical Church	Glen Spaulding	Philadelphia	PA	4000	EVAN\
+http://www.ccphilly.org	Calvary Chapel of Philadelphia	Joe Focht	Philadelphia	PA	10000	CAL\
+http://www.enontab.org	Enon Tabernacle Baptist Church	Alyn Waller	Philadelphia	PA	4150	BAPT\
+http://www.acac.net	Allegheny Center Alliance Church	Rockwell Dillaman	Pittsburgh	PA	2700	CMA\
+http://www.mt-ararat.org	Mount Ararat Baptist Church	William Curtis	Pittsburgh	PA	4800	BAPT\
+http://www.ccop.org	Covenant Church of Pittsburgh	Joseph Garlington Sr	Pittsburgh	PA	2000	NONDENOM\
+http://www.gtaog.org	Glad Tidings Church	Bryan Koch	Reading	PA	2689	AG\
+http://www.parkerhill.org	Parker Hill Community Church	Mark Stuenzi	Scranton	PA	1950	NONDENOM\
+http://www.calvary-church.com	Calvary Church	Jay Desko	Souderton	PA	2100	NONDENOM\
+http://www.poconocc.com	Pocono Community Church	Jon Tyson	Tobyhanna	PA	1855	AG\
+http://www.cosnet.org	Church of the Saviour	Todd Pruitt	Wayne	PA	2000	UNK\
+http://www.northway.org	North Way Christian Community	Scott Stevens	Wexford	PA	3000	UNK\
+http://www.lwccyork.com	Living Word Community Church	Steve Almquist	York	PA	2500	NONDENOM\
+http://www.cedarcreekchurch.net	Cedar Creek Church	Philip Lee	Aiken	SC	3000	NONDENOM\
+http://www.newspring.cc	NewSpring Church	Perry Noble	Anderson	SC	15983	BAPT\
+http://www.cbcofbeaufort.org	Community Bible Church	Carl Broggi	Beaufort	SC	2000	NONDENOM\
+http://www.cathedralofpraise.org	Cathedral of Praise	Mike Lewis	Charleston	SC	2700	NONDENOM\
+http://www.wordofgodcm.org	Word of God Church and Ministries	Eric Davis	Columbia	SC	2200	NONDENOM\
+http://www.bwcar.org	Bible Way Church of Atlas Road	Darrell Jackson	Columbia	SC	7000	NONDENOM\
+http://www.shandon.org	Shandon Baptist Church	Dick Lincoln	Columbia	SC	2500	SBC\
+http://www.fbccola.com	First Baptist Church	Wendall Estep	Columbia	SC	3500	SBC\
+http://www.rockspringsbaptist.com	Rock Springs Baptist Church	David Gallamore	Easley	SC	2500	SBC\
+http://www.morningstarministries.org	Morningstar Fellowship Church	Rick Joyner	Fort Mill	SC	2500	NONDENOM\
+http://www.marathonchurch.org	Marathon Church	Eddie Cox	Greenville	SC	2500	BAPT\
+http://www.gracecathedralministries.org	Grace Cathedral Ministries	Sammy Smith	Greenville	SC	2000	UNK\
+http://www.gracechurchsc.org	Grace Church	Matt Williams	Greenville	SC	4000	NONDENOM\
+http://www.rwoc.org	Redemption World Outreach Center	Ron Carpenter	Greenville	SC	10550	NONDENOM\
+http://www.ssm.org	Southside Fellowship	Charles Boyd	Greenville	SC	2000	NONDENOM\
+http://www.praisecathedral.org	Praise Cathedral Church of God	Jerry Madden	Greer	SC	2000	COG\
+http://www.lexingtonbaptist.org	Lexington Baptist Church	Mike Turner	Lexington	SC	1800	SBC\
+http://www.seacoastchurch.org	Seacoast Church	Greg Surratt	Mount Pleasant	SC	12000	NONDENOM\
+http://www.ecbconline.com	East Cooper Baptist Church	Conrad Brown	Mount Pleasant	SC	2166	SBC\
+http://www.barefootchurch.com	Barefoot Church	Clay NeSmith	North Myrtle Beach	SC	2000	UNK\
+http://www.cornerstonecommunity.com	Cornerstone Community Church	Artie Davis	Orangeburg	SC	2000	UNK\
+http://www.westendbaptist.org	West End Baptist Church	Mike Lowery	Rock Hill	SC	2000	BAPT\
+http://www.freedomtempleministries.org	Freedom Temple Ministries	Herbert Crump	Rockhill	SC	2200	NONDENOM\
+http://www.brookwoodchurch.org	Brookwood Church	Perry Duggar	Simpsonville	SC	6103	SBC\
+http://www.fbcsimpsonville.org	First Baptist Church Simpsonville	Randy Harling	Simpsonville	SC	2081	SBC\
+http://www.fbs.org	First Baptist Church	Donald Wilton	Spartanburg	SC	3200	SBC\
+http://www.firstnorth.org	First Baptist North Spartanburg	Michael Hamlet	Spartanburg	SC	2600	SBC\
+http://www.holycross.net	Church of the Holy Cross	John Burwell	Sullivan's Island	SC	1800	EPIS\
+http://www.faithishere.org	Faith Assembly of God	Larry Burgbacher	Summerville	SC	2305	AG\
+http://www.taylorsfbc.org	Taylors First Baptist Church	Frank Page	Taylors	SC	2300	SBC\
+http://www.brushycreek.org	Brushy Creek Baptist Church	Ralph Carter	Taylors	SC	2000	SBC\
+http://www.brooklandbaptist.org	Brookland Baptist Church	Charles Jackson	West Columbia	SC	8340	BAPT\
+http://www.northsidebaptist.org	Northside Baptist Church	Rocky Purvis	West Columbia	SC	2000	SBC\
+http://www.celebratesf.org	Celebrate Church	Keith Loy	Sioux Falls	SD	3500	UNK\
+http://www.myfaithbaptist.org	Faith Baptist	Danny Sinquefield	Bartlett	TN	2500	SBC\
+http://www.bumc.net	Brentwood United Methodist Church	Martin Thielen	Brentwood	TN	2484	UMC\
+http://www.fellowshipnashville.org	Fellowship Bible Church Nashville	Michael Easley	Brentwood	TN	2400	NONDENOM\
+http://www.brentwoodbaptist.com	Brentwood Baptist Church	Michael Glenn	Brentwood	TN	5637	SBC\
+http://www.bwoc.org	Bethel World Outreach Center	Rice Broocks	Brentwood	TN	3500	NONDENOM\
+http://www.silverdalebc.com	Silverdale Baptist Church	Tony Walliser	Chattanooga	TN	2065	SBC\
+http://www.ridgedalebaptist.org	Ridgedale Baptist Church	William Owens	Chattanooga	TN	2500	BAPT\
+http://www.brainerdbaptist.org	Brainerd Baptist Church	Robby Gallaty	Chattanooga	TN	2000	BAPT\
+http://www.fbct.org	First Baptist Church	Roger Freeman	Clarksville	TN	2500	SBC\
+http://www.gcomchurch.com	Grace Community Church	Chad Rowland	Clarksville	TN	2150	UNK\
+http://www.clevelandfbc.com	First Baptist Cleveland	Allan Lockerman &amp; Jim Gibson	Cleveland	TN	2400	SBC\
+http://www.collegedalechurch.com	Collegedale Church	David Smith	Collegedale	TN	2800	SDA\
+http://www.centralchurch.com	Central Church	Ernie Frey	Collierville	TN	2500	NONDENOM\
+http://www.bellevue.org	Bellevue Baptist Church	Steve Gaines	Cordova	TN	6509	SBC\
+http://www.thelifechurch.com	Life Church of Memphis	John Siebeling	Cordova	TN	3000	NONDENOM\
+http://www.hopepres.com	Hope Presbyterian Church	Craig Strickland	Cordova	TN	8000	EPC\
+http://www.gracechapel.net	Grace Chapel	Steve Berger	Franklin	TN	3500	CAL\
+http://www.thepeopleschurch.org	The People's Church	Rick White	Franklin	TN	2901	SBC\
+http://www.germantownbaptist.org	Germantown Baptist Church	Hal Kitchings	Germantown	TN	2000	SBC\
+http://www.baysidebaptist.org	Bayside Baptist Church	Eric Stitts	Harrison	TN	2000	SBC\
+http://www.longhollow.com	Long Hollow Baptist Church	David Landrith	Hendersonville	TN	5272	SBC\
+http://www.firstbaptisthendersonville.com	First Baptist Church	Bruce Chesser	Hendersonville	TN	2653	SBC\
+http://www.dbbc.org	Dallas Bay Baptist Church	Ken Duggan	Hixson	TN	2500	SBC\
+http://www.abbashouse.com	Abba's House/Central Baptist	Ron Phillips	Hixson	TN	2000	SBC\
+http://www.ebcjackson.org	Englewood Baptist Church	Ben Mandrell	Jackson	TN	2500	SBC\
+http://www.fellowshipjackson.com	Fellowship Bible Church	Eugene Brandt	Jackson	TN	3750	UNK\
+http://www.gracejohnsoncity.com	Grace Fellowship Church	Tom Oyler	Johnson City	TN	2000	NONDENOM\
+http://www.faithpromise.org	Faith Promise Church	Chris Stephens	Knoxville	TN	4300	NONDENOM\
+http://www.sevierheights.org	Sevier Heights Baptist Church	Hollie Miller	Knoxville	TN	3000	SBC\
+http://www.parkwest.org	Park West Church	Gerald McGinnis	Knoxville	TN	2000	UNK\
+http://www.fbconcord.org	First Baptist Concord	Doug Sager	Knoxville	TN	2860	SBC\
+http://www.fefc.com	Fellowship Evangelical Free Church	Rick Dunn	Knoxville	TN	2600	EF\
+http://www.cclive.org	Cokesbury United Methodist Church	Steven Sallee	Knoxville	TN	2806	UMC\
+http://www.cbcbearden.org	Central Baptist Bearden	Wade Bibb	Knoxville	TN	2000	SBC\
+http://www.cspc.net	Cedar Springs Presbyterian Church	John Wood	Knoxville	TN	2700	EPC\
+http://www.gracebc.org	Grace Baptist Church	Ronald Stewart	Knoxville	TN	2783	SBC\
+http://www.cornerstonenashville.org	Cornerstone Assembly of God	Maury Davis	Madison	TN	4024	AG\
+http://www.madisoncofc.org	Madison Church of Christ	Philip Barnes	Madison	TN	2150	COC\
+http://www.goldengatecathedral.org	Golden Gate Cathedral	Edwards Stephens	Memphis	TN	4500	NONDENOM\
+http://pastorjamesadams.org	St. Stephen Baptist Church	James Adams	Memphis	TN	2000	BAPT\
+http://www.n2newdirection.org	New Direction Christian Church	Stacy Spencer	Memphis	TN	10948	CHRISTIAN\
+http://www.worldovercomers.org	World Overcomers Outreach Ministries Church	Alton Williams	Memphis	TN	3000	NONDENOM\
+http://www.templeofdeliverancememphis.org	Temple of Deliverance	Milton Hawkins	Memphis	TN	10000	COGIC\
+http://www.thelifechurch.com	The Life Church	John Siebeling	Memphis	TN	3400	NONDENOM\
+http://www.2pc.org	Second Presbyterian Church	Sanders Willson	Memphis	TN	3600	PCA\
+http://www.csmb.net	Cummings Street Missionary Baptist	Gary Faulkner	Memphis	TN	3000	BAPT\
+http://www.kwbc.org	Kirby Woods Baptist Church	Robert Pitman	Memphis	TN	1800	SBC\
+http://www.newsalembaptist.com	New Salem Missionary Baptist Church	Frank Ray	Memphis	TN	3100	MISSBAPT\
+http://www.mt-vernon.org	Mount Vernon Baptist Church	James Netters	Memphis	TN	3000	BAPT\
+http://www.fbc-millington.org	First Baptist Church	Ray Newcomb	Millington	TN	2500	SBC\
+http://www.newvisiononline.net	New Vision Baptist Church	Brady Cooper	Murfreesboro	TN	2150	SBC\
+http://www.wochurch.org	World Outreach Church	Allen Jackson	Murfreesboro	TN	6000	NONDENOM\
+http://www.north-blvd.org	North Boulevard Church of Christ	David Young	Murfreesboro	TN	1800	COC\
+http://www.woodmont.org	Woodmont Hills Church of Christ	John York	Nashville	TN	1900	COC\
+http://www.crosspoint.tv	Cross Point Church	Pete Wilson	Nashville	TN	4500	NONDENOM\
+http://www.fhbc.org	Forest Hills Baptist Church	Sam Boyd	Nashville	TN	2000	SBC\
+http://www.christchurchnashville.org	Christ Church	Daniel Scott	Nashville	TN	4500	NONDENOM\
+http://www.casadediosusa.net	Iglesia de Dios Hispana de Nashville	Jose Rodriguez	Nashville	TN	2000	PENT\
+http://www.lpmbc.org	Lake Providence Missionary Baptist Church	H. Bruce Maxwell	Nashville	TN	2200	MISSBAPT\
+http://www.christpres.org	Christ Presbyterian Church	Wilson Benton	Nashville	TN	2000	PCA\
+http://www.tworivers.org	The Fellowship at Two Rivers	Matt Surber	Nashville	TN	2000	BAPT\
+http://www.belmont.org	Belmont Church	Brian Wade	Nashville	TN	2000	NONDENOM\
+http://www.mtzionnashville.org	Mount Zion Baptist Church	Joseph Walker	Nashville	TN	10000	BAPT\
+http://www.fbcsev.org	First Baptist Church	Randy Davis	Sevierville	TN	2200	SBC\
+http://mypeopleschurch.org	The People's Church	Drew Hayes	Shelbyville	TN	2500	UNK\
+http://www.lifepointchurch.org	LifePoint Church	Patrick Hood	Smyrna	TN	3100	BAPT\
+http://www.beltway.org	Beltway Park Baptist Church	David McQueen	Abilene	TX	2700	SBC\
+http://www.cottonwoodcreek.org	Cottonwood Creek Baptist Church	John Caton	Allen	TX	2100	SBC\
+http://www.hillsidewired.com	Hillside Christian Church- Amarillo West	Tom Politz	Amarillo	TX	8000	CHRISTIAN\
+http://www.yourtrinity.org	Trinity Fellowship Church	Jimmy Evans	Amarillo	TX	3500	NONDENOM\
+http://www.fbc-amarillo.org	First Baptist Church Amarillo	Howard Batson	Amarillo	TX	2050	SBC\
+http://www.crosstimberschurch.org	Cross Timbers Community Church	Toby Slough	Argyle	TX	4600	NONDENOM\
+http://www.highpointchurch.com	High Point Church	Gary Simons	Arlington	TX	6000	NONDENOM\
+http://www.fielder.org	Fielder Road Baptist Church	Gary Smith	Arlington	TX	2001	SBC\
+http://www.mountolivebc.org	Mount Olive Baptist Church	Norman Robinson	Arlington	TX	3500	BAPT\
+http://www.overcomingfaith.com	Overcoming Faith Christian Center	Gene Lingerfelt	Arlington	TX	2000	UNK\
+http://www.rushcreek.org	The Church on Rush Creek	Russ Barksdale	Arlington	TX	3300	SBC\
+http://www.labc.com	Lake Arlington Baptist Church	Eric Herrstrom	Arlington	TX	2000	SBC\
+http://www.fbca.org	First Baptist Church	Dennis Wiles	Arlington	TX	2292	SBC\
+http://www.shorelineonline.com	Shoreline Christian Center	Robert Koke	Austin	TX	5000	NONDENOM\
+http://www.ghbc.org	Great Hills Baptist Church	Michael Lewis	Austin	TX	2200	SBC\
+http://www.hpbc.org	Hyde Park Baptist Church	J. Kie Bowman	Austin	TX	2067	SBC\
+http://www.austinridge.org	Austin Ridge Bible Church	Brad Thomas	Austin	TX	2600	UNK\
+http://www.fefc.org	First Evangelical Free Church	Rob Harrell	Austin	TX	2500	EF\
+http://www.highpointeaustin.org	High Pointe Baptist Church	Juan Sanchez	Austin	TX	2219	SBC\
+http://www.lhc.org	Lake Hills Church	Mac Richard	Austin	TX	3204	SBC\
+http://www.acfellowship.org	Austin Christian Fellowship	Will Davis Jr.	Austin	TX	1800	NONDENOM\
+http://www.riverbend.com	Riverbend Church	Dave Haney	Austin	TX	4000	NONDENOM\
+http://www.gccaustin.org	Grace Covenant Church	Matt Cassidy	Austin	TX	2500	NONDENOM\
+http://www.promiselandchurch.net	PromiseLand Church	Kenneth Phillips	Austin	TX	2400	NONDENOM\
+http://www.gmzaustin.org	Greater Mount Zion Baptist Church	Gaylon Clark	Austin	TX	1800	BAPT\
+http://www.blcms.org	Bethany Lutheran Church	William Knippa	Austin	TX	2200	LUTH\
+http://www.gatewaychurch.com	Gateway Community Church	John Burke	Austin	TX	4500	UNK\
+http://www.themount.net	Mount Sinai Missionary Baptist Church	A.W. Mays	Austin	TX	2200	BAPT\
+http://www.bbcfamily.com	Bannockburn Baptist Church	Ryan Rush	Austin	TX	2000	BAPT\
+http://www.hcbc.com	Hill Country Bible Church NW	Tim Hawks	Austin	TX	4600	UNK\
+http://www.austinstone.org	The Austin Stone Community Church	Matt Carter	Austin	TX	6500	SBC\
+http://www.calvaryontheweb.com	Calvary Baptist Church	Nathan Cothen	Beaumont	TX	2350	SBC\
+http://www.antiochbmt.org	Antioch Missionary Baptist Church	John Adolph	Beaumont	TX	2800	MISSBAPT\
+http://www.fbcbelton.org	First Baptist Church	Andy Davis	Belton	TX	2000	SBC\
+http://www.iccenter.org	International Christian Center	Bob Ordeman	Brownsville	TX	2000	UNK\
+http://www.benttree.org	Bent Tree Bible Fellowship	Pete Briscoe	Carrollton	TX	4500	NONDENOM\
+http://www.northchurch.org	North Church	Lawrence Kennedy	Carrollton	TX	3500	NONDENOM\
+http://www.mundodefe.org	Mundo De Fe	Tim Holland	Carrollton	TX	2000	UNK\
+http://bethaniausa.com/inicio.html	Ministerios Bethania USA	Victor Higueros	Carrollton	TX	2500	UNK\
+http://www.covenantchurch.org	Covenant Church	Mike Hayes	Carrollton	TX	11000	NONDENOM\
+http://www.newsongdallas.org	New Song Church	Bak In Hwa	Carrollton	TX	2000	SBC\
+http://www.trinityministries.org	Trinity Church	Jim Hennesy	Cedar Hill	TX	2600	AG\
+http://www.cbcbryan.org	Central Baptist Church	Chris Osborne	College Station	TX	3000	SBC\
+http://www.grace-bible.org	Grace Bible Church	Brian Fisher	College Station	TX	2500	NONDENOM\
+http://www.mycompasschurch.com	Compass Christian Church	Drew Sherman	Colleyville	TX	3012	CHRISTIAN\
+http://www.arkchurch.org	Ark Family Church	Alan Clayton	Conroe	TX	4200	NONDENOM\
+http://www.chop.org	Christian House of Prayer	Nathaniel Holcomb	Copperas Cove	TX	2500	NONDENOM\
+http://www.bayareafellowship.com	Bay Area Fellowship	Bil Cornelius	Corpus Christi	TX	8000	SBC\
+http://www.MyRealLife.org	Real Life	Micah Davidson	Corpus Christi	TX	2600	SBC\
+http://www.cofonline.org	Community of Faith	Mark Shook	Cypress	TX	6000	UNK\
+http://www.cathedralofhope.com	Cathedral of Hope	Jo Hudson	Dallas	TX	1800	UCC\
+http://www.friendshipwest.org	Friendship West Baptist Church	Frederick Haynes	Dallas	TX	9000	ABC\
+http://www.firstdallas.org	First Baptist Church	Robert Jeffress	Dallas	TX	2632	SBC\
+http://ghcdallas.org	Globe Harvest Church	Jon Choi	Dallas	TX	2260	SBC\
+http://www.ocbfchurch.org	Oak Cliff Bible Fellowship Church	Tony Evans	Dallas	TX	7000	NONDENOM\
+http://www.prestoncrest.org	Prestoncrest Church of Christ	Bob Chisholm	Dallas	TX	2500	COC\
+http://www.ibocjoy.org	Inspiring Body of Christ Church	Rickie Rush	Dallas	TX	8000	UNK\
+http://www.watermark.org	Watermark Community Church	Todd Wagner	Dallas	TX	7500	NONDENOM\
+http://www.pcpc.org	Park Cities Presbyterian Church	Mark Davis	Dallas	TX	5500	PCA\
+http://www.hpumc.org	Highland Park United Methodist Church	Mark Craig	Dallas	TX	4400	UMC\
+http://www.thepottershouse.org	The Potter's House	T. D. Jakes	Dallas	TX	10000	NONDENOM\
+http://www.greatercornerstone.org	Greater Cornerstone Baptist Church	David Wilson	Dallas	TX	4250	SBC\
+http://www.cctof.org	Christian Chapel Temple of Faith	Jerome McNeil	Dallas	TX	3500	CME\
+http://www.afmbc.org	Antioch Fellowship Missionary Baptist Church	Karry Wesley	Dallas	TX	2000	MISSBAPT\
+http://www.concorddallas.org	Concord Church	Bryan Carter	Dallas	TX	3650	BAPT\
+http://www.pcbc.org	Park Cities Baptist Church	Jeff Warren	Dallas	TX	2500	SBC\
+http://www.saintmichael.org	Saint Michael and All Angels Episcopal	Mark Anschutz	Dallas	TX	5000	EPIS\
+http://www.saintsvillecogic.org	Saintsville Sanctuary Church of God In Christ	J. Haynes	Dallas	TX	2000	COGIC\
+http://www.davidemartin.org	Gospel Tabernacle Church	David Martin	Dallas	TX	3500	NONDENOM\
+http://www.pilgrimrestdallas.org	Pilgrim Rest Missionary Baptist Church	Curtis Wallace	Dallas	TX	2500	BAPT\
+http://www.dentonbible.org	Denton Bible Church	Tom Nelson	Denton	TX	5000	NONDENOM\
+http://www.vinonuevoelpaso.com	Vino Nuevo de El Paso	Chris Richards	El Paso	TX	4000	EVAN\
+http://www.cielovistachurch.org	Cielo Vista Church	Rod Smith	El Paso	TX	2000	NONDENOM\
+http://www.alfc.com	Abundant Living Faith Center	Charles Nieman	El Paso	TX	10000	NONDENOM\
+http://www.pdcchurch.com	Iglesia Puerta Del Cielo	Marco Aguirre	El Paso	TX	2500	UNK\
+http://www.firsteuless.com	First Baptist Church Euless	John Meador	Euless	TX	2435	SBC\
+http://www.thevillagechurch.net	The Village Church	Matt Chandler	Flower Mound	TX	9780	SBC\
+http://www.valleycreek.org	Valley Creek Church	John Stickl	Flower Mound	TX	2800	NONDENOM\
+http://www.glenviewchurch.org	Glenview Baptist Church	Dennis Baw	Fort Worth	TX	2300	SBC\
+http://www.travis.org	Travis Avenue Baptist Church	Donnie Voss	Fort Worth	TX	2000	SBC\
+http://www.mckinneychurch.com	McKinney Memorial Bible Church	Chris Freeland	Fort Worth	TX	2000	NONDENOM\
+http://www.ccbcfamily.org	Christ Chapel Bible Church	Ted Kitchens	Fort Worth	TX	4500	NONDENOM\
+http://www.theharvestchurch.org	Harvest Church	Chuck Angel	Fort Worth	TX	1800	BAPT\
+http://www.pantego.org	Pantego Bible Church	David Daniels	Fort Worth	TX	2500	NONDENOM\
+http://www.gcbcfw.org	Great Commission Baptist Church	Douglas Brown	Fort Worth	TX	2000	SBC\
+http://www.calvaryh.org	Calvary Houston	Ron Hindt	Friendswood	TX	2000	NONDENOM\
+http://www.elevatelife.com	Elevate Life Church	Keith Craft	Frisco	TX	4000	NONDENOM\
+http://www.hopefellowship.net	Hope Fellowship	John McKinzie	Frisco	TX	3100	AG\
+http://www.stonebriar.org	Stonebriar Community Church	Chuck Swindoll	Frisco	TX	4500	NONDENOM\
+http://www.saturnroad.org	Saturn Road Church of Christ	John Scott	Garland	TX	1800	COC\
+http://www.celebrationchurchtx.com	Celebration Church	Joe Champion	Georgetown	TX	5000	NONDENOM\
+http://www.lakesidebc.org	Lakeside Baptist Church	Mark Forrest	Granbury	TX	1800	BAPT\
+http://www.sjbcfamily.com	Saint John Baptist Church	Denny Davis	Grand Prairie	TX	8800	NONDENOM\
+http://www.crossroadschristian.net	Crossroads Christian Church	Barry Cameron	Grand Prairie	TX	4167	CHRISTIAN\
+http://www.fellowshipchurch.com	Fellowship Church	Ed Young	Grapevine	TX	24162	SBC\
+http://www.grace.tv	Grace Community Church	Steve Riggle	Houston	TX	5000	UNK\
+http://www.aliefbaptistchurch.org	Alief Baptist Church	Donald Burgs Jr	Houston	TX	2406	SBC\
+http://www.wheeleravebc.org	Wheeler Avenue Baptist Church	Marcus Cosby	Houston	TX	6000	NBC\
+http://www.bethelsfamily.org	Bethel's Family	Walter August Jr	Houston	TX	2700	SBC\
+http://www.swcbc.net	Southwest Community Church	Gregg Patrick	Houston	TX	3400	SBC\
+http://www.foundrychurch.org	The Foundry United Methodist Church	Godfrey Hubert	Houston	TX	1800	UMC\
+http://www.chapelwood.org	Chapelwood United Methodist Church	Jim Jackson	Houston	TX	2253	UMC\
+http://www.marchoffaith.com	Saint Agnes Baptist Church	Gene Moore	Houston	TX	2500	BAPT\
+http://www.sagemontchurch.org	Sagemont Church	John Morgan	Houston	TX	3984	SBC\
+http://www.harvesttimechurch.net	Harvest Time Church	Shelton Bady	Houston	TX	2000	NONDENOM\
+http://www.stlukesmethodist.org	St Lukes United Methodist Church	Thomas Pace	Houston	TX	1931	UMC\
+http://www.stmartinsepiscopal.org	Saint Martin's Episcopal Church	&quot;Russell J. Levenson, Jr&quot;	Houston	TX	4000	EPIS\
+http://www.newlight.org	New Light Christian Center Church	Ira Hilliard	Houston	TX	13500	UNK\
+http://www.bethelsfamily.org	The Church at Bethel's Family	Walter August	Houston	TX	2000	UNK\
+http://www.lifetabernacle.cc	Life Tabernacle	Jim Kilgore	Houston	TX	3000	UNK\
+http://www.abundantlifecathedral.org	Abundant Life Cathedral Church	Ed Montgomery	Houston	TX	5000	NONDENOM\
+http://www.second.org	Second Baptist Church	H. Edwin Young	Houston	TX	19168	SBC\
+http://www.fountainofpraise.org	The Fountain of Praise	Remus Wright	Houston	TX	9000	SBC\
+http://www.greatersaintmatthew.org	Greater Saint Matthew Church	Gusta Booker	Houston	TX	3400	SBC\
+http://www.braeswoodchurch.org	Braeswood Assembly of God	Steve Banning	Houston	TX	2300	AG\
+http://www.themetonline.org	The Met (Metropolitan Baptist Church)	Sal Sberna	Houston	TX	3600	BAPT\
+http://www.fallbrookchurch.org	Fallbrook Church	Mike Pender	Houston	TX	4000	UNK\
+http://www.houstonsfirst.org	Houston's First Baptist Church	Gregg Matte	Houston	TX	10000	SBC\
+http://www.higherd.net	Higher Dimension Church	Terrance Johnson	Houston	TX	3700	SBC\
+http://www.jamesdixonministries.org	The Community of Faith	James Dixon	Houston	TX	6000	UNK\
+http://www.newfaithchurch.org	New Faith Church	T.R. Williams	Houston	TX	2500	SBC\
+http://www.ctab.org	Christian Tabernacle	Richard Heard	Houston	TX	4000	UNK\
+http://www.churchwithoutwalls.org	Church Without Walls	Ralph West	Houston	TX	13000	SBC\
+http://www.cfbc.org	Champion Forest Baptist Church	David Fleming	Houston	TX	4442	SBC\
+http://www.mountcorinth.com	Mount Corinth Baptist Church	A.L Patterson	Houston	TX	2000	UNK\
+http://www.lakewood.cc	Lakewood Church	Joel Osteen	Houston	TX	43500	NONDENOM\
+http://www.stjohnsdowntown.org	Saint John's Downtown United Methodist Church	Rudy Rasmus	Houston	TX	2044	UMC\
+http://www.lillygrove.org	Lilly Grove Missionary Baptist Church	Terry Anderson	Houston	TX	1900	BAPT\
+http://www.brentwoodbaptist.org	Brentwood Baptist Church	Joe Ratliff	Houston	TX	3000	SBC\
+http://www.tallowood.org	Tallowood Baptist Church	A. Duane Brooks	Houston	TX	2000	BAPT\
+http://www.kingdombuilder.com	Windsor Village United Methodist Church	Kirbyjon Caldwell	Houston	TX	5859	UMC\
+http://www.irvingbible.org	Irving Bible Church	Andrew McQuitty	Irving	TX	4100	NONDENOM\
+http://www.newbeginnings.org	DFW New Beginnings Church	Larry Huch	Irving	TX	3000	NONDENOM\
+http://www.calvarychurch.cc	Calvary Church	Ben Dailey	Irving	TX	4500	AG\
+http://www.bc-bc.org	Bear Creek Baptist Church	David Welch	Katy	TX	2714	SBC\
+http://www.kingsland.org	Kingsland Baptist Church	Alexander Kennedy	Katy	TX	2800	SBC\
+http://www.whatisgrace.org	Grace Fellowship United Methodist Church	Jim Leggett	Katy	TX	2442	UMC\
+http://www.milestonechurch.com	Milestone Church	Jeff Little	Keller	TX	2000	UNK\
+http://www.northwoodchurch.org	NorthWood Church	Bob Roberts	Keller	TX	2106	SBC\
+http://www.fellowshipoftheparks.com	Fellowship of the Parks	Doug Walker	Keller	TX	2500	UNK\
+http://www.gracechristiancenter.com	Grace Christian Center	Terry Whitley	Killeen	TX	2000	NONDENOM\
+http://www.alcc.org	Abundant Life Christian Center	Walter Hallam	La Marque	TX	3000	NONDENOM\
+http://www.icmchurchonline.org	Iglesia Cristiana Misericordia	Gilberto Velez	Laredo	TX	2400	AG\
+http://www.clearcreek.org	Clear Creek Community Church	Bruce Wesley	League City	TX	5000	SBC\
+http://www.westsidebaptistchurch.com	Westside Baptist Church	Kenneth Blake	Lewisville	TX	2001	BAPT\
+http://www.mobberly.org	Mobberly Baptist Church	Glynn Stone	Longview	TX	2118	SBC\
+http://lbtministries.com	Longview Baptist Temple	Bob Gray	Longview	TX	2500	BAPT\
+http://www.experiencelifenow.com	Experience Life	Chris Galanos	Lubbock	TX	3299	NONDENOM\
+http://www.trinitytoday.com	Trinity Church	Carl Toti	Lubbock	TX	2900	NONDENOM\
+http://www.fbclubbock.org	First Baptist Church of Lubbock	Bobby Dagnel	Lubbock	TX	2000	SBC\
+http://www.firstmethodistmansfield.org	First United Methodist Church	Mike Ramsdell	Mansfield	TX	2039	UMC\
+http://www.newhopechurch.tv	New Hope Church	Tim Liston	Manvel	TX	5363	CHRISTIAN\
+http://www.btmcallen.com	Baptist Temple Church	Trevor Carpenter	McAllen	TX	2786	SBC\
+http://www.christfellowshiphome.com	Christ Fellowship	Bruce Miller	McKinney	TX	2100	NONDENOM\
+http://www.fbcmckinney.com	First Baptist Church McKinney	Richard Lee	McKinney	TX	2301	SBC\
+http://fbc-midland.org	First Baptist Church	Gary Dyer	Midland	TX	2000	SBC\
+http://www.stonegatefellowship.com	Stonegate Fellowship	Patrick Payton	Midland	TX	4000	UNK\
+http://www.palmvalleychurch.com	Palm Valley Church	Rick Gannon	Mission	TX	3700	NONDENOM\
+http://www.oakwoodbaptist.org	Oakwood Baptist Church	Ray Still	New Braunfels	TX	2447	SBC\
+http://www.thehills.org	The Hills Church of Christ	Rick Atchley	North Richland Hills	TX	4500	COC\
+http://www.fbp.org	First Baptist Church	Charles Redmond	Pasadena	TX	3250	SBC\
+http://www.silverlakechurch.net	Silverlake Church	Reginald DeVaughn	Pearland	TX	2675	SBC\
+http://www.calvaryaustin.org	Calvary Austin	Terry Michaels	Pflugerville	TX	2500	CAL\
+http://www.chaseoaks.org	Chase Oaks Church	Jeff Jones	Plano	TX	5000	NONDENOM\
+http://www.prestonwood.org	Prestonwood Baptist Church	Jack Graham	Plano	TX	15388	SBC\
+http://www.graceoutreachcenter.org	Grace Outreach Center	Gerald Brooks	Plano	TX	4300	NONDENOM\
+http://www.gccplano.org	Grace Community Church	George Feiser	Plano	TX	1850	UNK\
+http://www.onechurchhome.org	One Community Church	Conway Edwards	Plano	TX	3000	NONDENOM\
+http://www.cumc.com	Christ United Methodist Church	Donald Underwood	Plano	TX	1977	UMC\
+http://www.christchurchplano.org	Christ Church Plano	David Roseberry	Plano	TX	2500	ANGLICAN\
+http://www.theoaksonline.org	The Oaks Fellowship	Scott Wilson	Red Oak	TX	2700	AG\
+http://www.fbcr.org	First Baptist Church of Richardson	Russell Dilday	Richardson	TX	2400	SBC\
+http://www.fbchp.org	First Baptist Church of Hamilton Park	Gregory Foster	Richardson	TX	3000	BAPT\
+http://www.fumcr.com	First United Methodist Church Richardson	Clayton Oliphint	Richardson	TX	2183	UMC\
+http://www.theheights.org	The Heights Baptist Church	Gary Singleton	Richardson	TX	2623	SBC\
+http://www.riverpointe.org	River Pointe Church	Patrick Kelley	Richmond	TX	3500	UNK\
+http://www.lakepointe.org	Lake Pointe Church	Steve Stroope	Rockwall	TX	10623	SBC\
+http://www.placeforlife.org	Place for Life	Rick Hawkins	San Antonio	TX	3000	NONDENOM\
+http://www.abundant-life.cc	Abundant Life Church of God	Eliezer Bonilla	San Antonio	TX	2000	COG\
+http://www.concordia-satx.com	Concordia Lutheran Church	William Tucker	San Antonio	TX	3000	LUTH\
+http://www.oakhillschurch.com	Oak Hills Church	Randy Frazee	San Antonio	TX	8578	COC\
+http://www.ahumc.org	Alamo Heights United Methodist Church	David McNitzky	San Antonio	TX	1800	UMC\
+http://www.summitsa.com	Summit Christian Center	Rick Godwin	San Antonio	TX	2834	NONDENOM\
+http://www.sacornerstone.com	Cornerstone Church	John Hagee	San Antonio	TX	17000	NONDENOM\
+http://www.brcc.net	Bandera Road Community Church	David Saathoff	San Antonio	TX	4950	NONDENOM\
+http://www.communitybible.com	Community Bible Church	Robert Emmitt	San Antonio	TX	15412	NONDENOM\
+http://www.uchurch.tv	University United Methodist Church	Charles Anderson	San Antonio	TX	2589	UMC\
+http://www.whag.net	Westover Hills Assembly of God	Jim Rion	San Antonio	TX	4314	AG\
+http://www.alamocity.org	Alamo City Christian Fellowship	David Walker	San Antonio	TX	2125	SBC\
+http://www.gatewaypeople.com	Gateway Church	Robert Morris	Southlake	TX	18055	NONDENOM\
+http://www.whiteschapelumc.com	White's Chapel United Methodist Church	John McKellar	Southlake	TX	3863	UMC\
+http://www.faithbridge.org	Faithbridge Church	Ken Werlein	Spring	TX	2200	UMC\
+http://www.sugarcreek.net	Sugar Creek Baptist Church	Mark Hartman	Sugar Land	TX	3335	SBC\
+http://www.sugarcreek.net	Church at Sugar Creek	Mark Hartman	Sugar Land	TX	4500	SBC\
+http://www.sunnyvalefbc.com	Sunnyvale First Baptist Church	Charles Wilson	Sunnyvale	TX	2400	SBC\
+http://www.templebiblechurch.org	Temple Bible Church	Gary DeSalvo	Temple	TX	2800	NONDENOM\
+http://www.fotw.org	Woodlands Church	Kerry Shook	The Woodlands	TX	18434	SBC\
+http://www.twumc.org	The Woodlands United Methodist Church	Ed Robb	The Woodlands	TX	4267	UMC\
+http://www.gcc.org	Grace Community Church	Doug Clark	Tyler	TX	2450	UNK\
+http://www.gabc.org	Green Acres Baptist Church	David Dykes	Tyler	TX	4537	SBC\
+http://www.faithfamilyvictoria.com	Faith Family Church	Jim Graff	Victoria	TX	3000	UNK\
+http://www.columbusave.org	Columbus Avenue Baptist Church	Brian Dunks	Waco	TX	2500	SBC\
+http://www.antiochcc.net	Antioch Community Church	Jimmy Seibert	Waco	TX	2500	NONDENOM\
+http://www.fbcwf.org	First Baptist Church	Bob McCartney	Wichita Falls	TX	2000	SBC\
+http://www.smccutah.org	South Mountain Community Church	Paul Robie	Draper	UT	1800	NONDENOM\
+http://riosdeaguaviva-utah.org	Iglesia Rios de Agua Via	Victor Espinoza	Odgen	UT	2000	UNK\
+http://www.theheightscommunity.org	Washington Heights Baptist Church	Roy Gruber	Ogden	UT	2200	CBA\
+http://www.highlandsfellowship.com	Highlands Fellowship	Jimmie Davidson	Abingdon	VA	3159	SBC\
+http://www.alfredstreet.org	Alfred Street Baptist Church	Howard-John Wesley	Alexandria	VA	2800	BAPT\
+http://www.cfellowshipc.org	Christian Fellowship Church	Kent Williams	Ashburn	VA	2000	NONDENOM\
+http://magchurch.org	Manassas Assembly of God	Scott Leib	Bristow	VA	2016	AG\
+http://www.kcpc.org/kcpc/english/about/about.asp	Korean Central Presbyterian Church	W.S. Lee	Centreville	VA	4500	PCA\
+http://www.themountleads.org	Mount Lebanon Missionary Baptist Church	Kim Brown	Chesapeake	VA	2300	MISSBAPT\
+http://chbaptist.com	Colonial Heights Baptist Church	Randall Hahn	Colonial Heights	VA	2125	SBC\
+http://www.restonbible.org	Reston Bible Church	Mike Minter	Dulles	VA	1800	NONDENOM\
+http://www.fmzbc.net	First Mount Zion Baptist Church	Luke Torian	Dumfries	VA	3400	BAPT\
+http://www.gracechurchva.org	Grace Church	Derek Grier	Dumfries	VA	2000	NONDENOM\
+http://www.fairfax.cc	Fairfax Community Church	Rod Stafford	Fairfax	VA	2500	UNK\
+http://www.antioch-church.org	Antioch Baptist Church	Marshal Ausberry	Fairfax Station	VA	1800	SBC\
+http://www.tfcanglican.org	The Falls Church Anglican	John Yates	Falls Church	VA	3000	ANGLICAN\
+http://www.blue-ridge.org	Blue Ridge Community Church	Woody Torrence	Forest	VA	2000	NONDENOM\
+http://www.visitlifepoint.org	Lifepoint Church	Daniel Floyd	Fredericksburg	VA	1800	UNK\
+http://www.spotswood.org	Spotswood Baptist Church	Drew Landry	Fredericksburg	VA	2000	SBC\
+http://www.lbcmin.com	Liberty Baptist Church	Grant Ethridge	Hampton	VA	3023	SBC\
+http://www.bethel-temple.org	Bethel Temple Assembly of God	Ron Johnson	Hampton	VA	2613	AG\
+http://www.opendoorpc.org	Open Door Presbyterian Church	Paul Kim	Herndon	VA	2500	PRES\
+http://www.cornerstonechapel.net	Cornerstone Chapel	Gary Hamrick	Leesburg	VA	2500	UNK\
+http://www.trbc.org	Thomas Road Baptist Church	Jonathan Falwell	Lynchburg	VA	16000	UNK\
+http://tolm.net	Tree of Life Ministries	Mike Dodson	Lynchburg	VA	2400	PENT\
+http://www.mcleanbible.org	McLean Bible Church	Lon Solomon	McLean	VA	11748	NONDENOM\
+http://www.faithdeliverance.org	Faith Deliverance Christian Center	Sharon Riley	Norfolk	VA	2000	COC\
+http://firstnorfolk.org	First Baptist Norfolk	Eric Thomas	Norfolk	VA	2462	SBC\
+http://www.crcglobal.org	Calvary Revival Church	Courtney McBath	Norfolk	VA	8000	NONDENOM\
+http://www.grovebaptistchurch.com	Grove Church	Melvin Marriner	Portsmouth	VA	2363	BAPT\
+http://www.restonbible.org	Reston Bible Church	Edward Nalle	Reston	VA	1800	NONDENOM\
+http://www.theroc.com	Richmond Outreach Center	Geronimo Aguilar	Richmond	VA	5500	UNK\
+http://www.faithlandmarks.org	Faith Landmarks Ministries	Randy Gilbert	Richmond	VA	5000	UNK\
+http://www.myspbc.org	Saint Paul's Baptist Church	Lance Watson	Richmond	VA	6257	SBC\
+http://www.weag.org	West End Assembly of God	John Hershman	Richmond	VA	2100	AG\
+http://www.immanuelbible.net	Immanuel Bible Church	Ron Jones	Springfield	VA	4000	NONDENOM\
+http://www.rockchurch.org	The Rock Church International	Anne Gimenez	Virginia Beach	VA	2225	NONDENOM\
+http://www.asbc.net	Atlantic Shores Baptist Church	Kyle Wall	Virginia Beach	VA	2000	SBC\
+http://www.kpc.org	Kempsville Presbyterian Church	Nathan Atwood	Virginia Beach	VA	2200	EPC\
+http://www.newlifeprovidence.com	New Life Providence Church	Dan Backens	Virginia Beach	VA	2500	NONDENOM\
+http://www.wavechurch.com	Wave Church	Stephen Kelly	Virginia Beach	VA	4000	NONDENOM\
+http://www.wcchapel.org	Williamsburg Community Chapel	Bill Warrick	Williamsburg	VA	2400	UNK\
+http://www.christchapel.org	Christ Chapel	Bill Roberts	Woodbridge	VA	1862	AG\
+http://www.harvestlifechangers.com	Harvest Life Changers World Ministries	Lyle &amp; Deborah Dukes	Woodbridge	VA	2000	NONDENOM\
+http://www.watersedgechurch.net	Waters Edge Church	Stuart Hodges	Yorktown	VA	3000	NONDENOM\
+http://www.graceinauburn.com	Grace Community Church	Mike Moran	Auburn	WA	2000	CBA\
+http://www.cbccross.net	Crossroads Bible Church	Jerry Mitchell	Bellevue	WA	2100	BGC\
+http://www.westminster.org	Westminster Chapel	Gary Gulbranson	Bellevue	WA	3000	NONDENOM\
+http://www.fpcbellevue.org	First Presbyterian Church of Bellevue	Scott Dudley	Bellevue	WA	2203	PCUSA\
+http://www.cornwallchurch.com	Cornwall Church	Bob Marvel	Bellingham	WA	2300	COGA\
+http://www.ctkbellingham.com	Christ the King Community Church	Grant Fishbook	Bellingham	WA	4000	NONDENOM\
+http://www.eastsidechurch.org	Eastside Foursquare Church	DJ Vick	Bothell	WA	2300	4SQ\
+http://www.seattlenewlife.org	New Life Fellowship-Community Church of Seattle	Justin Kim	Bothell	WA	3000	UNK\
+http://www.eastlakecc.com	East Lake Community Church	Ryan Meeks	Bothell	WA	4500	NONDENOM\
+http://www.canyonhillscommunitychurch.com	Canyon Hills Community Church	Steve Walker	Bothell	WA	2100	NONDENOM\
+http://www.ctkonline.com	Christ the King Community Church	Dave Browning	Burlington	WA	17000	NONDENOM\
+http://www.westgatechapel.com	Westgate Chapel	Alec Rowlands	Edmonds	WA	2000	NONDENOM\
+http://www.newlifecenter.org	New Life Foursquare Church	Nathan Poetzl	Everett	WA	2700	4SQ\
+http://www.nwcfoursquare.org	Northwest Church	Steve Schell	Federal Way	WA	1800	4SQ\
+http://www.ecaonline.org	Eastridge Church	Steve Jamison	Issaquah	WA	1900	AG\
+http://www.riveroflifefellowship.org	River of Life Fellowship	Jack Holt	Kent	WA	2000	NONDENOM\
+http://www.thecity.org	The City Church	Judah Smith	Kirkland	WA	6300	NONDENOM\
+http://www.nsb.org	Northshore Baptist Church	Jonathan Alexander	Kirland	WA	2400	BAPT\
+http://www.ncctk.com	North County Christ the King Community Church	Kim Ryan	Lynden	WA	1950	NONDENOM\
+http://www.ncwsection.com	Centro Cristiano Ministries	Efrain Pineda	Manson	WA	2000	NONDENOM\
+http://www.goldcreek.org	Gold Creek Community Church	Dan Kellogg	Mill Creek	WA	2389	CHRISTIAN\
+http://www.cascadechurch.org	Cascade Community Church	Nate Hettinga	Monroe	WA	2000	NONDENOM\
+http://www.calvaryfellowship.org	Calvary Fellowship Church	Wayne Taylor	Mountlake Terrace	WA	1900	UNK\
+http://www.livingwater.com	Church of Living Water	Jonathan Cobler	Olympia	WA	2100	4SQ\
+http://www.christmemorial.net	Christ Memorial Church	Marc Pearson	Poulsbo	WA	2000	AG\
+http://www.lighthousehome.org	Lighthouse Christian Center	Art Hunt	Puyallup	WA	1800	CMA\
+http://www.myfoursquarechurch.com	Puyallup Foursquare Church	Roger Archer	Puyallup	WA	3500	4SQ\
+http://www.abchurch.org	Antioch Bible Church	Kenneth Hutcherson	Redmond	WA	3500	NONDENOM\
+http://www.occ.org	Overlake Christian Church	Mike Howerton	Redmond	WA	3000	CHRISTIAN\
+http://www.wacathedral.org	Washington Cathedral	Tim White	Redmond	WA	2000	UNK\
+http://www.newliferenton.com	New Life Church at Renton	Troy Jones	Renton	WA	2733	AG\
+http://www.bethel-church.org	Bethel Church	David Bechtel	Richland	WA	2400	UNK\
+http://www.churchbcc.org	Bethany Community Church	Richard Dahlstrom	Seattle	WA	1800	NONDENOM\
+http://www.marshill.com	Mars Hill Church	Mark Driscoll	Seattle	WA	13109	NONDENOM\
+http://www.mountzion.net	Mount Zion Baptist Church	Cheryl Clemetson	Seattle	WA	2500	BAPT\
+http://www.caseytreat.com	Christian Faith Center	Casey Treat	Seattle	WA	8000	NONDENOM\
+http://www.upc.org	University Presbyterian Church	George Hinman	Seattle	WA	3896	PCUSA\
+http://www.tabernacleseattle.net	Tabernacle Missionary Baptist Church	Robert Manaway	Seattle	WA	1800	UNK\
+http://www.newlifekitsap.com	NewLife Church	Wesley Davis	Silverdale	WA	2500	AG\
+http://www.lifecenter.net	Life Center Foursquare	Joe Wittwer	Spokane	WA	4500	4SQ\
+http://www.spokanefpc.org	First Presbyterian Church	John Sowers	Spokane	WA	2500	PCA\
+http://calvarychapel.com/spokane	Calvary Chapel	Ken Ortize	Spokane	WA	2600	CAL\
+http://www.cccsumner.org	Calvary Community Church	Ray Armstrong	Sumner	WA	3000	NONDENOM\
+http://www.life-center.org	Life Center	Dean Curry	Tacoma	WA	4811	AG\
+http://www.churchforallnations.org	Church For All Nations	William Wolfson	Tacoma	WA	2000	NONDENOM\
+http://www.stjohntacoma.org	Saint John Baptist Church	LeeArthur Madison	Tacoma	WA	2000	UNK\
+http://www.championscentre.com	Champions Centre	Kevin Gerald	Tacoma	WA	5500	NONDENOM\
+http://www.newheights.org	New Heights Church	Matt Hannan	Vancouver	WA	4000	BGC\
+http://www.livinghopechurch.com	Living Hope Church	John Bishop	Vancouver	WA	5200	NONDENOM\
+http://www.crossroadschurch.net	Crossroads Community Church	Bill Ritchie	Vancouver	WA	4000	UNK\
+http://www.wwcitychurch.com	Walla Walla City Seventh-day Adventist Church	Mark Etchell	Walla Walla	WA	1800	SDA\
+http://www.biblecenterchurch.com	Bible Center Church	Eric Mounts	Charleston	WV	2500	NONDENOM\
+http://www.chestnutridgechurch.com	Chestnut Ridge Church	Tim Haring	Morgantown	WV	2400	NONDENOM\
+http://www.mfctoday.org	Maranatha Fellowship Church	James Wright	Saint Albans	WV	2200	UNK\
+http://www.appletonalliance.org	Appleton Alliance Church	Dennis Episcopo	Appleton	WI	3000	CMA\
+http://www.centralwired.com	Central Christian Church	David Clark	Beloit	WI	1981	CHRISTIAN\
+http://www.elmbrook.org	Elmbrook Church	Philip Griffin	Brookfield	WI	8000	UNK\
+http://www.celebrationchurch.tv	Celebration Church - Bayside	Mark Gungor	Green Bay	WI	4000	NONDENOM\
+http://www.hcl.org	Hales Corners Lutheran Church	Mike Ernst	Hales Corners	WI	3000	LUTH\
+http://www.kfaog.org	Kenosha First Assembly	Dan Remus	Kenosha	WI	2400	AG\
+http://bethel-madison.org	Bethel Lutheran Church	William White	Madison	WI	1800	LUTH\
+http://www.doorcreekchurch.org	Door Creek Church	Marc Maillefer	Madison	WI	2000	EF\
+http://www.alliancemissionarychurch.org	Alliance Missionary Church	Mark Lafferty	Marshfield	WI	1800	CMA\
+http://www.christtherock.org	Christ the Rock Community Church	Bill Lenz	Menasha	WI	3000	NONDENOM\
+http://www.christianfaith.org	Christian Faith Fellowship	Darrell Hines	Milwaukee	WI	6000	COGIC\
+http://www.eastbrookchurch.org	Eastbrook Church	Matt Erickson	Milwaukee	WI	2000	NONDENOM\
+http://www.oakcreekag.org	Oak Creek Assembly of God	Jerry Brooks	Oak Creek	WI	2229	AG\
+http://www.blackhawkchurch.org	Blackhawk Church	Chris Dolson	Verona	WI	4000	EF\
+http://www.foxriverchristian.org	Fox River Christian Church	Guy Conn	Waukesha	WI	2400	UNK\
+http://www.hpcc.cc	Highland Park Community Church	John Spear	Casper	WY	2500\
