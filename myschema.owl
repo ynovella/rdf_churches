@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:megachurches="http://vocab.inf.ed.ac.uk/megachurches#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dbpage="http://live.dbpedia.org/page/" xmlns:places="http://purl.or/ontology/places/" xmlns:usgov="http://www.rdfabout.com/rdf/usgov/geo/" xmlns:db="http://dbpedia.org/ontology/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:url="http://purl.org/dc/dcmitype/InteractiveResource/" xmlns:dc="http://purl.org/dc/terms/">
+	<owl:Ontology rdf:about="http://vocab.inf.ed.ac.uk/megachurches#">
+		<rdfs:label>THE USA Megachurches Vocabulary</rdfs:label>
+		<rdfs:comment>Vocabulary includes data about the large USA churches.</rdfs:comment>
+		<dc:creator>
+			<foaf:Person>
+				<foaf:name>Yannick Novella</foaf:name>
+			</foaf:Person>
+		</dc:creator>
+		<dc:creator>
+			<foaf:Person>
+				<foaf:name>Stanislav Ganin</foaf:name>
+			</foaf:Person>
+		</dc:creator>
+		<dc:creator>
+			<foaf:Person>
+				<foaf:name>Dora Popova</foaf:name>
+			</foaf:Person>
+		</dc:creator>
+</owl:Ontology>
+	<rdf:Description rdf:about="http://vocab.inf.ed.ac.uk/megachurches#">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="http://www.w3.org/ns/org#FormalOrganization"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://vocab.inf.ed.ac.uk/megachurches#sinior_minister">
+		<rdfs:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Property" />
+		<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string" />
+		<rdfs:domain rdf:resource="http://vocab.inf.ed.ac.uk/megachurches" />
+		<rdfs:label>Given and family name of a the head minister of the church</rdfs:label>
+	</rdf:Description>
+		<rdf:Description rdf:about="http://vocab.inf.ed.ac.uk/megachurches#weeklyAttendance">
+		<rdfs:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Property" />
+		<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int" />
+		<rdfs:domain rdf:resource="http://vocab.inf.ed.ac.uk/megachurches" />
+		<rdfs:label>Average number of people attending the church weekly</rdfs:label>
+	</rdf:Description>
+</rdf:RDF>
