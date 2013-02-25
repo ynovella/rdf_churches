@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:org="http://www.w3.org/ns/org#FormalOrganization" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/TR/rdf-schema/">
+	<rdfs:Class rdf:about="http://vocab.inf.ed.ac.uk/megachurches#weeklyAttendance"/>
+	<rdfs:Property rdf:about="#weeklyAttendance">
+		<rdfs:domain rdf:resource="http://www.w3.org/ns/org#FormalOrganization" />
+		<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer" />
+	</rdfs:Property>
+	<rdf:Description rdf:about="http://vocab.inf.ed.ac.uk/megachurches#sinior_minister">
+		<rdfs:domain rdf:resource="http://www.w3.org/ns/org#FormalOrganization" />
+		<rdfs:range rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+	</rdf:Description>
+</rdf:RDF>
